@@ -1,0 +1,87 @@
+{
+  "image": "",
+  "state": {
+    "pan": {
+      "x": 0,
+      "y": 0
+    },
+    "zoom": 0.9999999924529988
+  },
+  "board": "icezum",
+  "graph": {
+    "blocks": [
+      {
+        "id": "5e63bca8-458e-4d7a-ae46-dc2e457fdbf7",
+        "type": "basic.input",
+        "data": {
+          "label": "12MHz",
+          "pin": {
+            "name": "CLK",
+            "value": "21"
+          }
+        },
+        "position": {
+          "x": 64,
+          "y": 152
+        }
+      },
+      {
+        "id": "400c2d1d-bce3-4d7a-8ab9-078bd072e1b7",
+        "type": "basic.output",
+        "data": {
+          "label": "1Hz",
+          "pin": {
+            "name": "LED0",
+            "value": "95"
+          }
+        },
+        "position": {
+          "x": 752,
+          "y": 152
+        }
+      },
+      {
+        "id": "b167fc5b-d193-4061-946a-985d3f2ec809",
+        "type": "basic.code",
+        "data": {
+          "code": "// Div 12MHz to 1Hz\n\nparameter M = 12_000_000;\nlocalparam N = $clog2(M);\n\nreg [N-1:0] c = 0;\n\nalways @(posedge clk_in)\n  c <= (c == M - 1) ? 0 : c + 1;\n\nassign clk_out = c[N-1];",
+          "ports": {
+            "in": [
+              "clk_in"
+            ],
+            "out": [
+              "clk_out"
+            ]
+          }
+        },
+        "position": {
+          "x": 248,
+          "y": 56
+        }
+      }
+    ],
+    "wires": [
+      {
+        "source": {
+          "block": "5e63bca8-458e-4d7a-ae46-dc2e457fdbf7",
+          "port": "out"
+        },
+        "target": {
+          "block": "b167fc5b-d193-4061-946a-985d3f2ec809",
+          "port": "clk_in"
+        }
+      },
+      {
+        "source": {
+          "block": "b167fc5b-d193-4061-946a-985d3f2ec809",
+          "port": "clk_out"
+        },
+        "target": {
+          "block": "400c2d1d-bce3-4d7a-8ab9-078bd072e1b7",
+          "port": "in"
+        }
+      }
+    ]
+  },
+  "deps": {}
+}
