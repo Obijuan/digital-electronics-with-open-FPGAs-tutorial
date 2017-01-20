@@ -75,6 +75,25 @@
             "x": 48,
             "y": 256
           }
+        },
+        {
+          "id": "50f28c26-f4dc-49b0-b35c-1b292fbacd65",
+          "type": "basic.output",
+          "data": {
+            "name": "out",
+            "pins": [
+              {
+                "index": "0",
+                "name": "D11",
+                "value": "142"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 456,
+            "y": 256
+          }
         }
       ],
       "wires": [
@@ -105,6 +124,16 @@
           },
           "target": {
             "block": "c0d3dfce-7162-40e0-9641-ed2bb4fa813d",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "4e3ebc13-d3fb-4a34-9b43-f9a2ced8c790",
+            "port": "out"
+          },
+          "target": {
+            "block": "50f28c26-f4dc-49b0-b35c-1b292fbacd65",
             "port": "in"
           }
         }
