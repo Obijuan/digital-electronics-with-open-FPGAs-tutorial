@@ -26,15 +26,15 @@
             "virtual": false
           },
           "position": {
-            "x": 88,
-            "y": 64
+            "x": 368,
+            "y": 56
           }
         },
         {
           "id": "51a292aa-a94e-4740-ae83-2746afda1767",
           "type": "c91ccaa367351314fdd1ed7784836fe9155f7ecc",
           "position": {
-            "x": 440,
+            "x": 528,
             "y": 136
           }
         },
@@ -53,7 +53,7 @@
             "virtual": false
           },
           "position": {
-            "x": 680,
+            "x": 672,
             "y": 136
           }
         },
@@ -75,6 +75,17 @@
             "x": 88,
             "y": 152
           }
+        },
+        {
+          "id": "601d16ec-2836-4bd2-8682-9617ff75b12d",
+          "type": "basic.info",
+          "data": {
+            "info": "ServoBit 180: Ejemplo 1\n-----------------------\n\nEjemplo de visualización de 1 bit en el servo\n\nCuando el pulsador no está apretado, la corona\ndel servo apunta hacia la derecha\n\nAl apretar el pulsador, se mueve a la posicion\nizquierda (representando el estado 1 del bit)\n\nLa señal de reloj CLK es necesaria para que el\ncontrolador ServoBit-180 funcione correctamente,\nsin embargo no afecta a la lógica del ejemplo"
+          },
+          "position": {
+            "x": 32,
+            "y": 240
+          }
         }
       ],
       "wires": [
@@ -90,6 +101,16 @@
         },
         {
           "source": {
+            "block": "de159724-2d3e-4c6a-8cc7-63d1b74eade6",
+            "port": "out"
+          },
+          "target": {
+            "block": "51a292aa-a94e-4740-ae83-2746afda1767",
+            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
+          }
+        },
+        {
+          "source": {
             "block": "28443a1c-95de-48d3-a6f7-61d9d269cf99",
             "port": "out"
           },
@@ -99,20 +120,10 @@
           },
           "vertices": [
             {
-              "x": 368,
-              "y": 128
+              "x": 496,
+              "y": 120
             }
           ]
-        },
-        {
-          "source": {
-            "block": "de159724-2d3e-4c6a-8cc7-63d1b74eade6",
-            "port": "out"
-          },
-          "target": {
-            "block": "51a292aa-a94e-4740-ae83-2746afda1767",
-            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
-          }
         }
       ]
     },
