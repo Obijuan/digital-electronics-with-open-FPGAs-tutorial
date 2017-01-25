@@ -31,11 +31,11 @@
           }
         },
         {
-          "id": "27f74d79-ad73-43e4-8707-eabf47a66568",
-          "type": "4a3e3fe3a29b6b87cee4481f393d8eddc3ade201",
+          "id": "d9105f9f-7e4d-4830-8c29-d73ba0cb80eb",
+          "type": "7abb68f1535a8775e898edd369d6c1bda12dc1ca",
           "position": {
-            "x": 456,
-            "y": 144
+            "x": 520,
+            "y": 136
           }
         },
         {
@@ -53,8 +53,8 @@
             "virtual": false
           },
           "position": {
-            "x": 640,
-            "y": 144
+            "x": 680,
+            "y": 136
           }
         },
         {
@@ -73,30 +73,26 @@
           },
           "position": {
             "x": 88,
-            "y": 160
+            "y": 152
           }
         }
       ],
       "wires": [
         {
           "source": {
-            "block": "27f74d79-ad73-43e4-8707-eabf47a66568",
-            "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
-          },
-          "target": {
-            "block": "87553ab7-fc7b-4493-be64-136b05fc8e72",
-            "port": "in"
-          }
-        },
-        {
-          "source": {
             "block": "28443a1c-95de-48d3-a6f7-61d9d269cf99",
             "port": "out"
           },
           "target": {
-            "block": "27f74d79-ad73-43e4-8707-eabf47a66568",
+            "block": "d9105f9f-7e4d-4830-8c29-d73ba0cb80eb",
             "port": "f9f4add8-1ca6-49c0-adae-0d1a45025fc1"
-          }
+          },
+          "vertices": [
+            {
+              "x": 456,
+              "y": 128
+            }
+          ]
         },
         {
           "source": {
@@ -104,8 +100,18 @@
             "port": "out"
           },
           "target": {
-            "block": "27f74d79-ad73-43e4-8707-eabf47a66568",
+            "block": "d9105f9f-7e4d-4830-8c29-d73ba0cb80eb",
             "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
+          }
+        },
+        {
+          "source": {
+            "block": "d9105f9f-7e4d-4830-8c29-d73ba0cb80eb",
+            "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
+          },
+          "target": {
+            "block": "87553ab7-fc7b-4493-be64-136b05fc8e72",
+            "port": "in"
           }
         }
       ]
@@ -119,13 +125,13 @@
     }
   },
   "dependencies": {
-    "4a3e3fe3a29b6b87cee4481f393d8eddc3ade201": {
+    "7abb68f1535a8775e898edd369d6c1bda12dc1ca": {
       "package": {
         "name": "ServoBit_180",
         "version": "0.1",
-        "description": "Controlador de 1 bit para mover servo a 2 posiciones. El ángulo entre una posición y otra es de 180 grados",
+        "description": "Controlador de 1 bit para mover un servo a 2 posiciones. El ángulo entre una posición y otra es de 180 grados",
         "author": "Juan Gonzalez-Gomez y Jesus Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2081%2050%22%20width=%2281%22%20height=%2250%22%3E%3Cpath%20d=%22M-188.44%20420.151l11.193-10.393-.829%2034.507-10.778%205.82z%22%20fill=%22#ccc%22%20fill-rule=%22evenodd%22%20stroke=%22#000%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-243.571%20420.525v29.144h54.717v-29.518z%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#000%22/%3E%3Cpath%20d=%22M-243.572%20420.567l11.607-10.394%2054.718-.415-10.778%2011.225z%22%20fill=%22#999%22%20fill-rule=%22evenodd%22%20stroke=%22#000%22%20stroke-linejoin=%22round%22/%3E%3Cellipse%20cx=%22-183.709%22%20cy=%22405.047%22%20rx=%2215.805%22%20ry=%226.814%22%20transform=%22matrix(.99976%20-.02173%20-.04249%20.9991%200%200)%22%20fill=%22#999%22%20stroke=%22#000%22%20stroke-width=%221.001%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2081%2055%22%20width=%2281%22%20height=%2255%22%3E%3Cdefs%3E%3Cmarker%20orient=%22auto%22%20id=%22a%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M1.926%201.21L-1.352.005l3.278-1.206a2.05%202.05%200%200%200%200%202.411z%22%20fill-rule=%22evenodd%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22%20stroke=%22#00f%22%20fill=%22#00f%22/%3E%3C/marker%3E%3Cmarker%20orient=%22auto%22%20id=%22b%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M-1.926-1.21L1.352-.005l-3.278%201.206a2.05%202.05%200%200%200%200-2.411z%22%20fill-rule=%22evenodd%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22%20stroke=%22#00f%22%20fill=%22#00f%22/%3E%3C/marker%3E%3C/defs%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-248.985%22%20y=%22453.206%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%3E%3Ctspan%20x=%22-248.985%22%20y=%22453.206%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3EServoBit%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M-239.668%20433.115v-.325h-6.71a.575.557%200%200%201-.576-.558v-15.7a.575.557%200%200%201%20.575-.558h6.711v-.325a.575.557%200%200%201%20.575-.558h37.484a.575.557%200%200%201%20.575.558v.325h6.711a.575.557%200%200%201%20.575.557v15.701a.575.557%200%200%201-.575.558h-6.71v.325a.575.557%200%200%201-.576.558h-37.484a.575.557%200%200%201-.575-.558%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-419.69%22%20cx=%22-243.79%22%20transform=%22scale(1%20-1)%22%20rx=%222.061%22%20ry=%221.997%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.074%22%20cx=%22-243.79%22%20transform=%22scale(1%20-1)%22%20rx=%222.061%22%20ry=%221.997%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-419.69%22%20cx=%22-196.911%22%20transform=%22scale(1%20-1)%22%20rx=%222.061%22%20ry=%221.997%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.074%22%20cx=%22-196.911%22%20transform=%22scale(1%20-1)%22%20rx=%222.061%22%20ry=%221.997%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cg%20transform=%22matrix(.95867%200%200%20-.92906%20-220.35%20424.382)%22%20stroke-width=%221.184%22%3E%3Ccircle%20cx=%229.45%22%20r=%227.079%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%221.06%22/%3E%3Ctitle%3EFusion009002001_cs001%3C/title%3E%3C/g%3E%3Cpath%20d=%22M-204.68%20425.098c.062-2.442-1.153-4.73-3.18-5.99a6.402%206.402%200%200%200-6.62-.1c-2.063%201.197-3.343%203.447-3.35%205.89l6.579%2016.494z%22%20fill=%22#4d4d4d%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-204.68%20422.743c.062%202.442-1.153%204.73-3.18%205.99a6.402%206.402%200%200%201-6.62.1c-2.063-1.198-3.343-3.447-3.35-5.89l6.579-16.494z%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20stroke-dasharray=%22.99999994,1.99999988%22/%3E%3Cpath%20d=%22M200.795%20441.027a15.455%2017.076%200%200%201-13.642-8.26%2015.455%2017.076%200%200%201-.23-17.186%2015.455%2017.076%200%200%201%2013.417-8.7%22%20transform=%22scale(-1%201)%22%20fill=%22none%22%20stroke=%22#00f%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20marker-start=%22url(#a)%22%20marker-end=%22url(#b)%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-195.982%22%20y=%22453.478%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-195.982%22%20y=%22453.478%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3E180%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
