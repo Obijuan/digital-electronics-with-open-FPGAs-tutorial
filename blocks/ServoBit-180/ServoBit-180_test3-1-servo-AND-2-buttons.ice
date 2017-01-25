@@ -50,10 +50,10 @@
           }
         },
         {
-          "id": "fd41c6fb-f619-4375-8290-a27be96020f1",
-          "type": "c91ccaa367351314fdd1ed7784836fe9155f7ecc",
+          "id": "967655ca-1b69-474a-afe2-492a8d92cbf7",
+          "type": "054bfeb29658539df35dc63cbe18127ada173775",
           "position": {
-            "x": 544,
+            "x": 520,
             "y": 112
           }
         },
@@ -77,10 +77,10 @@
           }
         },
         {
-          "id": "a22d187c-1de7-44f3-bd36-b6f3879781b3",
-          "type": "11a6f454705778e2f00adba4e5b28dcd9411bc8f",
+          "id": "b43907ce-c801-45bb-b54f-e22e94cc05da",
+          "type": "98c8f94e97cf863329b447a3116a234fdd19c372",
           "position": {
-            "x": 272,
+            "x": 240,
             "y": 128
           }
         },
@@ -118,7 +118,7 @@
       "wires": [
         {
           "source": {
-            "block": "fd41c6fb-f619-4375-8290-a27be96020f1",
+            "block": "967655ca-1b69-474a-afe2-492a8d92cbf7",
             "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
           },
           "target": {
@@ -132,15 +132,25 @@
             "port": "out"
           },
           "target": {
-            "block": "fd41c6fb-f619-4375-8290-a27be96020f1",
+            "block": "967655ca-1b69-474a-afe2-492a8d92cbf7",
             "port": "f9f4add8-1ca6-49c0-adae-0d1a45025fc1"
           },
           "vertices": [
             {
-              "x": 480,
+              "x": 472,
               "y": 88
             }
           ]
+        },
+        {
+          "source": {
+            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
+            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
+          },
+          "target": {
+            "block": "967655ca-1b69-474a-afe2-492a8d92cbf7",
+            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
+          }
         },
         {
           "source": {
@@ -148,15 +158,9 @@
             "port": "out"
           },
           "target": {
-            "block": "a22d187c-1de7-44f3-bd36-b6f3879781b3",
+            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
-          },
-          "vertices": [
-            {
-              "x": 200,
-              "y": 128
-            }
-          ]
+          }
         },
         {
           "source": {
@@ -164,24 +168,8 @@
             "port": "out"
           },
           "target": {
-            "block": "a22d187c-1de7-44f3-bd36-b6f3879781b3",
+            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
-          },
-          "vertices": [
-            {
-              "x": 200,
-              "y": 192
-            }
-          ]
-        },
-        {
-          "source": {
-            "block": "a22d187c-1de7-44f3-bd36-b6f3879781b3",
-            "port": "664caf9e-5f40-4df4-800a-b626af702e62"
-          },
-          "target": {
-            "block": "fd41c6fb-f619-4375-8290-a27be96020f1",
-            "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
           }
         }
       ]
@@ -195,7 +183,7 @@
     }
   },
   "dependencies": {
-    "c91ccaa367351314fdd1ed7784836fe9155f7ecc": {
+    "054bfeb29658539df35dc63cbe18127ada173775": {
       "package": {
         "name": "ServoBit_180",
         "version": "0.1",
@@ -210,7 +198,7 @@
               "id": "111d9859-6de5-4608-9176-ed8359ffebc5",
               "type": "basic.code",
               "data": {
-                "code": "//-- ServoBit-180\n\n//-- Control de un servo Futaba 3003\n//-- con un bit. Se mueve a dos posiciones\n//-- que se corresonden con 0 / 1\n//-- El angulo total recorrido es de 180 grados\n\n//-- ENTRADAS:\n//--  clk: Señal del sistema (12Mhz)\n//--  bitpos: Bit de posicion (0 - posicion derecha, 1 - posicion izquierda)\n     \n//   Bitpos 0   Bitpos 1\n//    ___          ___\n//   | o---->  <----o |\n//   |   |        |   |\n//   |___|        |___|\n\n//-- SALIDAS:\n//-- servo : Señal PWM para controlar el servo\n\n//-- Constantes para el angulo del servo\nlocalparam ANG_0   = 8'h01;\nlocalparam ANG_180 = 8'hE4;\n\n\n//-- Posicion del servo cuando el\n//-- bit de entrada es 0\n//-- La corona del servo mira a la derecha\nparameter BIT0 = ANG_0;\n\n//-- Posicion el servo cuando el bit\n//-- de entrada es 1\n//-- La corona del servo mira a la izquierda\nparameter BIT1 = ANG_180;\n\n\n//-- Posicion de 8 bits del servo\nreg [7:0] pos;\n\n//-- Asignar la posicion de 8 bits\n//-- segun si lo recibido es 0 ó 1\nalways @(posedge clk)\n  pos <= bitpos ? BIT1 : BIT0;\n\n\n//---\n//--- ServoMotor \n\n//-- M es el valor del divisor para\n//-- obtener tics de M / 12.0 micro-segundos\nlocalparam M = 94; \nlocalparam N = $clog2(M);\n\n//-- Contador para generar los tics\nreg [N-1:0] divcounter = 0;\n\n//-- Flag para indicar que un tic\n//-- ha ocurrido\nreg tic = 0;\n\n//-- Generacion de los tics. Cada\n//-- M ciclos del reloj se genera 1\nalways @(posedge clk)\n tic <= (divcounter == M - 2);\n\n//-- Contador modulo M\nalways @(posedge clk)\n if (tic)\n   divcounter <= 0;\n else\n   divcounter <= divcounter + 1;\n\n//-- Contador de la posicion del \n//-- servo\nreg [10:0] angle_counter = 0;\n\n//-- A la posicion destino hay que\n//-- sumarle un offset, correspondiente\n//-- a los 0.3ms de la posicion inicial\nwire [8:0] pose = {1'b0, pos} + 9'd46;\n\n//-- Con cada tic se incrementa el\n//-- contador de angulo del servo\nalways @(posedge clk)\n if (tic)\n   angle_counter <= angle_counter + 1;\n\n//-- Cuando el contador es menor que el \n//-- valor objetivo, la señal de PWM\n//-- del servo se pone 1, y 0 en \n//-- caso contrario\nalways @(posedge clk)\n servo <= (angle_counter < {2'b00, pose});\n\n",
+                "code": "//-- ServoBit-180\n\n//-- Control de un servo Futaba 3003\n//-- con un bit. Se mueve a dos posiciones\n//-- que se corresonden con 0 / 1\n//-- El angulo total recorrido es de 180 grados\n\n//-- ENTRADAS:\n//--  clk: Señal del sistema (12Mhz)\n//--  bitpos: Bit de posicion (0 - posicion derecha, 1 - posicion izquierda)\n     \n//   Bitpos 0   Bitpos 1\n//    ___          ___\n//   | o---->  <----o |\n//   |   |        |   |\n//   |___|        |___|\n\n//-- SALIDAS:\n//-- servo : Señal PWM para controlar el servo\n\n//-- Constantes para el angulo del servo\nlocalparam ANG_0   = 8'h01;\nlocalparam ANG_180 = 8'hE4;\n\n\n//-- Posicion del servo cuando el\n//-- bit de entrada es 0\n//-- La corona del servo mira a la derecha\nparameter BIT0 = ANG_0;\n\n//-- Posicion el servo cuando el bit\n//-- de entrada es 1\n//-- La corona del servo mira a la izquierda\nparameter BIT1 = ANG_180;\n\n\n//-- Posicion de 8 bits del servo\nreg [7:0] pos;\n\n//-- Asignar la posicion de 8 bits\n//-- segun si lo recibido es 0 ó 1\nalways @(posedge clk)\n  pos <= bitpos ? BIT1 : BIT0;\n\n\n//---\n//--- ServoMotor \n\n//-- M es el valor del divisor para\n//-- obtener tics de M / 12.0 micro-segundos\nlocalparam M = 94; \nlocalparam N = $clog2(M);\n\n//-- Contador para generar los tics\nreg [N-1:0] divcounter = 0;\n\n//-- Flag para indicar que un tic\n//-- ha ocurrido\nreg tic = 0;\n\n//-- Generacion de los tics. Cada\n//-- M ciclos del reloj se genera 1\nalways @(posedge clk)\n tic <= (divcounter == M - 2);\n\n//-- Contador modulo M\nalways @(posedge clk)\n if (tic)\n   divcounter <= 0;\n else\n   divcounter <= divcounter + 1;\n\n//-- Contador de la posicion del \n//-- servo\nreg [10:0] angle_counter = 0;\n\n//-- A la posicion destino hay que\n//-- sumarle un offset, correspondiente\n//-- a los 0.3ms de la posicion inicial\nwire [8:0] pose = {1'b0, pos} + 9'd46;\n\n//-- Con cada tic se incrementa el\n//-- contador de angulo del servo\nalways @(posedge clk)\n if (tic)\n   angle_counter <= angle_counter + 1;\n\n//-- Cuando el contador es menor que el \n//-- valor objetivo, la señal de PWM\n//-- del servo se pone 1, y 0 en \n//-- caso contrario\n\nreg servo;\n\nalways @(posedge clk)\n servo <= (angle_counter < {2'b00, pose});\n\n",
                 "params": [],
                 "ports": {
                   "in": [
@@ -248,7 +236,7 @@
               "id": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22",
               "type": "basic.output",
               "data": {
-                "name": "servo"
+                "name": ""
               },
               "position": {
                 "x": 816,
@@ -259,7 +247,7 @@
               "id": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a",
               "type": "basic.input",
               "data": {
-                "name": "bitpos"
+                "name": ""
               },
               "position": {
                 "x": 56,
@@ -309,13 +297,13 @@
         }
       }
     },
-    "11a6f454705778e2f00adba4e5b28dcd9411bc8f": {
+    "98c8f94e97cf863329b447a3116a234fdd19c372": {
       "package": {
         "name": "AND",
-        "version": "1.0.0",
-        "description": "AND logic gate",
-        "author": "Jesús Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cpath%20d=%22M-252%20409.9h26v2h-26zM-252%20429.9h27v2h-27z%22/%3E%3Cpath%20d=%22M-227%20400.9v39.9h20.4c11.3%200%2020-9%2020-20s-8.7-20-20-20H-227zm2.9%202.8h17.6c9.8%200%2016.7%207.6%2016.7%2017.1%200%209.5-7.4%2017.1-17.1%2017.1H-224c-.1.1-.1-34.2-.1-34.2z%22/%3E%3Cpath%20d=%22M-187.911%20419.9H-162v2h-25.911z%22/%3E%3C/svg%3E"
+        "version": "1.0.1",
+        "description": "Puerta AND",
+        "author": "Jesús Arroyo, Juan González",
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cg%20fill=%22none%22%20stroke=%22#000%22%3E%3Cpath%20d=%22M-205.685%20439.896h-19.631v-37.47h19.63s17.82%201.737%2017.82%2018.516c0%2016.78-17.82%2018.954-17.82%2018.954z%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-250.832%20410.818h24.08M-250.832%20430.785h24.08M-187.107%20420.708h24.08%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/g%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -324,7 +312,7 @@
               "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
               "type": "basic.code",
               "data": {
-                "code": "// AND logic gate\n\nassign c = a & b;",
+                "code": "//-- Puerta AND\n\nassign c = a & b;\n\n",
                 "params": [],
                 "ports": {
                   "in": [
