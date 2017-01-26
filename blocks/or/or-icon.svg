@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90"
-   height="40"
+   width="89.128662"
+   height="40.076889"
    version="1"
    id="svg2"
    inkscape:version="0.91 r13725"
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,24 +36,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="1000"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="3.3111111"
-     inkscape:cx="40.421497"
-     inkscape:cy="32.315294"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:cx="-11.607269"
+     inkscape:cy="32.305227"
+     inkscape:window-x="69"
+     inkscape:window-y="1048"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.23346431,0.08695689)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 40.320448,38.489933 -18.425679,0 c 0,0 6.141893,-8.537969 6.291695,-18.873404 C 28.336267,9.2810945 21.744967,1.4920706 21.744967,1.4920706 L 40.431721,1.4130431 C 49.83267,1.804138 61.460891,12.139726 65.337425,20.215685 58.738837,33.765315 46.683674,38.238796 40.320448,38.489933 Z"
