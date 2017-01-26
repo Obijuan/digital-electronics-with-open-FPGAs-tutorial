@@ -7,11 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="-252 400.9 90 40"
+   viewBox="-252 400.9 89.832588 40.470242"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="and-icon.svg">
+   sodipodi:docname="and-icon.svg"
+   width="89.832588"
+   height="40.470242">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -20,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,24 +37,29 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="1000"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview10"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.6555556"
-     inkscape:cx="45.672092"
-     inkscape:cy="71.283169"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:zoom="3.3111112"
+     inkscape:cx="1.9786876"
+     inkscape:cy="35.150793"
+     inkscape:window-x="69"
+     inkscape:window-y="1048"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.15384751,-0.0256561)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -205.68517,439.89589 -19.63087,0 0,-37.47024 19.63087,0 0,0 0,0 c 0,0 17.8188,1.7373 17.8188,18.51662 0,16.77931 -17.8188,18.95362 -17.8188,18.95362 z"
