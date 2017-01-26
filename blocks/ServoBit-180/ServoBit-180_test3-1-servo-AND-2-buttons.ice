@@ -50,10 +50,10 @@
           }
         },
         {
-          "id": "3b374561-2de4-4d0d-9225-640b78ef81cf",
-          "type": "2fe21ccf21bdcdedeb8361f154b863226cbcba17",
+          "id": "d4bba07c-a847-4f12-980a-2b335e62c1a9",
+          "type": "70c17a5480b46b45fec708393837e5c64e21e1b1",
           "position": {
-            "x": 512,
+            "x": 504,
             "y": 112
           }
         },
@@ -77,10 +77,10 @@
           }
         },
         {
-          "id": "b43907ce-c801-45bb-b54f-e22e94cc05da",
-          "type": "98c8f94e97cf863329b447a3116a234fdd19c372",
+          "id": "1ec699bd-86c9-40d7-ace5-434c11e72e4d",
+          "type": "16124060c91b761a61a0c26ac97d5e7e919df783",
           "position": {
-            "x": 240,
+            "x": 224,
             "y": 128
           }
         },
@@ -122,7 +122,7 @@
             "port": "out"
           },
           "target": {
-            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
+            "block": "1ec699bd-86c9-40d7-ace5-434c11e72e4d",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
@@ -132,13 +132,13 @@
             "port": "out"
           },
           "target": {
-            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
+            "block": "1ec699bd-86c9-40d7-ace5-434c11e72e4d",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
         {
           "source": {
-            "block": "3b374561-2de4-4d0d-9225-640b78ef81cf",
+            "block": "d4bba07c-a847-4f12-980a-2b335e62c1a9",
             "port": "eac2d6e9-4a62-4aec-8ce8-0e6c54e14d22"
           },
           "target": {
@@ -152,23 +152,23 @@
             "port": "out"
           },
           "target": {
-            "block": "3b374561-2de4-4d0d-9225-640b78ef81cf",
+            "block": "d4bba07c-a847-4f12-980a-2b335e62c1a9",
             "port": "f9f4add8-1ca6-49c0-adae-0d1a45025fc1"
           },
           "vertices": [
             {
-              "x": 472,
+              "x": 464,
               "y": 88
             }
           ]
         },
         {
           "source": {
-            "block": "b43907ce-c801-45bb-b54f-e22e94cc05da",
+            "block": "1ec699bd-86c9-40d7-ace5-434c11e72e4d",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
-            "block": "3b374561-2de4-4d0d-9225-640b78ef81cf",
+            "block": "d4bba07c-a847-4f12-980a-2b335e62c1a9",
             "port": "e3e07bdb-9bb3-4afb-ace5-bcc99aecef0a"
           }
         }
@@ -183,13 +183,13 @@
     }
   },
   "dependencies": {
-    "2fe21ccf21bdcdedeb8361f154b863226cbcba17": {
+    "70c17a5480b46b45fec708393837e5c64e21e1b1": {
       "package": {
         "name": "ServoBit_180",
         "version": "0.1",
         "description": "Controlador de 1 bit para mover un servo a 2 posiciones. El ángulo entre una posición y otra es de 180 grados",
         "author": "Juan Gonzalez-Gomez y Jesus Arroyo",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2081%2055%22%20width=%2281%22%20height=%2255%22%3E%3Cdefs%3E%3Cmarker%20orient=%22auto%22%20id=%22a%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M1.926%201.21L-1.352.005l3.278-1.206a2.05%202.05%200%200%200%200%202.411z%22%20fill-rule=%22evenodd%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22%20stroke=%22#00f%22%20fill=%22#00f%22/%3E%3C/marker%3E%3Cmarker%20orient=%22auto%22%20id=%22b%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M-1.926-1.21L1.352-.005l-3.278%201.206a2.05%202.05%200%200%200%200-2.411z%22%20fill-rule=%22evenodd%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22%20stroke=%22#00f%22%20fill=%22#00f%22/%3E%3C/marker%3E%3C/defs%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-249.529%22%20y=%22455.924%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%3E%3Ctspan%20x=%22-249.529%22%20y=%22455.924%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3EServoBit%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M-237.619%20434.263v-.395h-8.13a.697.677%200%200%201-.698-.677v-19.076a.697.677%200%200%201%20.697-.677h8.131v-.395a.697.677%200%200%201%20.697-.678h45.415a.697.677%200%200%201%20.697.678v.395h8.13a.697.677%200%200%201%20.698.677v19.076a.697.677%200%200%201-.697.677h-8.13v.395a.697.677%200%200%201-.698.678h-45.415a.697.677%200%200%201-.697-.678%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-417.953%22%20cx=%22-242.614%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.353%22%20cx=%22-242.614%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-417.953%22%20cx=%22-185.815%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.353%22%20cx=%22-185.815%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cg%20transform=%22matrix(1.16152%200%200%20-1.12877%20-214.214%20423.653)%22%20stroke-width=%221.184%22%3E%3Ccircle%20cx=%229.45%22%20r=%227.079%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%22.873%22/%3E%3Ctitle%3EFusion009002001_cs001%3C/title%3E%3C/g%3E%3Cpath%20d=%22M-195.227%20424.523c.075-2.967-1.397-5.746-3.854-7.278a7.738%207.738%200%200%200-8.02-.122c-2.5%201.456-4.05%204.19-4.06%207.157l7.972%2020.04z%22%20fill=%22#4d4d4d%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-195.227%20421.661c.075%202.967-1.397%205.747-3.854%207.278a7.738%207.738%200%200%201-8.02.123c-2.5-1.456-4.05-4.19-4.06-7.158l7.972-20.039z%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20stroke-dasharray=%22.99999994,1.99999986%22/%3E%3Cpath%20d=%22M190.52%20443.876a18.725%2020.747%200%200%201-16.528-10.035%2018.725%2020.747%200%200%201-.278-20.88%2018.725%2020.747%200%200%201%2016.255-10.571%22%20transform=%22scale(-1%201)%22%20fill=%22none%22%20stroke=%22#00f%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20marker-start=%22url(#a)%22%20marker-end=%22url(#b)%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-191.089%22%20y=%22456.196%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-191.089%22%20y=%22456.196%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3E180%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2078.107574%2055.244213%22%20width=%2278.108%22%20height=%2255.244%22%3E%3Cdefs%3E%3Cmarker%20orient=%22auto%22%20id=%22a%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M1.926%201.21L-1.352.005l3.278-1.206a2.05%202.05%200%200%200%200%202.411z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3Cmarker%20orient=%22auto%22%20id=%22b%22%20overflow=%22visible%22%3E%3Cpath%20d=%22M-1.926-1.21L1.352-.005l-3.278%201.206a2.05%202.05%200%200%200%200-2.411z%22%20fill=%22#00f%22%20fill-rule=%22evenodd%22%20stroke=%22#00f%22%20stroke-width=%22.1875%22%20stroke-linejoin=%22round%22/%3E%3C/marker%3E%3C/defs%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-252.718%22%20y=%22455.731%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%3E%3Ctspan%20x=%22-252.718%22%20y=%22455.731%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3EServoBit%3C/tspan%3E%3C/text%3E%3Cpath%20d=%22M-240.808%20434.07v-.395h-8.13a.697.677%200%200%201-.698-.677v-19.076a.697.677%200%200%201%20.697-.678h8.13v-.395a.697.677%200%200%201%20.698-.677h45.415a.697.677%200%200%201%20.697.677v.395h8.13a.697.677%200%200%201%20.698.678v19.076a.697.677%200%200%201-.697.677H-194v.395a.697.677%200%200%201-.697.678h-45.415a.697.677%200%200%201-.697-.678%22%20fill=%22gray%22%20fill-rule=%22evenodd%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-417.76%22%20cx=%22-245.803%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.16%22%20cx=%22-245.803%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-417.76%22%20cx=%22-189.004%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cellipse%20cy=%22-429.16%22%20cx=%22-189.004%22%20transform=%22scale(1%20-1)%22%20rx=%222.497%22%20ry=%222.427%22%20fill=%22#fff%22%20stroke=%22#191919%22/%3E%3Cg%20transform=%22matrix(1.16152%200%200%20-1.12877%20-217.404%20423.46)%22%20stroke-width=%221.184%22%3E%3Ccircle%20cx=%229.45%22%20r=%227.079%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-width=%22.873%22/%3E%3Ctitle%3EFusion009002001_cs001%3C/title%3E%3C/g%3E%3Cpath%20d=%22M-198.416%20424.33c.074-2.967-1.398-5.747-3.855-7.278a7.738%207.738%200%200%200-8.02-.122c-2.499%201.455-4.05%204.19-4.06%207.157l7.972%2020.04z%22%20fill=%22#4d4d4d%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-198.416%20421.468c.074%202.967-1.398%205.747-3.855%207.278a7.738%207.738%200%200%201-8.02.123c-2.499-1.456-4.05-4.19-4.06-7.158l7.972-20.04z%22%20fill=%22none%22%20stroke=%22#191919%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20stroke-dasharray=%22.99999994,1.99999986%22/%3E%3Cpath%20d=%22M193.71%20443.683a18.725%2020.747%200%200%201-16.529-10.035%2018.725%2020.747%200%200%201-.277-20.88%2018.725%2020.747%200%200%201%2016.254-10.571%22%20transform=%22scale(-1%201)%22%20fill=%22none%22%20stroke=%22#00f%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20marker-start=%22url(#a)%22%20marker-end=%22url(#b)%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%22-194.278%22%20y=%22456.003%22%20font-weight=%22400%22%20font-size=%2217.5%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22red%22%3E%3Ctspan%20x=%22-194.278%22%20y=%22456.003%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%20font-size=%2210%22%3E180%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -297,13 +297,13 @@
         }
       }
     },
-    "98c8f94e97cf863329b447a3116a234fdd19c372": {
+    "16124060c91b761a61a0c26ac97d5e7e919df783": {
       "package": {
         "name": "AND",
         "version": "1.0.1",
         "description": "Puerta AND",
         "author": "Jesús Arroyo, Juan González",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2090%2040%22%3E%3Cg%20fill=%22none%22%20stroke=%22#000%22%3E%3Cpath%20d=%22M-205.685%20439.896h-19.631v-37.47h19.63s17.82%201.737%2017.82%2018.516c0%2016.78-17.82%2018.954-17.82%2018.954z%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-250.832%20410.818h24.08M-250.832%20430.785h24.08M-187.107%20420.708h24.08%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/g%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2089.832588%2040.470242%22%20width=%2289.833%22%20height=%2240.47%22%3E%3Cg%20fill=%22none%22%20stroke=%22#000%22%3E%3Cpath%20d=%22M-205.839%20439.87h-19.63V402.4h19.63s17.819%201.737%2017.819%2018.517c0%2016.779-17.819%2018.953-17.819%2018.953z%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-250.986%20410.792h24.08M-250.986%20430.76h24.08M-187.26%20420.683h24.078%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/g%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
