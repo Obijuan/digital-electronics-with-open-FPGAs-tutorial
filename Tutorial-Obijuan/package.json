@@ -1,0 +1,23 @@
+{
+  "name": "Tutorial Obijuan",
+  "version": "0.1.4",
+  "description": "Tutorial de electrónica digital con FPGAs libres (Mar/03/2017)",
+  "keywords": "Tutorial, collection, Basic, workshop",
+  "license": "GPL-2.0",
+  "authors" : [
+    {
+      "name": "Jesús Arroyo",
+      "email": "",
+      "url": ""
+    },
+    {
+      "name": "Juan González",
+      "email": "obijuan.cube@gmail.com",
+      "url": "https://github.com/Obijuan"
+    },
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial"
+  }
+}

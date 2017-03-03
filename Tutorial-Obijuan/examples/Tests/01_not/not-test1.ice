@@ -31,11 +31,15 @@
           }
         },
         {
-          "id": "f1d1a79b-3b91-43f1-b1a4-b201aa14d4e2",
-          "type": "c65c9fa8003839f90131084f06f6e74a4ae09b37",
+          "id": "ebcf5d72-196a-4029-aead-3856084150cf",
+          "type": "c3b0cd1ced4af22b81c35c979a77dd89c9eba2f6",
           "position": {
-            "x": 232,
+            "x": 248,
             "y": 56
+          },
+          "size": {
+            "width": 96,
+            "height": 64
           }
         },
         {
@@ -61,7 +65,7 @@
       "wires": [
         {
           "source": {
-            "block": "f1d1a79b-3b91-43f1-b1a4-b201aa14d4e2",
+            "block": "ebcf5d72-196a-4029-aead-3856084150cf",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -75,7 +79,7 @@
             "port": "out"
           },
           "target": {
-            "block": "f1d1a79b-3b91-43f1-b1a4-b201aa14d4e2",
+            "block": "ebcf5d72-196a-4029-aead-3856084150cf",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         }
@@ -90,10 +94,10 @@
     }
   },
   "dependencies": {
-    "c65c9fa8003839f90131084f06f6e74a4ae09b37": {
+    "c3b0cd1ced4af22b81c35c979a77dd89c9eba2f6": {
       "package": {
         "name": "NOT",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "description": "Puerta NOT",
         "author": "Jesús Arroyo, Juan González",
         "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2284.738%22%20height=%2240.767%22%20version=%221%22%3E%3Cpath%20d=%22M25.816%201.5L59.44%2020.383%2025.816%2039.267V1.5z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Ccircle%20cx=%2264.98%22%20cy=%2220.324%22%20r=%224.444%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M1.014%2020.477h24.65M69.835%2020.477h13.89%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E"
@@ -105,7 +109,7 @@
               "id": "5365ed8c-e5db-4445-938f-8d689830ea5c",
               "type": "basic.code",
               "data": {
-                "code": "//-- Puerta NOT\n\nassign c = ~a;\n",
+                "code": "//-- Puerta NOT\n\n//-- module (input wire a, output wire c);\n\n\nassign c = ~a;\n\n\n//-- endmodule\n",
                 "params": [],
                 "ports": {
                   "in": [
@@ -123,6 +127,10 @@
               "position": {
                 "x": 256,
                 "y": 48
+              },
+              "size": {
+                "width": 400,
+                "height": 256
               }
             },
             {

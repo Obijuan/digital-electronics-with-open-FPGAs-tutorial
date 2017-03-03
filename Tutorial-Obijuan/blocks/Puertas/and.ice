@@ -1,26 +1,29 @@
 {
   "version": "1.1",
   "package": {
-    "name": "NOT",
+    "name": "AND",
     "version": "1.0.1",
-    "description": "Puerta NOT",
+    "description": "Puerta AND",
     "author": "Jesús Arroyo, Juan González",
-    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2284.738%22%20height=%2240.767%22%20version=%221%22%3E%3Cpath%20d=%22M25.816%201.5L59.44%2020.383%2025.816%2039.267V1.5z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Ccircle%20cx=%2264.98%22%20cy=%2220.324%22%20r=%224.444%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M1.014%2020.477h24.65M69.835%2020.477h13.89%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/svg%3E"
+    "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%22-252%20400.9%2089.832588%2040.470242%22%20width=%2289.833%22%20height=%2240.47%22%3E%3Cg%20fill=%22none%22%20stroke=%22#000%22%3E%3Cpath%20d=%22M-205.839%20439.87h-19.63V402.4h19.63s17.819%201.737%2017.819%2018.517c0%2016.779-17.819%2018.953-17.819%2018.953z%22%20stroke-width=%223%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M-250.986%20410.792h24.08M-250.986%20430.76h24.08M-187.26%20420.683h24.078%22%20stroke-width=%222%22%20stroke-linecap=%22round%22/%3E%3C/g%3E%3C/svg%3E"
   },
   "design": {
     "board": "icezum",
     "graph": {
       "blocks": [
         {
-          "id": "5365ed8c-e5db-4445-938f-8d689830ea5c",
+          "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
           "type": "basic.code",
           "data": {
-            "code": "//-- Puerta NOT\n\nassign c = ~a;\n",
+            "code": "//-- Puerta AND\n\nassign c = a & b;\n\n",
             "params": [],
             "ports": {
               "in": [
                 {
                   "name": "a"
+                },
+                {
+                  "name": "b"
                 }
               ],
               "out": [
@@ -51,7 +54,7 @@
           },
           "position": {
             "x": 64,
-            "y": 144
+            "y": 80
           }
         },
         {
@@ -72,6 +75,25 @@
             "x": 752,
             "y": 144
           }
+        },
+        {
+          "id": "97b51945-d716-4b6c-9db9-970d08541249",
+          "type": "basic.input",
+          "data": {
+            "name": "",
+            "pins": [
+              {
+                "index": "0",
+                "name": "",
+                "value": "0"
+              }
+            ],
+            "virtual": true
+          },
+          "position": {
+            "x": 64,
+            "y": 208
+          }
         }
       ],
       "wires": [
@@ -81,13 +103,23 @@
             "port": "out"
           },
           "target": {
-            "block": "5365ed8c-e5db-4445-938f-8d689830ea5c",
+            "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
             "port": "a"
           }
         },
         {
           "source": {
-            "block": "5365ed8c-e5db-4445-938f-8d689830ea5c",
+            "block": "97b51945-d716-4b6c-9db9-970d08541249",
+            "port": "out"
+          },
+          "target": {
+            "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
+            "port": "b"
+          }
+        },
+        {
+          "source": {
+            "block": "00925b04-5004-4307-a737-fa4e97c8b6ab",
             "port": "c"
           },
           "target": {
