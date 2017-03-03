@@ -1,1 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="84.738" height="40.767" version="1"><path d="M25.816 1.5L59.44 20.383 25.816 39.267V1.5z" fill="none" stroke="#000" stroke-width="3" stroke-linejoin="round"/><circle cx="64.98" cy="20.324" r="4.444" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M1.014 20.477h24.65M69.835 20.477h13.89" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="111.58781"
+   height="68.239563"
+   version="1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="not.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="2.4866981"
+     inkscape:cx="68.255268"
+     inkscape:cy="61.415637"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     d="m 24.372287,1.499892 57.289877,32.619026 -57.289877,32.620753 0,-65.239779 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:round" />
+  <ellipse
+     cx="91.101433"
+     cy="34.016998"
+     id="circle6"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     rx="7.5718594"
+     ry="7.6766901" />
+  <path
+     d="m 1.0142425,34.281296 23.0990605,0 m 75.260271,0 11.199986,0"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round"
+     sodipodi:nodetypes="cccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="28.437973"
+     y="39.460049"
+     id="text4142"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4144"
+       x="28.437973"
+       y="39.460049"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Not</tspan></text>
+</svg>
