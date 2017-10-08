@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="691.08148mm"
+   height="241.13875mm"
+   viewBox="0 0 2448.7139 854.42864"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="chip-interior-electronica-digital.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4186"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4441"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4443"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4180"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4186-6"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4186-9"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4441-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4443-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4180-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4186-6-3"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-37"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4186-5"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4441-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4443-22"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4180-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send-3-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4186-6-36"
+         style="fill:#ffb380;fill-opacity:1;fill-rule:evenodd;stroke:#ffb380;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker11474"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path11476"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3-7-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9196-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path9198-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0-7-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3-7-2-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0-7-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3-7-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-6-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-0-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-3-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4796-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4798-8-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="1098.8337"
+     inkscape:cy="565.92823"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="792"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="back"
+     transform="translate(207.21425,1034.5483)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5324"
+       width="2445.7139"
+       height="851.42865"
+       x="-205.71425"
+       y="-1033.0483"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(207.21425,726.28065)">
+    <flowRoot
+       transform="translate(-2865.7142,-509.99999)"
+       xml:space="preserve"
+       id="flowRoot5934"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5936"><rect
+           id="rect5938"
+           width="258.57144"
+           height="160"
+           x="52.857143"
+           y="612.36218" /></flowRegion><flowPara
+         id="flowPara5940" /></flowRoot>    <image
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       width="564.57141"
+       height="423.42859"
+       preserveAspectRatio="none"
+       xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/4Q1DRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUA AAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodp AAQAAAABAAAApAAAANAACvyAAAAnEAAK/IAAACcQQWRvYmUgUGhvdG9zaG9wIENTMiBXaW5kb3dz ADIwMTE6MDU6MjQgMTc6MTY6MzMAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAACgKADAAQAAAAB AAAB4AAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEA AgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAwNAAAAAAAAAEgAAAABAAAASAAAAAH/2P/gABBKRklG AAECAABIAEgAAP/tAAxBZG9iZV9DTQAB/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBEL CgsRFQ8MDA8VGBMTFRMTGBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAENCwsN Dg0QDg4QFA4ODhQUDg4ODhQRDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM DAwM/8AAEQgAeACgAwEiAAIRAQMRAf/dAAQACv/EAT8AAAEFAQEBAQEBAAAAAAAAAAMAAQIEBQYH CAkKCwEAAQUBAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAABBAEDAgQCBQcGCAUDDDMBAAIRAwQh EjEFQVFhEyJxgTIGFJGhsUIjJBVSwWIzNHKC0UMHJZJT8OHxY3M1FqKygyZEk1RkRcKjdDYX0lXi ZfKzhMPTdePzRieUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9jdHV2d3h5ent8fX5/cRAAICAQIE BAMEBQYHBwYFNQEAAhEDITESBEFRYXEiEwUygZEUobFCI8FS0fAzJGLhcoKSQ1MVY3M08SUGFqKy gwcmNcLSRJNUoxdkRVU2dGXi8rOEw9N14/NGlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vYnN0dX Z3eHl6e3x//aAAwDAQACEQMRAD8A9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk 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 ZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAG AAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA//////////// /////////////////wPoAAAAAP////////////////////////////8D6AAAAAD///////////// ////////////////A+gAADhCSU0ECAAAAAAAEAAAAAEAAAJAAAACQAAAAAA4QklNBB4AAAAAAAQA AAAAOEJJTQQaAAAAAANBAAAABgAAAAAAAAAAAAAB4AAAAoAAAAAGAGQAaQBwAC0AMQA0AAAAAQAA AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAKAAAAB4AAAAAAAAAAAAAAAAAAAAAABAAAAAAAA AAAAAAAAAAAAAAAAABAAAAABAAAAAAAAbnVsbAAAAAIAAAAGYm91bmRzT2JqYwAAAAEAAAAAAABS Y3QxAAAABAAAAABUb3AgbG9uZwAAAAAAAAAATGVmdGxvbmcAAAAAAAAAAEJ0b21sb25nAAAB4AAA AABSZ2h0bG9uZwAAAoAAAAAGc2xpY2VzVmxMcwAAAAFPYmpjAAAAAQAAAAAABXNsaWNlAAAAEgAA AAdzbGljZUlEbG9uZwAAAAAAAAAHZ3JvdXBJRGxvbmcAAAAAAAAABm9yaWdpbmVudW0AAAAMRVNs aWNlT3JpZ2luAAAADWF1dG9HZW5lcmF0ZWQAAAAAVHlwZWVudW0AAAAKRVNsaWNlVHlwZQAAAABJ bWcgAAAABmJvdW5kc09iamMAAAABAAAAAAAAUmN0MQAAAAQAAAAAVG9wIGxvbmcAAAAAAAAAAExl ZnRsb25nAAAAAAAAAABCdG9tbG9uZwAAAeAAAAAAUmdodGxvbmcAAAKAAAAAA3VybFRFWFQAAAAB AAAAAAAAbnVsbFRFWFQAAAABAAAAAAAATXNnZVRFWFQAAAABAAAAAAAGYWx0VGFnVEVYVAAAAAEA AAAAAA5jZWxsVGV4dElzSFRNTGJvb2wBAAAACGNlbGxUZXh0VEVYVAAAAAEAAAAAAAlob3J6QWxp Z25lbnVtAAAAD0VTbGljZUhvcnpBbGlnbgAAAAdkZWZhdWx0AAAACXZlcnRBbGlnbmVudW0AAAAP RVNsaWNlVmVydEFsaWduAAAAB2RlZmF1bHQAAAALYmdDb2xvclR5cGVlbnVtAAAAEUVTbGljZUJH Q29sb3JUeXBlAAAAAE5vbmUAAAAJdG9wT3V0c2V0bG9uZwAAAAAAAAAKbGVmdE91dHNldGxvbmcA AAAAAAAADGJvdHRvbU91dHNldGxvbmcAAAAAAAAAC3JpZ2h0T3V0c2V0bG9uZwAAAAAAOEJJTQQo AAAAAAAMAAAAAT/wAAAAAAAAOEJJTQQRAAAAAAABAQA4QklNBBQAAAAAAAQAAAACOEJJTQQMAAAA AAwpAAAAAQAAAKAAAAB4AAAB4AAA4QAAAAwNABgAAf/Y/+AAEEpGSUYAAQIAAEgASAAA/+0ADEFk b2JlX0NNAAH/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEVDwwMDxUYExMVExMY EQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAODhAUDg4OFBQODg4O FBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAB4AKADASIA AhEBAxEB/90ABAAK/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAA AAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGx QiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgU1AQACEQMh MRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0 ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH/9oADAMBAAIR AxEAPwD1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJT//Q9USSSSUp JJJJSkkkklKSSSSUpJJUuodb6T0wfr2VXS7tWTLzP7tLN1rv7LElN1Jcb1D/ABjY7ZZ03Efae1t5 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 tqD9YY/ZF09nVH7ra0fpWvTcU+NTT+CXVXRzW6/Wp/lW3/qHf3rcWWMDJH1hOYGgYxoG6yRJs1Z6 ez6X0PdvWokFFSSSSKH/1PVEkkklKSSSSUs5rXNLXAOa4QQdQQVyNX+K76sNzLci5t19L3F1eI5+ 2pgP+DHo+nbYxn5nqW/zf6Ndekkp5TLw8fAzLMfFqZj0NDTVXU0Ma1pHua1rAP8ACNe5bfRq56cB YDFrnmDpLXEgf9FV/rLTX9lZkbQLWv2mzvtLX+wn93ctar+bZ/VH5EBul5vBwQzqY6fe/wBT7OGy 9vt37WtsZ7fdt/lre6hrgZI8arP+pcsxmn1psHiwH/wOP++rWy2ufi3MaJc6twAHckFIKLn/AFad u6YD/K/76xVvrPHrYE93WD/otRvqoS7o1byCA8y2dOGtaef5TVc6j0vH6g6h1rnsdjP9RhYQJkbX 1v3B3sf/AJ6XRXVuLJ6ViZNfVOoXXVmut1h9NxiHhx372bS72rWSRQiysWjLofj5DPUpsEPbJHn9 JsOap1sZWxtbBtYwBrWjsBoApJJKUkkkkpSSSSSn/9X1RJJJJSkkkklKSSSSU5X1lH+S3H91wP4E LSpM01n+SPyKOTjY+VS6jIYLKnRuYeNDuCLxwkpzj0279tjqAe30TWGuYZ3bgHM0/N2bXLRSSSUp JJJJSkkkklKSSSSUpJJJJSkkkklP/9b1RJfKySSn6pSXyskkp+qUl8rJJKfqlJfKySSn6pSXyskk p+qUl8rJJKfqlJfKySSn6pSXyskkp+qUl8rJJKfqlJfKySSn/9kAOEJJTQQhAAAAAABVAAAAAQEA AAAPAEEAZABvAGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwAAAAEwBBAGQAbwBiAGUAIABQAGgAbwB0 AG8AcwBoAG8AcAAgAEMAUwAyAAAAAQA4QklNBAYAAAAAAAcAAQAAAAEBAP/hOrJodHRwOi8vbnMu YWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6 cmVTek5UY3prYzlkIj8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1w dGs9IjMuMS4xLTExMSI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcv MTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFi b3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv MS4xLyI+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2UvanBlZzwvZGM6Zm9ybWF0PgogICAgICA8 L3JkZjpEZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAg ICAgICAgICAgeG1sbnM6eGFwPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIj4KICAgICAg ICAgPHhhcDpDcmVhdG9yVG9vbD5BZG9iZSBQaG90b3Nob3AgQ1MyIFdpbmRvd3M8L3hhcDpDcmVh dG9yVG9vbD4KICAgICAgICAgPHhhcDpDcmVhdGVEYXRlPjIwMTEtMDUtMjRUMTc6MTY6MzMrMDM6 MDA8L3hhcDpDcmVhdGVEYXRlPgogICAgICAgICA8eGFwOk1vZGlmeURhdGU+MjAxMS0wNS0yNFQx NzoxNjozMyswMzowMDwveGFwOk1vZGlmeURhdGU+CiAgICAgICAgIDx4YXA6TWV0YWRhdGFEYXRl PjIwMTEtMDUtMjRUMTc6MTY6MzMrMDM6MDA8L3hhcDpNZXRhZGF0YURhdGU+CiAgICAgIDwvcmRm OkRlc2NyaXB0aW9uPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAg ICAgICB4bWxuczp4YXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIKICAgICAg ICAgICAgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNv dXJjZVJlZiMiPgogICAgICAgICA8eGFwTU06RG9jdW1lbnRJRD51dWlkOjg2RENDNDZBMTA4NkUw MTE5MUFDQzIzRDY5RTk4MUZGPC94YXBNTTpEb2N1bWVudElEPgogICAgICAgICA8eGFwTU06SW5z dGFuY2VJRD51dWlkOjg3RENDNDZBMTA4NkUwMTE5MUFDQzIzRDY5RTk4MUZGPC94YXBNTTpJbnN0 YW5jZUlEPgogICAgICAgICA8eGFwTU06RGVyaXZlZEZyb20gcmRmOnBhcnNlVHlwZT0iUmVzb3Vy Y2UiPgogICAgICAgICAgICA8c3RSZWY6aW5zdGFuY2VJRD51dWlkOjI5RDA2MDFBNzE1OUUwMTE5 QkM5OUY2NTA0NzQxMzlCPC9zdFJlZjppbnN0YW5jZUlEPgogICAgICAgICAgICA8c3RSZWY6ZG9j dW1lbnRJRD51dWlkOjI4RDA2MDFBNzE1OUUwMTE5QkM5OUY2NTA0NzQxMzlCPC9zdFJlZjpkb2N1 bWVudElEPgogICAgICAgICA8L3hhcE1NOkRlcml2ZWRGcm9tPgogICAgICA8L3JkZjpEZXNjcmlw dGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1s bnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpP cmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpYUmVzb2x1dGlv bj43MjAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0 aW9uPjcyMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6UmVzb2x1 dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPHRpZmY6TmF0aXZlRGln ZXN0PjI1NiwyNTcsMjU4LDI1OSwyNjIsMjc0LDI3NywyODQsNTMwLDUzMSwyODIsMjgzLDI5Niwz MDEsMzE4LDMxOSw1MjksNTMyLDMwNiwyNzAsMjcxLDI3MiwzMDUsMzE1LDMzNDMyOzY4QTRCQTgy MzRDRUU0MURDODQwQjM0NTA3MTA2QzhBPC90aWZmOk5hdGl2ZURpZ2VzdD4KICAgICAgPC9yZGY6 RGVzY3JpcHRpb24+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAg ICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAg PGV4aWY6UGl4ZWxYRGltZW5zaW9uPjY0MDwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAg IDxleGlmOlBpeGVsWURpbWVuc2lvbj40ODA8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICAg ICA8ZXhpZjpDb2xvclNwYWNlPi0xPC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxleGlmOk5h dGl2ZURpZ2VzdD4zNjg2NCw0MDk2MCw0MDk2MSwzNzEyMSwzNzEyMiw0MDk2Miw0MDk2MywzNzUx MCw0MDk2NCwzNjg2NywzNjg2OCwzMzQzNCwzMzQzNywzNDg1MCwzNDg1MiwzNDg1NSwzNDg1Niwz NzM3NywzNzM3OCwzNzM3OSwzNzM4MCwzNzM4MSwzNzM4MiwzNzM4MywzNzM4NCwzNzM4NSwzNzM4 NiwzNzM5Niw0MTQ4Myw0MTQ4NCw0MTQ4Niw0MTQ4Nyw0MTQ4OCw0MTQ5Miw0MTQ5Myw0MTQ5NSw0 MTcyOCw0MTcyOSw0MTczMCw0MTk4NSw0MTk4Niw0MTk4Nyw0MTk4OCw0MTk4OSw0MTk5MCw0MTk5 MSw0MTk5Miw0MTk5Myw0MTk5NCw0MTk5NSw0MTk5Niw0MjAxNiwwLDIsNCw1LDYsNyw4LDksMTAs MTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMjAsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMzA7RDhCOTVC OEIzNzE3QUI1OUQ4RTg1QzMyMTMyRkU4Nzc8L2V4aWY6TmF0aXZlRGlnZXN0PgogICAgICA8L3Jk ZjpEZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAg ICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAv Ij4KICAgICAgICAgPHBob3Rvc2hvcDpDb2xvck1vZGU+MzwvcGhvdG9zaG9wOkNvbG9yTW9kZT4K ICAgICAgICAgPHBob3Rvc2hvcDpJQ0NQcm9maWxlPnNSR0IgSUVDNjE5NjYtMi4xPC9waG90b3No b3A6SUNDUHJvZmlsZT4KICAgICAgICAgPHBob3Rvc2hvcDpIaXN0b3J5Lz4KICAgICAgPC9yZGY6 RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgCjw/eHBhY2tldCBlbmQ9InciPz7/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsK CxEVDwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0O DRAODhAUDg4OFBQODg4OFBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM DAz/wAARCAHgAoADASIAAhEBAxEB/90ABAAo/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcI CQoLAQABBQEBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCES MQVBUWETInGBMgYUkaGxQiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl 8rOEw9N14/NGJ5SkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQE AwQFBgcHBgU1AQACEQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKD ByY1wtJEk1SjF2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dn d4eXp7fH/9oADAMBAAIRAxEAPwD1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSS SSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJ SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJT/AP/Q9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJ JJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkkl KSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSU/wD/0fVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkk klKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP8A/9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJS kkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJKUklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP/9P1RJJJJSkkkklKSSSSUpJJJJSkkkkl KSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJVsvqGDhs35d7Km/yj/wB9XO9Q +v2DVubg0vyi388+1n/k0lPVqpmdV6dgtnMya6fJztf8z6a86zfrd1vObtN/2ap35lA2/wDT/nFj W2vc5znOc537zuUeFT3Wf/jEw69zen0Ovc389/tb/m/TXMdT+tfW8/cx+R6VTvzKPaP/AEosdznb tzU+7d7nfSRU6/QvrPndJvbuc63Ff/O0PdP9qvcvTsHNxs7GZk4z99Vg9rl4x7vzvctb6ufWPJ6L k7vp4tv87V/6Mr/4RJT6ykgYeZjZ2MzJxn76n6tcEdNUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklP8A/9T1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJ SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJBvysbGr9TItbUz955hYWf9eek401427KtH7vtb/wBuPSU9GgZOZi4rN+Ta2pvi4wvP8/66 9aydzanNw6z9HZq7/txyw78m+1zrLXeq93uc57pKNKe7zfr306mW4bHZTm/nfQZ/01z+Z9cOsZjn Vttbis/dq0P/AG4uec7c5QdZ+aiptW5L7HbnO3Od9JztSUFtjnOd/J+ihhO137v0klMnblB35zkt znKP8lJS7fpfupJ1Lb7UlImu/Ncm9zf++qTmtaoJKdj6t/WTJ6Nlbfc/Df8AztX/AKMr/wCEXqWH mY+ZjMycZ/q1Wjc1wXirWt2+72ra+rP1kv6Lmem7dbhWu/Ss8P8Aha/5aElPq6SFjZNGVQy+h4fU 8bmuaioKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp/9X1RJJJJSkkkklKSSSSUpJJJJSk kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJDttqqb6lr2sY3lzjAWHn/XbouJ7anuynj82rj/txySnoEO2+mhnqXPb WwfnPMLgM36+dTyNzcQMxGfDe/8Aznfo1z+TnZWW/fk2vvd+890pKfQc7689FxZbU85T2/6L6P8A 245c3n/XzquQ0txgzFYfD3O/ziua9u73fRUtu1zvzU5SW/My73NtybbLXu+k57pQnO/6P7qg73e5 JJSVzv8AN2oTne7cpbnfRUUlK3OUdqdP7UlK9ySdzm/2kvpfR9qSlfmqG5S2u/d/tJbWt/8AMUlK 3O/NS9zkm+7+0l+ckpW73e76SW1qSTvd7fzf3klMfTa121Qd+9+ajNa530k72fm/u/Scip1Pqv8A Wi/o2R6Nu6zDsd76/wB3/hK16hjZFWTSy+h4fVY2WOC8YcxrXN3e7d+6tz6rfWi/pFvpXbrMJ7ve 390/v1oSip9RSQ6L6r6W3VOD6njc1zeCERNUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU//1vVE kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSklCy1lTd9jmsaO7jAWH1D66dEw9zWWnJsb+bUJH/bn0ElO+oW21 VMNlrwxg5c4wFwPUPr71O3c3Dqbi1/vu9z/+l7FzeVn5mc9z8m99/wDXcT/0UuFT6Nn/AF06Lit/ RPOW/s2nUf565zO+v3U79zMNjMUfvfSf/wBL2Llvam+l/VTlNnKzszKduyb33v8Ape90qvu/Nb9J JM530XbtqSl/d+ckm/dShJSv7Kl9Ldu/NTbmtduT7vb7UlMU3t3J925R9ySmW13/AH5Lc53t2+38 5Pt2tTbtySlbdqSSl+d/KSUx/dS/O/kpO3bt21L6SSme7aofSSd/q1P7UlMVH6Sl/wB9RGtc5u5r fotSUprfznKe1u1B9zXe5u1L6X9r81JTYa5rfc33Ibttjd273O/NTNc1vt/N/eUXO/d9ySl3Ne76 Lfc36KDZ6n0Xfmote76X0v5KZzXWO9zd/wDJSU7n1W+td/SrfQydz8J7veP3Cf8ACMXplF1V9TLa niyp43Me3gheJubtdtXQfVT6029JtbiZbt2A93zYT+exDhU+oJKFVtV1bbanb2PEtcOCFNBSkkkk lKSSSSUpJJJJSkkkklKSSSSU/wD/1/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSklCy2uphfY4MY36TnaBYuf8AXPomHuay37VY 382rUf8Abn0ElO6oWWsqZ6lrmsYOXOMBcD1H6/dQtluGxmO3953ud/0lzuV1HOznb8q99/8AXdp/ mpKfRs766dExC5ldv2q1v5lWv/gn0FzfUP8AGB1G3c3Dqbit/ed+kf8A+QXL7nfR9vtTOc53uanc Kk+Z1DOzHbsnJfe7+U6R/moPtb7nKPtanbtSUt9JM7/NS/q/5yX9VJSmu/tJfyvopJfnJKX/AHmq O381OlKSmTlBPKSSlJN3JN3JfyfpJKUl7v8AyKTdu3cna5u3dtSUrbu+km+j9FL6TVJzW7W/u/mp KY+385Lb+ck5vuUtrvd/JSUprnOTuc36Khud7vzUtu53/VJKVt/te5Pu2+1Srb7m7vo/upnVtb+d 7v3UlK3N27XJ935zm+5C3Ob7kvbu/wC/JKZO3J/c1zfzfzkzXt/tO+io73Od7vpJKSusb7VDbu9q ju93uSc3+Ukpk2z3bfa138lM6za7+t+d8EzmuS/Rbdznbdv3JKY+7a5rne785RbXuc3b7v5LUz8m tvtb/wBJV7Mp35rtrv5PKSnsPqr9bW9Itb0/Mfuwnu2td/o3H/0UvS2mV8+Pe5y9z6Bf9p6Lg3zu 9Shkn+yhJToJJJIKUkkkkpSSSSSlJJJJKUkkkkp//9D1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJRseytu97g0D852gWLnfXDoeH7Rb9of+7SN3/T+ gkp3FCyxlTd9jgxo7uMBcHn/AOMDPt3Nwqm4zf3nfpHf+QXPZnUc/ObOVe++f33f98SU+hdQ+uXR MPc1t32m0fm0+7/wT+bXOdQ/xgdQt3MwamY4/ed+kd/5Bctu2t2/uoe76TtvtTlNvM6nnZxJyr33 E/vu0/zFWc9rf7Ki5Q2/mpKZep7lPduUGt/eU/opKXTN+klu/dSSUqUvzUkklK3bUkkklKlLc3/y SRSbt3fyklKS/s/SUtzW/RUfzv3v3UlKc32p/b+c7+qmUdzf7KSkm72+1R2+7+SpbVFzm/RSUpL8 1P7lJ1ft9rvbtSUxS/d9yb3fup/Z/ZSUy2+12781Ddt937zlJvuTFJTH87c3+0n+j/KTqLbHO/8A JJKS+1rXfnO/O8FB+3d/KTNd/wCYtS2t+i32/vJKU5rvpfmpO27dyi5zWu/d/kpbvbu/Nakpd236 TW+1La3d9L2pt7Wt3fnfmtVa3Lb+b9FqSm1ua36Xu/kodmS1vt/kqg/Kc7+Uhutc5Jc3X5n5qrPy Xfm+5Ac7c5Mkpk6xzvpJb1H85L85JTJrvcvZ/qLd6v1WwfFjXVn+y9zV4u1etf4s7d/1cNf+ive3 79r/APvySnrkkkk1apJJJJSkkkklKSSSSUpJJJJT/9H1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJQe9lbdz3BjRyToFi9Q+uPRMPc31ftFrfzKPf/0/oJKd1RfYytu57g0e LtAuD6h/jAzbNzcOpuOz993ud/5Bc7mdTzc8l+Ve+74u0/zUlPomd9cOiYe5ov8AtD2/m0jd/wCC fza53P8Ar9nW+3Bqbjt/fd+kd/5Bco6x21v7qhvb9H/opym5ldT6hnO3ZV77/wCS52n+aq7m7Xe1 D3/nKW5JSnJtzk3tSa5qSlO/eUdyW5N+akpTk7W+1M1u5T+ikpW33KLmtUnbk30klLhL6Sk1rvpK LdySlJJJf2UlKhJLdtb7VFzv85JTJMo+5P8AyUlMm+5Rd9JT+j/WUdzvckpdv0kv6yf2/wDfVD+S kpl7vopO2td9JL/vqXuSUy3f2nKbWtc33O9qg383/opbklMtzmt9yg73J9yb6SSlt30Uznt/O9qe xQ2tSUy3bkvc1qg+2tqFZe1vt3JLkzn7Xf1VD1W7Xe5u7+V3VN2Vt/OQX3uckpuWWtb+77vzkGzM b/NtVRztySSmbrbHKO530nJkklLJJ0/8lJSyW1ySl7klMUk7lH3JKUF33+LXr+HiOt6ZkP2OyHtd Q53G6NvprgYW/wDU3oV/V+sVNb7cfFcy3IP8kHc1v9tJT7WkkkmrVJJJJKUkkkkpSSSSSlJJJJKf /9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJZvVut4PSq92S+X8tqbG4pKdJQc9tbd73BrR 9Jx0XCZ/+MDOta5mDU3H/dsd+kP/AJBc9kdTz84/rl77/wA73O0/zEeFT6LnfW3ouHub6vrvH5tW v/TXPZ319zLdzcKptDf33e93/pNck5236O3+ql6vsc3b70eFTcz+p5GZ78jItvP+jLtFRc5jW/yn KLnf5rUtrUlK3fmpSmd+7+alub/WSUtuc5Oo7m/+RS923c1JSmp9yZrv/Mktu73JKVu9qW7clt/e S9rUlMfcpbdyl+a535qi1ySkrUPd7Uvdt9ygkpnuUmuUNyW7akpn7dyXtUN3uS3JKZuemUdqfa7b tSUt7nJN3KbWJbXJKYtYmRXbnfnKO1v0tySle3a137qX5u3ak1qTfpJKV/K3J/buTe7836O5La1J S6ZQ3bU+5u1qSkn9ZR+i76KZz2t9qg7JakpLud/mpnWNVG3OVd+U5ySnQtya9n0vd+6qrsza3+V+ cqbnPd+duUElzZflOchOsc76TvaoSlu/NSUukmTpKVudt2pk6ZJSpUt3uUSmc5JS8qTdyAuj+r3S sHqVDaq3Vv6m/wB3pWyGiv8A4HZ/OW/8Ykpxq6rbXbamue791rZ/6laeN9WupWua2yv0nO/Nc0ud /ms+gvQuldAqw2Nb7d23a5zWhv8A1K1a8Suv6LU1TwWN9R8lza9zW7vznWun/oMVT62fVf8AZTmZ lDf1O32Oa3hlkf8Ant/+DXpzWtaqXWsHG6h0y/Ev9rLG/S/dI9zXpcSnxpen/wCKzDNfTMzKP+Ht DB8K2/8AqReb5WM7GybKHO3bHbd3ivYvqTh/Y/qxg1nRz2eq742H1E5TvJJJJq1SSSSSlJJJJKUk kkkpSSSSSn//0/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSy8d671M53X8y97pb6rq6/6lfsYv Xcq70Ma2/wD0THP/AM0bl4Ta51jnWO+k525zvikkN7d7WuUm2e5VMa/81ys1tc5u5qehk130v+qS d9H2pfynJOd+d9FJTF30Wtd+cpf6+1Nu3e7d7v5Kbc5BSz3O3fupe3b/AN9TtTO9rUlLtTqDdzfz U/8AKSUprU+7b7UzXN2pbmt/76kpk73e7/NTNa5S3fmqDfd7d39VJSVrvpfylH27v0n0lHd7vans d+ckpXt+in2tUGuTt3JKXSc3cm27mt/NUm+1JTDa5PtUnO9qQSUprdzmt+k791Ld7lNvt2/yf3VJ 35u72tSUj3O3e1S3O/O+ik5rGt3NUPdu9ySmblD87+qn/NTJKVu2/SSKjub+d/ZUbb2tSUkb/m/v JOta36LvzVSfmbfb+bu+kq78x25zm/nJLm6+1u3+UgWZX7qputc5qhKSmxZlv3e385Cda7b/ACv3 lBL/AKlJSv6yUpJJKUkkmSUul7WplFJS+5S9zlFjXOe1rfpOc1rfiV12H9RcrfX9ufta76LaPd/4 N9BJTyzW7ldweg9TznfoKHNZ/pH+1v8A0l6L0/6q9Mw/5qhrn/S9R2rv89a7MVjfc5vuTVPn+N9R Mm1zq7bHNdt/R2NZ+i3f8Jv/AEiweq4bMG12I5rm2s9r2uXsjWNb9H3Ljv8AGJ0GzJYzqmIze6pu zJa3nb/g7f7CSnzix236PtU8HLvoya7anbbaPcx/hCG9Qbua5u1OTF9w6N1GrqXTMbOb7XW1+9vg 4e2xW331tXG/VPLv/ZVbXO2sbY5rdv8AZ+kt51jnfnbkxXC2rOofuqvfk2WN2/muQ/pKL/ouTUPM 5/1W6n1jrlv2Op3oOc3fe7Ssae/3L1LGobRRVQz6FTGsb/ZG1UegMsZ01hs+k+Xt+BWmnrVJJJJK UkkkkpSSSSSlJJJJKUkkkkp//9T1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU4/1syfs31cz7OD 6LmN/t/o14yvS/8AGP1XHq6W3pwf+sXva4s8GN93vXmiS5j9F25quY1vqe1Vfaob3VO3fmpynTs9 Jv8ANu3Ocp/S/dcsR+U5zt30WolWc5qS11Nv5u3+Uk7ch42U2xzUexvu3N9ySmKdrd3t+ioN/e/d Uvc787+ykpjtd/5FO1jtv8lqdrdqVjf3UlK2/nKLt23+T9FSd7vzvopOc539pJTFvt/qpe1La783 6P5rknN/s/yklK9u7+T+8pe1yG32qW5ySmbmtTN2uUHOcptckpdzdrUvzvd9FyXtckkpluUfzv5K i5zU+7akpf6Kn6m5v8lBc/b7vzXKDr2tSU2HO/OUXOVO3L2uQHZjvc3/ADUlN519e1BszGtbt/OV H13uQnOSXNuzM+l+8q/rud+coSl7klKKQSSSUpMnKZJS4SUdyZJTNJTxsa/Jt9Kit1r3fRaxslb/ AE36l9Xy9tl+3GZu+i/Wz/ttJLz+1FxMHKzLPTxqLLXO/cbK9A6f9R+mYzmuta7Kc3/S8f8AbbF0 GN02ihvp1VNYz91ugTUPlPUOg9Q6axludVtqt3Nrc1w0d+7Ystzl7dldNxM7FfiZNe6q1u1zf+/r xrqvT7em51+Ff9Oh234j8x/9tOU0/X2uY5rfc1dv/i+6/Y3J/ZeS7dRku3UOc6dtn+h/qPXBvV7p GS6rJodX7X1WttY7vISS+5N2qDrGt+kqX2x1jd373uQnPc5R8Sm5Zlt/NVXKtfex1X5r2ub94Qkn O2+5FD5E3Dyb8n7NjVPvt3Ob6bGlx5/krqOj/wCLDr+ZFmZtwKj+/wC6z/tli9W6d07DwaA3GoZR uEv2NAJP525XEUcT5j9VaPQxMuiz6VGS5rvOBtW813tVOhja786r6Lm5L933qy36LUF0maha3c1z f3lJO33W1t/ec1qSHq8VgrxqmD81jR+CKotbtapIrVJJJJKUkkkkpSSSSSlJJJJKUkkkkp//1fVE kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJT5Z9bsJ+F129mV+lqz/0tFruWz/6TXLvrfW/03f2XeK9 B/xm4wdRhZJ7OfUfmN7P+oXD1N+1/o3e29jf0bv3oTlzUeza5Av+h+8rT9233fm/moTXOa5rvzmp Kc7Za7/BuS9zfzdq227bG7q/b+81Qc1rm7dqSnOoe/8ANWzivdZV9H2rMtxfe30mu930mtWvRU6q rb9Hc1JSnN9yG+2qr3OcnybPTqdY381ZTGutd6lvu/dSWt/7Y381jnN/eSbmNbZtc1zmO+j7U1e3 2u3e785vgisv/Nd7tqS5m3Y73Ndu3fgltQ737tr6/a9v7qM33Na535zUlrH+Sm937qJt/d+kn9Ju 36Xu/OSUi921rknbv5Knt/N3e1ql/Z9rklIvopblFzmbtyg61rUlJmpnOaq7slAdlN3JKbjntb7U CzJc385VHXud/JQt276SS5tuy3f1lXsvschpJKVud+8kUoTJKXCi5L3J0lLpJk25JTJJO1q0sP6u dVzPdVQ5rP8ASP8AaP8ApJKcyEvTc521rdzvvXb9P+oVXtszLXW/vMZ7R/nfTXT9P6Hg4LW/ZqK6 nNbt3NbqmqfJPslrvotc5qE9np/SXb/Xjp1vTduZjN21ZLtr/wCQ4/8ApVcJbud9L6SdxKd36vdc b0Zz76nb7XOZ6lX71Xu3r1Lp9+NmYtWXjO31Wt3Nd/31y8K3bXNd/KXpH+Lvqf6tk4bnfomubbR8 D7Xpsk8L27Wp3Oa1VLMz91AsyXu/OQQ3XXtauI/xjVMtxqMttbWvZZssft9xBH7y6Xd+aq+T0XF6 4GdPynuZW5/qAsjd7fdt9yEVPkDldo6Z1BtDsx2NY3Fa5rfXc0hsn6PuXtfS/qZ9W+mQ7Gw2Ptb/ AIW39I/77EP68Y7Lfq5fW4e1hY7/AKScriczG/mKv+Lb+REc7aqtFjm1Vt+ltrb7vkp+o5zUFSSu tT1fpb6m/vWMb+KArPTm7s6hv/CN/D3JKeuSSCSK14a9u3rHVa/+Ha//ADgiNcl1Nuz6x5zf32VP /DapNb+6guZIuG3fmUN/ltQHfRWt0fp1vqjMtG0fmMdyf5aSndSSSRWqSSSSUpJJJJSkkkklKSSS SUpJJJJT/9b1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU8z/jBo9X6uvsjWi1ln/ov/AL+vLdzv a76Lm/RXtHXcF3UOk5eG36d1Tms/rcsXi9jLanuqtbsex21zXdiElyW1zclnqfRe36apou5zW7q/ pbfc3xTVsdbQ2/btdu22e3w/OTlMK7HVP/ku+k1Hd+836LvoquiUWMa53qbtrm+34pKTYuT6Vn8p quOf6nub9FyyXfS3NVjEv3e13tSU2Xbba3V7fpKj6bq3bfo7VoOd9Ha7clsY76TUlrQa5zf5Tf3V NrXNVz7LVuapfZqvzvdt/eSU1K2usdta33OV5rGta1rfc1ntTN21/RQ3ZLW+3ckuZ7W7k1jmt925 VbMr6W1V7Mpv0tyS1uWXt2+5Btyfzfzf3lRsyXfmoTnud9JJTbsyWqu69zvooaSS5dznOd7k3uSS SUr3JJJSkpZOk53uS3e5JSkk7Wq3h9Mzsx36tQ5/5u7bp/npKaZSXW4P1Cy7HNdmWtY385tWp/z1 d6z9RaK+m+p01rvtVXududO8fnf20lPBKO7apPa7d/1SA9ySn0z6p4PQcvGd6FTftNTW/aa362A/ 6Vn/AAa6pmMxq8i+q/WHdN6nRlue79E5rHN/eqcdtjHL2L1atu5rvb9JqbJS7WNap+1VrMxrfo/S QLMqx38lN4lL9ZxMPqXTrcPJd+ie36TeWkfRe1eM9QxnY2VbjOdu9KxzN3jC9ec9zm+1crkf4v8A q3Wur5OXW6vHxLX7vXfqTp79lTEoqfP12H1EdY3Je327X1bvuLV23R/8WX1d6fFmS12fd+9f9D+z Q3/vyB1TBqxfrX6lDGsqdhhrmNbDRDtv5qdJMU+5ydrUN1rfzUvVdtTEJtrVodAE3Wu/daG/eVlt +ktj6vDS8+Oz/v6cp2Vl/WWr1eg5zP8AgnO+73rUQM+v1cLIq/fqe372orXiMT9JjVO/erb+RWAq fStrun0fyW7fuV781MXsVd6LX/lGr+Tud+DlS/OWt9XaHOvsyXN9jW7WO7En6aMUSegCSSSctcbq /Qvtl7cuhzashrfTdu4c36SwsoPw+qt6dY5r/wBAL9405ds2LtlxvWv/ABVv8sRn/VuQTFlQ39Ox v0v0jfyrsFx9DXfaav8AjWflXYIRVJSSSSchSSSSSlJJJJKUkkkkpSSSSSlJJJJKf//X9USSSSUp JJJJSkkkklKSSSSUpJJJJSkkkklKXD/Xv6q+u13VsFn6Uf0pjfzh/pf/AEou4ShJT4K5FoyXVt9N 3uY76TV0/wBdvqv+zsh3UMRv6je73tb/AIOw/wDouxcknLlW17Xe33NQtqtUWN/m7Pou+i7wKC9j q7f3mu+jtSUwSa5zfc1Oo7UlN6i1tnt/eR2tbu/8ksptvpO3ItnUmua3b+akp0bLWt+l+aq9uXWs 5+U6xBdY5yS3hdCzM/lKq/L3fRQJUfzklyVz3uUFFykkpSSUJfRSUpJP9JO1JTFJOi1Y197ttTHP d/JbKSkCf+0ugw/qZ1fJa1zvTo9vta92v/RWXk4LMOz0r3e9v0mpKaX0Vr/V7oLut22N9dtHpfmu +k7+osm19X+Da7+0i9P6jk4z2uoc5l7LGvqc3x/cSU+j9P8Aqd0zEdu9L13fvW6rfow6627Wt2tb 9FqD0PqdXVem1ZbW7Xu9trfCwfTWg5zWpvEpg2pqnt2obsmtrVWszP3f7KbxKfOPrx0B/TeoWZdT W/Y8qzczb2d/hK9q5N69H+vTfV6R6rvpVWtdu+O5q43p31b651d3+T8N9rf9Jt21/wDbr/YnRkpz cZ221eudMvss6bjWOdu3VN+l8Fy7/wDFl1HB6Vf1DOyWerQzc3Gq93f8632rpOlbf2Zit+i5tTWp skttzkkztrVD1UEJPo/1V0XSanV9Pp3H3PbvP9v3rmXOdtcuux2enjVM/dY1v3BGKkq5X6zDZ1zD f+a+h7fuO5dUuZ+t7duT0y3/AIR7D82pxWxc5zdqk3a5qfak1MXLtW/9Xx+rWu/es/74xYC6HoLX fYNztN73Ob8PotToqdJIpJIrXhqOmZ2DZZiOxn2NbY7ZY1pIc2fY9Rqyqr2udU7c1rtrvIhd2vOe jt9mX/4Zf+VNkui7XR6KsnOay1u5u1ztvw/eXVMY1jQ1g2tbw0cLmvq/P29v9R//AH1dOlFElJJJ JyFLjOtf+Ku3/wAKM/K5dmuM6tr9a7//AAtV/wBUhJMUuL/TKm/8I38q65chg/8AKVH/ABjfyrr0 IqkpJJJOQpJJJJSkkkklKSSSSUpJJJJSkkkklP8A/9D1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSHKxqMvHfj3s31Wt2vafBeP8A1i6K7pGe/HB307j6D/Fv8pezLzj69e/KbW76O57vxSTF 4lrVZxavUodU529+72eIH7qG5m1ztynW1u31N2x35rvNJKN1Tmt2u9rm/SUHNcrt9bsuttjPbe32 2N8f5aqV7drmu9rmpymva32qo1XMn6LtqqNSUukknSUoJfScna1JJSnNTBOpNqss9tbXOd+61JTF O5zVG1j63bbGua791yTWOc3dt9v8pJS9TXWP9NrXOc76LW8rZ6f9Weo5nua1rGbtu5/P+asvFzm4 drbam7b2Oa5j/Ar0/wCq/U6Oq4fqOa1mZU7bfW3v+7b/AG01Tl9P+o+DV7sndkv/AHXe1v8AmtXQ YnR8bGbtqraxv8lq021tan+ilxKQsxmt/NXDf4xOi11Oq6pU3a2z2X/H/BvXePva1UepW1ZONZjW Ma9j27dr2yE3iU+L2/5qFVbZRay+t217Hbmu80bJr9O2yv8Adc5qWH03O6hb6WDRZkvd+axpKkU9 59Q+pPbjZNTvznNt+bl09mY530Vyf1T6dmdOyMrFzGeldU1u9nMT711DWJiZK3uUWuU/TapO9qah J07Fry8xtdtTbame94e2Rp9D2/110zWhrdrRAHAWF9Xv6Xef5DfyreRitaXWqvV6VmV/vUPj4gbl x+C7dh1Ob7fa1d1awPY5p/OaW/euB6V7cNtbv8E5zPuKUkxbcKW32pbk6CVVt9T2/ve3712beFyG G3dksb+9Y38q69GKJKXO/XRn+T8a+P5rJY53kDuauiUX1ssZssbua7lp1Cch41r2ubuTOcrX1u6P 07H6Pbl0VeldU5jmlhI5e1nCpe7Y1MlFc6/TOlVZbfXvduraduxuk/1yt9jWtaGtG1rdAFndA/oL v+NetNOWqSSSRUpeddKb/TG/92bfyr0Vee9O9tmc3/u3b+VNkmLt/V//AJRb/Uf/AN8XTrmPq9/T 2/yWP/74unRiqSkkkkUKXFdVd/2WZP8AJoqXarieqf8AirzP+Kq/IkUxbOC3d1HG/kva5dauS6Z7 uo0fyXrrU2KpKSSSTkKSSSSUpJJJJSkkkklKSSSSUpJJJJT/AP/R9USSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpebfXZzXdQb/b/KvSV579e8F1GbXcPdVa13yJO5NkmLldF6AetY2cyr25WM xj6PAk799Tv66562t9VjqrWua9rttjHaEH+UvSv8XeA2rplud+flPj+zX7VW+vn1W+0Vu6vhM/Ts H60xv57R/hP67E5LwmJe6t/0tr/zUTMZVY1t9Tdu5v6RvmqjXK1jXu2/9F3mE5Tm3/RVP85avUMN 1e6yr31O/BZX5ySme781L2qO1SqqdY7a1u7akpm1jnfRbu3K7h9Gzst22tm1v51juAuu6D0bp+dR X9mc1ltDW+vX+d/W3rqMTpVVFe2tu1rU2Snh8H6lvsbuyXub/J7LocX6o4Nf5rm/u7dF0tdFbU/0 UlPF/XX6tMdg/tDGr/S4zWts86x/5Bedvc5e5ZPpWVWVW+5j2ubY3yK8e6/0+rp/ULKKHOdV9Ktz tClFTkO27dv5y6z6k9XfR1XGr3e2xrqrf++Lk3fSWp9XN37To2/m2N9vzSkl9hdme1Afme5VP6yf Yghd1tjvopbvznJ9m1Csb7fTb9JJTDpf+Ljoj3/tDP35Vl7vV9J3tYNx3fQYutxMHDwahVh0V0VN /MraGj/oo7WhrYHA4TorXjer1+n9Zb3fnW1Md/3z/viLuUvrGzZ13Gf/AKWhzf8ANKhu9qC5dRc5 PuUSkp1fq57nZLv6jf8AqltrH+rjf0V7v3nN/IthCK1S4GhraszOo/cyX+34neu+WNmfVvGyMl+T U91D7Tut2iQ5376UlOG3a5PuVcWWVdWzOnuO9mO5u07YmVcw/wCmUf8AGs/Kgudfo/S7anNysjR2 32M7ie71spJJ61SSSSSnE+un/idyf61X/nxiwtu6pq3frn/4nMn+x/1bFhuc70m/1U2S6L0f1e/o Lv8AjX/lWos36v8A/J//AFx/5VpJy1SSSSSlLz7B/pXUG/8Adu38q9BXBYn9L6h/4bt/6pNkmLr9 Aa1vUfb+4/8A74umXM/V7d+0Hf8AFu/KxdMlFUlJJJJyFLierN2/WrLc78+qrb923/vi7Zch9Ya9 vX9/+kxmf9F702Xypiy6Tr1Sr+sutXG9Ds39YqaG7vpe74BdklFUlJJJJyFJJJJKUkkkkpSSSSSl JJJJKUkkkkp//9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSlmdY+r/TetMa3MD/AGfR cxxYVppJKa3Tun43TcKrCxW7aKG7WNVmEkklPl/13+qv7Mud1DDb+pXu9ze1Tz/6KeuXY7b7fzvz V7llY1GXQ/HvYLKrW7XtPcFeR/Wb6vZHQ851Ttz8V/uxrfEfuO/4RiS5z7cp32Zu1v725yyLP81X 3u3UbXLPd9JJSzvaouvsa3a123+qk5DenKel+o/U7cbqbP5W1tn9Vy9Wa9u3duXiHR7XVdQqc395 eh/brW1+pv3Nf7mqOXzJ4Xp3Zlbfaqt/UG7fasJmZbZt27v71arY93udu9yCG7Ze6xc1176qdU67 n1OwGM2sr222vdtDdfaugaza1bnQa2txHWfnPd7v7Kcp5Dpn+KXDrc2zqeZZe7/RUfo2/wDbjv0i 0us/Vvo/SsLHf0/FZQ5t7dz26uMh303uXYrH+tVe7otrv9E5j/ue1FHE5LXN2p9zvzUKp25jf5Sm mJZfmqVTd2TU3811jPyoaL0/c7qFDf5f5PcnKeqSSSRWvNfXBu27p1/7tj2H+01VGu9q2vrF06/q GE1mNt9Wm1trQ7vt0cxYF4ysHHdfmUPZU1zWufp3+j+cmyXJlF9jW/S/O9rU9Tmu2u/NWv0HGqdW +97Gl7bC1jtuoENRU2Oi4duJiu9b2vtdvc393Rrdq0UkkVqkkkklPBZP/iq6n/Y/IruI39bo/wCN Z/1ap5f/AIqupf2PyNVzG3faqP8AjWf9W1Bd+i9gkkkitUkkkkpxfrj/AOJ7L/sf9WxYbfdW3+qt z64/+J7L/sf9WxYTXfok2SYvTdB/oH9t/wCVaKzug/0Af13/APVLRTghSSSSSlLgaNzczqH/AIbt /Ku+XANdtzuot/7t2psvlTF2Pq67d1F3/Fu/KxdOuY+rLXOznv7Bjp+ZaunSiqSkkkk5Clyn1uxc /wC3YeZjVOvqa19V+wSR+dW7a1dWkkp5n6qdLyqrLs7MqdU5/tqY7mD9J66ZJJJSkkkklKSSSSUp JJJJSkkkklKSSSSUpJJJJT//0/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSln9b6Ni9ZwX4eSOdWP7sd+a9q0EklPhvVumZXTMq3DyWxaz8R/pGLH2uXtP1t+q7Ou4c1bWZ1X 8zY7gj/R2LisD/Fn1287cx7MOprv3vUJ/ssSXPFOarGB0XqvU37MHFfkH95rdP8AP+gvWelf4uvq /g7X3sdm2j8636P/AG0umqpqoZ6dLG1sHDWiB+CSny3B/wAWvU8Sh/UOoW11Oobvbj1+46fvP+gt xmMz0K6v3Wrtcmr1ca2r99jm/eFxtH0W/wBVNkjiSVVVVN9rUZrlD81IIpZuct3ojY6ez+UXO/Fc 9b7m+36S6TpOnTqPgfyuSipuqj1ysW9IzK/+Be7/ADRvV5Qtr9Sp7P32ub96K14zBs3YzHfyUZUe nbqKnUW+19Ttjm+YVxrmu+imLmas9Jbv6iz+Ruc77kCih19raGO2uf8AnOXRYPTqMNv6Mbnu+nY7 koxU20kkk5apYX1zbu6Bd5Pr/wCrat1Yn1y/8T2T/WZ/1bUlOTV7WNb/ACVudA9uM9v/AAjnfg1c 9iOd6TN37q6LoHuw3u/esP5GpsV0nUSSSTlqkkkklPCZn/io6j/Y/I1Wsb+l0f8AGs/6tqq9Q9v1 q6h/Kaz/AKhqt4v9Ko/41n5Uz9Jc9gkkknrVJJJJKcb63f8Aiey/gz/q2rBY72N/qrd+uP8A4nMz +q3/AKtqwmO9jf6qbJdF6b6v/wDJw/rv/wCqWis7oH/Jlf8AWd+VaKctUkkkkpS4PqeHmdP6rl+q xzqMyx19FrGkjX6VT9v+EXeJJFTi/VnDfThuvtY5j7uGu5DR/wCTW0kkkpSSSSSlJJJJKUkkkkpS SSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp//U9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSS UpJJJJSkkkklKSSSSUpJJJJSkkkklKXHX1Nqy7a2/m2O/KuxXMdaZs6i/wDlta5NkmLWSUWp0Eqc 5dP0z+gUebGn71gYWBfnPb7Yx2u99v8A6TXTsY2toa3QN0CMYrWSSSScpq3dNwb3my2hj3n6Tu64 5vs6j1CpvtZVe5tbfALu1wzxHWOo/wDHuTZJi6nTP+UqP7X5F0q5bpp/X8f4rqUooUkkknKUsT64 /wDieyv7H/VtW2sX63/+J7M/qt/K1JThY38xXu/db+RdF9XP6C//AI135GLmsb+Yq/qtXS/Vz+hv /wCM/wC+MTYrpOqkkknLVJJJJKeE6j/4rOof8XV/1DVbxHO+2Uf8Yz8qp9U/8VucP+Dq/wCpareJ t+2Uf8az8qZL5lz2KSSSetUkkkkpxPrhv/5u5mxhfDWlzW/uh7fU/wCgubxclt9THVe7ft27e8rv i0HlZ+P0TpeNkfaKKAyyd3tkNBP7rP5tJLaw8duNjV0N/MGvx/OR0kkkKSSSSUpJJJJSkkkklKSS SSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP//V9USSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKWZ1TpJznMfXZ6b69PcNCFppJKeNzcX KwLamXta5tu7a9h8E272/wApa31mbuON5b/++LHTFz1XS2tb0/H26fo2q2qnSv8Ak3G/4tqtp61S SSSSlLh7hHWuon/hV3C4rK9vXOoN/ltd+DU2SYtzp3/KNH9ZdSuTwPd1HG/r/wAF1iUVSUkkknIU sf62/wDiezv6g/6pq2FkfWz/AMTmd/xf8WpKeaxXfq1f9Vq6f6un9Tf/AMZ/3xi5XDc12JX/AFWr qPq3/QrP+M/74xNG66TrpJJJy1SSSSSnz/rbn1fW7KcW/Trq2u8RDVodMbv6jjM/l7v833rT+sH1 c/attGVRb6GVj7g1xbLXNP8Ag7Euj/V+zCyftWRcLbdpYGMEME/S+km8PqXO6kkknLVJJJJKUkkk kpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSn /9b1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JTjfWMfo6D/KKxG/nLe+sH8zV/WP5Fz7nJklz1fSv+Tcb/i2q2qnS/8Ak6j+oraetUkkkkpS4rP9 v1hzv5Tmf9Q1dquK6q3b9Ycr+qz/AKhibJMWxgO/yjj/ANdq61ch0/8A5Qxv67V16UVSUkkknIUs j62f+J3qH/FfxWugZ2KzMw78Sz6N7HVu+YSU8J0927Er/ktbtXWfVsfqL3fvWGPkGtXI4eH1HGtd 0++h3rs9m5rTsd+5Y1y7vp+KMTDZR9ItHvd4uP002KZNlJJJOQpJJJJSkkkklKSSSSUpJJJJSkkk klKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU /wD/1/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk kkklOV9YW/q1Tv3bP++uXPOauj69/RB/X/guZd9FMkui9d0j/k6j+qrapdH/AOTaP6v8VdT1qkkk klKXGdY9v1hyf6rP+oauzXG/WKp9HXPXf/NZDG7Hebfa9ibJMWWG79eo/wCMauwXFYLnW9Rxah9M va75M97l2qUVSUkkknIUkkkkpUJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSS lJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp//9D1RJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJTndcbuw2/12 rmH7WtXVdYbOC4/uuDv++rkrbPpNamSXRet6Kd3TKD/W/K5XlR6O3b0ygeLZ+8q8nrVJJJJKUqfU umYvUqW1ZIPsdvY9uhaVcSSU5nT+gYODf9or3vv27d73Tp/VWmkkkpSSSSSlJJJJKUkkkkpSSSSS lJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUk kkkpSSSSSlJJJJKUkkkkpSSSSSn/0fVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklIMzHbk4z6CdvqN27lyLuj9Vde7G9B23drZ+b/X3LtUk3hUix 6G0UMob9FjdoRUkk5SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSkkkklP/9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklK SSSSUpJJJJT/AP/T9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkk lKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUp JJJJSkkkklKSSSSU/wD/1PVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSS UpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk kkklKSSSSUpJJJJSkkkklP8A/9k= "
+       id="image4155-2"
+       x="-107.29613"
+       y="-503.35818" />
+    <flowRoot
+       transform="matrix(1.9978951,0,0,2.0007119,-2464.4628,-2776.5136)"
+       xml:space="preserve"
+       id="flowRoot5934-3"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5936-1"><rect
+           id="rect5938-9"
+           width="258.57144"
+           height="160"
+           x="52.857143"
+           y="612.36218" /></flowRegion><flowPara
+         id="flowPara5940-4" /></flowRoot>    <g
+       inkscape:label="Layer 1"
+       id="layer1-0"
+       transform="matrix(0.87997314,0,0,0.87973874,717.69954,-635.13787)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png">
+      <image
+         y="100.93363"
+         x="-54.285713"
+         id="image4155"
+         xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/4Q1DRXhpZgAATU0AKgAAAAgABwESAAMAAAABAAEAAAEaAAUA AAABAAAAYgEbAAUAAAABAAAAagEoAAMAAAABAAIAAAExAAIAAAAcAAAAcgEyAAIAAAAUAAAAjodp AAQAAAABAAAApAAAANAACvyAAAAnEAAK/IAAACcQQWRvYmUgUGhvdG9zaG9wIENTMiBXaW5kb3dz ADIwMTE6MDU6MjQgMTc6MTY6MzMAAAAAA6ABAAMAAAAB//8AAKACAAQAAAABAAACgKADAAQAAAAB AAAB4AAAAAAAAAAGAQMAAwAAAAEABgAAARoABQAAAAEAAAEeARsABQAAAAEAAAEmASgAAwAAAAEA AgAAAgEABAAAAAEAAAEuAgIABAAAAAEAAAwNAAAAAAAAAEgAAAABAAAASAAAAAH/2P/gABBKRklG AAECAABIAEgAAP/tAAxBZG9iZV9DTQAB/+4ADkFkb2JlAGSAAAAAAf/bAIQADAgICAkIDAkJDBEL CgsRFQ8MDA8VGBMTFRMTGBEMDAwMDAwRDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAENCwsN Dg0QDg4QFA4ODhQUDg4ODhQRDAwMDAwREQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM DAwM/8AAEQgAeACgAwEiAAIRAQMRAf/dAAQACv/EAT8AAAEFAQEBAQEBAAAAAAAAAAMAAQIEBQYH CAkKCwEAAQUBAQEBAQEAAAAAAAAAAQACAwQFBgcICQoLEAABBAEDAgQCBQcGCAUDDDMBAAIRAwQh EjEFQVFhEyJxgTIGFJGhsUIjJBVSwWIzNHKC0UMHJZJT8OHxY3M1FqKygyZEk1RkRcKjdDYX0lXi ZfKzhMPTdePzRieUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9jdHV2d3h5ent8fX5/cRAAICAQIE BAMEBQYHBwYFNQEAAhEDITESBEFRYXEiEwUygZEUobFCI8FS0fAzJGLhcoKSQ1MVY3M08SUGFqKy gwcmNcLSRJNUoxdkRVU2dGXi8rOEw9N14/NGlKSFtJXE1OT0pbXF1eX1VmZ2hpamtsbW5vYnN0dX Z3eHl6e3x//aAAwDAQACEQMRAD8A9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk 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 ZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAG AAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA//////////// /////////////////wPoAAAAAP////////////////////////////8D6AAAAAD///////////// ////////////////A+gAADhCSU0ECAAAAAAAEAAAAAEAAAJAAAACQAAAAAA4QklNBB4AAAAAAAQA AAAAOEJJTQQaAAAAAANBAAAABgAAAAAAAAAAAAAB4AAAAoAAAAAGAGQAaQBwAC0AMQA0AAAAAQAA AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAKAAAAB4AAAAAAAAAAAAAAAAAAAAAABAAAAAAAA AAAAAAAAAAAAAAAAABAAAAABAAAAAAAAbnVsbAAAAAIAAAAGYm91bmRzT2JqYwAAAAEAAAAAAABS Y3QxAAAABAAAAABUb3AgbG9uZwAAAAAAAAAATGVmdGxvbmcAAAAAAAAAAEJ0b21sb25nAAAB4AAA AABSZ2h0bG9uZwAAAoAAAAAGc2xpY2VzVmxMcwAAAAFPYmpjAAAAAQAAAAAABXNsaWNlAAAAEgAA AAdzbGljZUlEbG9uZwAAAAAAAAAHZ3JvdXBJRGxvbmcAAAAAAAAABm9yaWdpbmVudW0AAAAMRVNs aWNlT3JpZ2luAAAADWF1dG9HZW5lcmF0ZWQAAAAAVHlwZWVudW0AAAAKRVNsaWNlVHlwZQAAAABJ bWcgAAAABmJvdW5kc09iamMAAAABAAAAAAAAUmN0MQAAAAQAAAAAVG9wIGxvbmcAAAAAAAAAAExl ZnRsb25nAAAAAAAAAABCdG9tbG9uZwAAAeAAAAAAUmdodGxvbmcAAAKAAAAAA3VybFRFWFQAAAAB AAAAAAAAbnVsbFRFWFQAAAABAAAAAAAATXNnZVRFWFQAAAABAAAAAAAGYWx0VGFnVEVYVAAAAAEA AAAAAA5jZWxsVGV4dElzSFRNTGJvb2wBAAAACGNlbGxUZXh0VEVYVAAAAAEAAAAAAAlob3J6QWxp Z25lbnVtAAAAD0VTbGljZUhvcnpBbGlnbgAAAAdkZWZhdWx0AAAACXZlcnRBbGlnbmVudW0AAAAP RVNsaWNlVmVydEFsaWduAAAAB2RlZmF1bHQAAAALYmdDb2xvclR5cGVlbnVtAAAAEUVTbGljZUJH Q29sb3JUeXBlAAAAAE5vbmUAAAAJdG9wT3V0c2V0bG9uZwAAAAAAAAAKbGVmdE91dHNldGxvbmcA AAAAAAAADGJvdHRvbU91dHNldGxvbmcAAAAAAAAAC3JpZ2h0T3V0c2V0bG9uZwAAAAAAOEJJTQQo AAAAAAAMAAAAAT/wAAAAAAAAOEJJTQQRAAAAAAABAQA4QklNBBQAAAAAAAQAAAACOEJJTQQMAAAA AAwpAAAAAQAAAKAAAAB4AAAB4AAA4QAAAAwNABgAAf/Y/+AAEEpGSUYAAQIAAEgASAAA/+0ADEFk b2JlX0NNAAH/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEVDwwMDxUYExMVExMY EQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAODhAUDg4OFBQODg4O FBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAB4AKADASIA AhEBAxEB/90ABAAK/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAA AAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGx QiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgU1AQACEQMh MRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0 ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH/9oADAMBAAIR AxEAPwD1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJT//Q9USSSSUp JJJJSkkkklKSSSSUpJJUuodb6T0wfr2VXS7tWTLzP7tLN1rv7LElN1Jcb1D/ABjY7ZZ03Efae1t5 9NvxbW3fa/8At+gubz/rT17qBIuy3U1Gf0WP+hbr23tPrvb/AFrkaU+kdQ650jpumblV1P8A9HO6 z/tmvdb/ANBc1n/4xqhLOm4pc7tbkHaP63o1lz3f2rKlww0BAGh5Pj80uBr37pUp0eo/WPrnUpZk Zb/ScCDTT+iYQfzSK/e9v/G2WLX+p/1w/Z7mdL6o8/YjDcfJef5gnRtN7j/2l/0dn/ab/wALf0fl zzprKfYxzTuM6cQip9rSXnv1Q+t32A19J6o8/YjDcTKeZ9KfoY97z/gP9FZ/2n/m/wCY/mvQk1Sk kkklP//R9USSSSUpJJU+odY6Z0xoOdk10F2rWOMvcOPZU3da/wDsMSU3Elx/UP8AGJisBb07Gfe7 gWXH02/H0xvud/b9Fcz1D63dfz5FmUaKz/gsf9EI/rtLsh3/AG8jSn0nqHWeldNH69lV0u7MJl5/ q0s3Wv8A7LFzXUP8ZGKyW9NxX3H/AEtx9NnxFbd9z/7forhA4cx7jqXdz/Wd+cmnu7t2SpTsZ31s 6/1AEW5TqK3f4LH/AEQg/wAtpOQ7/t5ZMNEwNTye5/rFMC3xSk9hKKl+396XMnv3TAHUHnxT6f3B JS8eITE7Tp9/xTWX11j9I8NH4qnZ1KsE+mC7wJ0CSm6XR9EwEOzIqqkWPA/kjlZlmXfZy6B5aIVb HXWtpqabLbDtYxupLj+aEk03buoNd7WM3Dgl+oj+ovVf8XOddm/Vag3vNllFltO5xk7Wvcamf9bp dWxi8/xvqB9Zcih1xpZQWsL2VWPHqPIBc2oMZu2WP+h712H+KfGur6DkZL7H+lk5LvRpdAa0VhtV ljdN++20ObZ/xSBUXtkkkkEP/9L1RJJJJSl4/wDW3PFv1t6jZM1MsZRPh6TGMft/676u5ewLxT6x 4bMXrfUcRrNhryHemyIHp2fp6mtH/F2+3/g0QkI67qrp9J7XlsyBzp8U8dwfiqONTiMvqsaDVB4B JBd2Y7cfo/y1ZczJNzjDn1z7A0wB/W2fnoqpLxp/rolumNfknJaxk3ODTqS2dR4BVLeoUN0rBcR3 SQ3IHflM+6pjZc4MPGpWXbnXWaCGjyVZzi5w3El50A5J+ASTTp29TpaT6YLyfkFUtzsiwRIaOwah 5eLm4Ta3ZePbR6zS+n1WFm9rTtLmbl23QPqL0PJwsfqeZmuzaMhgsYxk01kcOY/U5G5rm7LPfWgT SXh2NsusDK2vtsdo1jAXuJ/ktbuctHJ+rXXsTptnU8nEdRi1Fu/eWiwBx2iw0T6jat597nrWo6R1 vo31wdf0am2zpuLY19l7WltX2V+x9uPfY/b6tldb/wBIxm9/6P1l3F1js/dg2OinKnHsaznZb+hs 11/MegZKeL+o3Rvq31bEvyM9tluVi2BllD3RUWul1VjGVbXu+i5r2Wv/APPis/Wf6j5HWOoYw+re Oyip1ezKBIqpqLD+hyPbut3XT7/Sqs/md637Pq50z6uZLKelVGqvJp/TOc5z3PdU6N7nWE+7bd+Z 7FufVoE15Fh1l7Wz/VG7/v6V6q8XHrzcy7DqfdYTd6Td+se/aN27973rqcDBx+n4leJjMFdVcw1u g3OJssf/ANcse9657G6cWdSHTrXfQO4uZqCz32Mb7vou2s/SLqUAgqSSSRQ//9P1RJJJJSlyf1++ rlWdgu6vjkVZ2AwuLuPUqb73UuP79fusx3/v/o/8KusVPrGE/qHSsvBrcK7Mil9bHngOc0hhf/I3 fTSU+IGrcz1AAATBA8fH+07/ADEKzqGUAagQ0N03Dk/Fdz9bvqg/peLT1XAb6ldNLKup1gchjW1u zdv7r9v63/7E/wCnXn+WGMvs2F2ydOJiP81G1zF73O1sdM+KP0/Cu6jmU4WLsN17ttXqOFbS79ze 787+Qu/+rFH1SZ0zEz6cVpzMive5ln6Z7Xg7XsY5427N7faqfU/qLm9T61d1vp1lWDhNIyHg7jZ6 7B6l3oVMAa1tjmNf/Ofzlj0LUhH+LPJZg3W3ZjX5ray7Hx6xtrc8DcKrLrff+k+h9GtVf8WnU625 mZQ7GbYNnq03hg9RjmlrH0faD7tjmv3ej/5muyttdefUL3Fz9Wknjd/vWn1vFoxcTEGNU2mii0t2 VN2sY1zLPdtYNrG79qVqcXrfQ/8AnbXV0+2wYnpWfaG3hgseGgendWzc5n896jP8xCxOl1dErf0j Gc+ynEscK32kF5Fgbke/Y2tv+F/Nat7oNNhyH5Efogw1h08uJa/2j+q1VvrDjspzqrmEzmbvVBOk 1tra1zPzm+z6Sb0R1b2NQ+/6u2VVjdZfVcGDQS528M5Wb0jHdfngD9GcZ2+1rhqC0wa/89dMytlb G11tDWMENaNAAFi9HH+WeoH+W/8A6tGtld031lord0/7RH6al9ba3jQhtltLLm/1bGK30kR0zG/4 tqD9YY/ZF09nVH7ra0fpWvTcU+NTT+CXVXRzW6/Wp/lW3/qHf3rcWWMDJH1hOYGgYxoG6yRJs1Z6 ez6X0PdvWokFFSSSSKH/1PVEkkklKSSSSUs5rXNLXAOa4QQdQQVyNX+K76sNzLci5t19L3F1eI5+ 2pgP+DHo+nbYxn5nqW/zf6Ndekkp5TLw8fAzLMfFqZj0NDTVXU0Ma1pHua1rAP8ACNe5bfRq56cB YDFrnmDpLXEgf9FV/rLTX9lZkbQLWv2mzvtLX+wn93ctar+bZ/VH5EBul5vBwQzqY6fe/wBT7OGy 9vt37WtsZ7fdt/lre6hrgZI8arP+pcsxmn1psHiwH/wOP++rWy2ufi3MaJc6twAHckFIKLn/AFad u6YD/K/76xVvrPHrYE93WD/otRvqoS7o1byCA8y2dOGtaef5TVc6j0vH6g6h1rnsdjP9RhYQJkbX 1v3B3sf/AJ6XRXVuLJ6ViZNfVOoXXVmut1h9NxiHhx372bS72rWSRQiysWjLofj5DPUpsEPbJHn9 JsOap1sZWxtbBtYwBrWjsBoApJJKUkkkkpSSSSSn/9X1RJJJJSkkkklKSSSSU5X1lH+S3H91wP4E LSpM01n+SPyKOTjY+VS6jIYLKnRuYeNDuCLxwkpzj0279tjqAe30TWGuYZ3bgHM0/N2bXLRSSSUp JJJJSkkkklKSSSSUpJJJJSkkkklP/9b1RJfKySSn6pSXyskkp+qUl8rJJKfqlJfKySSn6pSXyskk p+qUl8rJJKfqlJfKySSn6pSXyskkp+qUl8rJJKfqlJfKySSn/9kAOEJJTQQhAAAAAABVAAAAAQEA AAAPAEEAZABvAGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwAAAAEwBBAGQAbwBiAGUAIABQAGgAbwB0 AG8AcwBoAG8AcAAgAEMAUwAyAAAAAQA4QklNBAYAAAAAAAcAAQAAAAEBAP/hOrJodHRwOi8vbnMu YWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6 cmVTek5UY3prYzlkIj8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1w dGs9IjMuMS4xLTExMSI+CiAgIDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcv MTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFi b3V0PSIiCiAgICAgICAgICAgIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMv MS4xLyI+CiAgICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2UvanBlZzwvZGM6Zm9ybWF0PgogICAgICA8 L3JkZjpEZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAg ICAgICAgICAgeG1sbnM6eGFwPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIj4KICAgICAg ICAgPHhhcDpDcmVhdG9yVG9vbD5BZG9iZSBQaG90b3Nob3AgQ1MyIFdpbmRvd3M8L3hhcDpDcmVh dG9yVG9vbD4KICAgICAgICAgPHhhcDpDcmVhdGVEYXRlPjIwMTEtMDUtMjRUMTc6MTY6MzMrMDM6 MDA8L3hhcDpDcmVhdGVEYXRlPgogICAgICAgICA8eGFwOk1vZGlmeURhdGU+MjAxMS0wNS0yNFQx NzoxNjozMyswMzowMDwveGFwOk1vZGlmeURhdGU+CiAgICAgICAgIDx4YXA6TWV0YWRhdGFEYXRl PjIwMTEtMDUtMjRUMTc6MTY6MzMrMDM6MDA8L3hhcDpNZXRhZGF0YURhdGU+CiAgICAgIDwvcmRm OkRlc2NyaXB0aW9uPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAg ICAgICB4bWxuczp4YXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIKICAgICAg ICAgICAgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNv dXJjZVJlZiMiPgogICAgICAgICA8eGFwTU06RG9jdW1lbnRJRD51dWlkOjg2RENDNDZBMTA4NkUw MTE5MUFDQzIzRDY5RTk4MUZGPC94YXBNTTpEb2N1bWVudElEPgogICAgICAgICA8eGFwTU06SW5z dGFuY2VJRD51dWlkOjg3RENDNDZBMTA4NkUwMTE5MUFDQzIzRDY5RTk4MUZGPC94YXBNTTpJbnN0 YW5jZUlEPgogICAgICAgICA8eGFwTU06RGVyaXZlZEZyb20gcmRmOnBhcnNlVHlwZT0iUmVzb3Vy Y2UiPgogICAgICAgICAgICA8c3RSZWY6aW5zdGFuY2VJRD51dWlkOjI5RDA2MDFBNzE1OUUwMTE5 QkM5OUY2NTA0NzQxMzlCPC9zdFJlZjppbnN0YW5jZUlEPgogICAgICAgICAgICA8c3RSZWY6ZG9j dW1lbnRJRD51dWlkOjI4RDA2MDFBNzE1OUUwMTE5QkM5OUY2NTA0NzQxMzlCPC9zdFJlZjpkb2N1 bWVudElEPgogICAgICAgICA8L3hhcE1NOkRlcml2ZWRGcm9tPgogICAgICA8L3JkZjpEZXNjcmlw dGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1s bnM6dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpP cmllbnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICAgICA8dGlmZjpYUmVzb2x1dGlv bj43MjAwMDAvMTAwMDA8L3RpZmY6WFJlc29sdXRpb24+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0 aW9uPjcyMDAwMC8xMDAwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6UmVzb2x1 dGlvblVuaXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KICAgICAgICAgPHRpZmY6TmF0aXZlRGln ZXN0PjI1NiwyNTcsMjU4LDI1OSwyNjIsMjc0LDI3NywyODQsNTMwLDUzMSwyODIsMjgzLDI5Niwz MDEsMzE4LDMxOSw1MjksNTMyLDMwNiwyNzAsMjcxLDI3MiwzMDUsMzE1LDMzNDMyOzY4QTRCQTgy MzRDRUU0MURDODQwQjM0NTA3MTA2QzhBPC90aWZmOk5hdGl2ZURpZ2VzdD4KICAgICAgPC9yZGY6 RGVzY3JpcHRpb24+CiAgICAgIDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiCiAgICAgICAg ICAgIHhtbG5zOmV4aWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvIj4KICAgICAgICAg PGV4aWY6UGl4ZWxYRGltZW5zaW9uPjY0MDwvZXhpZjpQaXhlbFhEaW1lbnNpb24+CiAgICAgICAg IDxleGlmOlBpeGVsWURpbWVuc2lvbj40ODA8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICAg ICA8ZXhpZjpDb2xvclNwYWNlPi0xPC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxleGlmOk5h dGl2ZURpZ2VzdD4zNjg2NCw0MDk2MCw0MDk2MSwzNzEyMSwzNzEyMiw0MDk2Miw0MDk2MywzNzUx MCw0MDk2NCwzNjg2NywzNjg2OCwzMzQzNCwzMzQzNywzNDg1MCwzNDg1MiwzNDg1NSwzNDg1Niwz NzM3NywzNzM3OCwzNzM3OSwzNzM4MCwzNzM4MSwzNzM4MiwzNzM4MywzNzM4NCwzNzM4NSwzNzM4 NiwzNzM5Niw0MTQ4Myw0MTQ4NCw0MTQ4Niw0MTQ4Nyw0MTQ4OCw0MTQ5Miw0MTQ5Myw0MTQ5NSw0 MTcyOCw0MTcyOSw0MTczMCw0MTk4NSw0MTk4Niw0MTk4Nyw0MTk4OCw0MTk4OSw0MTk5MCw0MTk5 MSw0MTk5Miw0MTk5Myw0MTk5NCw0MTk5NSw0MTk5Niw0MjAxNiwwLDIsNCw1LDYsNyw4LDksMTAs MTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMjAsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMzA7RDhCOTVC OEIzNzE3QUI1OUQ4RTg1QzMyMTMyRkU4Nzc8L2V4aWY6TmF0aXZlRGlnZXN0PgogICAgICA8L3Jk ZjpEZXNjcmlwdGlvbj4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAg ICAgICAgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAv Ij4KICAgICAgICAgPHBob3Rvc2hvcDpDb2xvck1vZGU+MzwvcGhvdG9zaG9wOkNvbG9yTW9kZT4K ICAgICAgICAgPHBob3Rvc2hvcDpJQ0NQcm9maWxlPnNSR0IgSUVDNjE5NjYtMi4xPC9waG90b3No b3A6SUNDUHJvZmlsZT4KICAgICAgICAgPHBob3Rvc2hvcDpIaXN0b3J5Lz4KICAgICAgPC9yZGY6 RGVzY3JpcHRpb24+CiAgIDwvcmRmOlJERj4KPC94OnhtcG1ldGE+CiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg ICAgCjw/eHBhY2tldCBlbmQ9InciPz7/7gAOQWRvYmUAZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsK CxEVDwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0O DRAODhAUDg4OFBQODg4OFBEMDAwMDBERDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM DAz/wAARCAHgAoADASIAAhEBAxEB/90ABAAo/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcI CQoLAQABBQEBAQEBAQAAAAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCES MQVBUWETInGBMgYUkaGxQiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl 8rOEw9N14/NGJ5SkhbSVxNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQE AwQFBgcHBgU1AQACEQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKD ByY1wtJEk1SjF2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dn d4eXp7fH/9oADAMBAAIRAxEAPwD1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSS SSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJ SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJT/AP/Q9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJ JJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkkl KSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSU/wD/0fVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkk klKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP8A/9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJS kkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJKUklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP/9P1RJJJJSkkkklKSSSSUpJJJJSkkkkl KSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJVsvqGDhs35d7Km/yj/wB9XO9Q +v2DVubg0vyi388+1n/k0lPVqpmdV6dgtnMya6fJztf8z6a86zfrd1vObtN/2ap35lA2/wDT/nFj W2vc5znOc537zuUeFT3Wf/jEw69zen0Ovc389/tb/m/TXMdT+tfW8/cx+R6VTvzKPaP/AEosdznb tzU+7d7nfSRU6/QvrPndJvbuc63Ff/O0PdP9qvcvTsHNxs7GZk4z99Vg9rl4x7vzvctb6ufWPJ6L k7vp4tv87V/6Mr/4RJT6ykgYeZjZ2MzJxn76n6tcEdNUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklP8A/9T1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJ SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJBvysbGr9TItbUz955hYWf9eek401427KtH7vtb/wBuPSU9GgZOZi4rN+Ta2pvi4wvP8/66 9aydzanNw6z9HZq7/txyw78m+1zrLXeq93uc57pKNKe7zfr306mW4bHZTm/nfQZ/01z+Z9cOsZjn Vttbis/dq0P/AG4uec7c5QdZ+aiptW5L7HbnO3Od9JztSUFtjnOd/J+ihhO137v0klMnblB35zkt znKP8lJS7fpfupJ1Lb7UlImu/Ncm9zf++qTmtaoJKdj6t/WTJ6Nlbfc/Df8AztX/AKMr/wCEXqWH mY+ZjMycZ/q1Wjc1wXirWt2+72ra+rP1kv6Lmem7dbhWu/Ss8P8Aha/5aElPq6SFjZNGVQy+h4fU 8bmuaioKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp/9X1RJJJJSkkkklKSSSSUpJJJJSk kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJDttqqb6lr2sY3lzjAWHn/XbouJ7anuynj82rj/txySnoEO2+mhnqXPb WwfnPMLgM36+dTyNzcQMxGfDe/8Aznfo1z+TnZWW/fk2vvd+890pKfQc7689FxZbU85T2/6L6P8A 245c3n/XzquQ0txgzFYfD3O/ziua9u73fRUtu1zvzU5SW/My73NtybbLXu+k57pQnO/6P7qg73e5 JJSVzv8AN2oTne7cpbnfRUUlK3OUdqdP7UlK9ySdzm/2kvpfR9qSlfmqG5S2u/d/tJbWt/8AMUlK 3O/NS9zkm+7+0l+ckpW73e76SW1qSTvd7fzf3klMfTa121Qd+9+ajNa530k72fm/u/Scip1Pqv8A Wi/o2R6Nu6zDsd76/wB3/hK16hjZFWTSy+h4fVY2WOC8YcxrXN3e7d+6tz6rfWi/pFvpXbrMJ7ve 390/v1oSip9RSQ6L6r6W3VOD6njc1zeCERNUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU//1vVE kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSklCy1lTd9jmsaO7jAWH1D66dEw9zWWnJsb+bUJH/bn0ElO+oW21 VMNlrwxg5c4wFwPUPr71O3c3Dqbi1/vu9z/+l7FzeVn5mc9z8m99/wDXcT/0UuFT6Nn/AF06Lit/ RPOW/s2nUf565zO+v3U79zMNjMUfvfSf/wBL2Llvam+l/VTlNnKzszKduyb33v8Ape90qvu/Nb9J JM530XbtqSl/d+ckm/dShJSv7Kl9Ldu/NTbmtduT7vb7UlMU3t3J925R9ySmW13/AH5Lc53t2+38 5Pt2tTbtySlbdqSSl+d/KSUx/dS/O/kpO3bt21L6SSme7aofSSd/q1P7UlMVH6Sl/wB9RGtc5u5r fotSUprfznKe1u1B9zXe5u1L6X9r81JTYa5rfc33Ibttjd273O/NTNc1vt/N/eUXO/d9ySl3Ne76 Lfc36KDZ6n0Xfmote76X0v5KZzXWO9zd/wDJSU7n1W+td/SrfQydz8J7veP3Cf8ACMXplF1V9TLa niyp43Me3gheJubtdtXQfVT6029JtbiZbt2A93zYT+exDhU+oJKFVtV1bbanb2PEtcOCFNBSkkkk lKSSSSUpJJJJSkkkklKSSSSU/wD/1/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSklCy2uphfY4MY36TnaBYuf8AXPomHuay37VY 382rUf8Abn0ElO6oWWsqZ6lrmsYOXOMBcD1H6/dQtluGxmO3953ud/0lzuV1HOznb8q99/8AXdp/ mpKfRs766dExC5ldv2q1v5lWv/gn0FzfUP8AGB1G3c3Dqbit/ed+kf8A+QXL7nfR9vtTOc53uanc Kk+Z1DOzHbsnJfe7+U6R/moPtb7nKPtanbtSUt9JM7/NS/q/5yX9VJSmu/tJfyvopJfnJKX/AHmq O381OlKSmTlBPKSSlJN3JN3JfyfpJKUl7v8AyKTdu3cna5u3dtSUrbu+km+j9FL6TVJzW7W/u/mp KY+385Lb+ck5vuUtrvd/JSUprnOTuc36Khud7vzUtu53/VJKVt/te5Pu2+1Srb7m7vo/upnVtb+d 7v3UlK3N27XJ935zm+5C3Ob7kvbu/wC/JKZO3J/c1zfzfzkzXt/tO+io73Od7vpJKSusb7VDbu9q ju93uSc3+Ukpk2z3bfa138lM6za7+t+d8EzmuS/Rbdznbdv3JKY+7a5rne785RbXuc3b7v5LUz8m tvtb/wBJV7Mp35rtrv5PKSnsPqr9bW9Itb0/Mfuwnu2td/o3H/0UvS2mV8+Pe5y9z6Bf9p6Lg3zu 9Shkn+yhJToJJJIKUkkkkpSSSSSlJJJJKUkkkkp//9D1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJRseytu97g0D852gWLnfXDoeH7Rb9of+7SN3/T+ gkp3FCyxlTd9jgxo7uMBcHn/AOMDPt3Nwqm4zf3nfpHf+QXPZnUc/ObOVe++f33f98SU+hdQ+uXR MPc1t32m0fm0+7/wT+bXOdQ/xgdQt3MwamY4/ed+kd/5Bctu2t2/uoe76TtvtTlNvM6nnZxJyr33 E/vu0/zFWc9rf7Ki5Q2/mpKZep7lPduUGt/eU/opKXTN+klu/dSSUqUvzUkklK3bUkkklKlLc3/y SRSbt3fyklKS/s/SUtzW/RUfzv3v3UlKc32p/b+c7+qmUdzf7KSkm72+1R2+7+SpbVFzm/RSUpL8 1P7lJ1ft9rvbtSUxS/d9yb3fup/Z/ZSUy2+12781Ddt937zlJvuTFJTH87c3+0n+j/KTqLbHO/8A JJKS+1rXfnO/O8FB+3d/KTNd/wCYtS2t+i32/vJKU5rvpfmpO27dyi5zWu/d/kpbvbu/Nakpd236 TW+1La3d9L2pt7Wt3fnfmtVa3Lb+b9FqSm1ua36Xu/kodmS1vt/kqg/Kc7+Uhutc5Jc3X5n5qrPy Xfm+5Ac7c5Mkpk6xzvpJb1H85L85JTJrvcvZ/qLd6v1WwfFjXVn+y9zV4u1etf4s7d/1cNf+ive3 79r/APvySnrkkkk1apJJJJSkkkklKSSSSUpJJJJT/9H1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSkkkklKSSSSUpJQe9lbdz3BjRyToFi9Q+uPRMPc31ftFrfzKPf/0/oJKd1RfYytu57g0e LtAuD6h/jAzbNzcOpuOz993ud/5Bc7mdTzc8l+Ve+74u0/zUlPomd9cOiYe5ov8AtD2/m0jd/wCC fza53P8Ar9nW+3Bqbjt/fd+kd/5Bco6x21v7qhvb9H/opym5ldT6hnO3ZV77/wCS52n+aq7m7Xe1 D3/nKW5JSnJtzk3tSa5qSlO/eUdyW5N+akpTk7W+1M1u5T+ikpW33KLmtUnbk30klLhL6Sk1rvpK LdySlJJJf2UlKhJLdtb7VFzv85JTJMo+5P8AyUlMm+5Rd9JT+j/WUdzvckpdv0kv6yf2/wDfVD+S kpl7vopO2td9JL/vqXuSUy3f2nKbWtc33O9qg383/opbklMtzmt9yg73J9yb6SSlt30Uznt/O9qe xQ2tSUy3bkvc1qg+2tqFZe1vt3JLkzn7Xf1VD1W7Xe5u7+V3VN2Vt/OQX3uckpuWWtb+77vzkGzM b/NtVRztySSmbrbHKO530nJkklLJJ0/8lJSyW1ySl7klMUk7lH3JKUF33+LXr+HiOt6ZkP2OyHtd Q53G6NvprgYW/wDU3oV/V+sVNb7cfFcy3IP8kHc1v9tJT7WkkkmrVJJJJKUkkkkpSSSSSlJJJJKf /9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJZvVut4PSq92S+X8tqbG4pKdJQc9tbd73BrR 9Jx0XCZ/+MDOta5mDU3H/dsd+kP/AJBc9kdTz84/rl77/wA73O0/zEeFT6LnfW3ouHub6vrvH5tW v/TXPZ319zLdzcKptDf33e93/pNck5236O3+ql6vsc3b70eFTcz+p5GZ78jItvP+jLtFRc5jW/yn KLnf5rUtrUlK3fmpSmd+7+alub/WSUtuc5Oo7m/+RS923c1JSmp9yZrv/Mktu73JKVu9qW7clt/e S9rUlMfcpbdyl+a535qi1ySkrUPd7Uvdt9ygkpnuUmuUNyW7akpn7dyXtUN3uS3JKZuemUdqfa7b tSUt7nJN3KbWJbXJKYtYmRXbnfnKO1v0tySle3a137qX5u3ak1qTfpJKV/K3J/buTe7836O5La1J S6ZQ3bU+5u1qSkn9ZR+i76KZz2t9qg7JakpLud/mpnWNVG3OVd+U5ySnQtya9n0vd+6qrsza3+V+ cqbnPd+duUElzZflOchOsc76TvaoSlu/NSUukmTpKVudt2pk6ZJSpUt3uUSmc5JS8qTdyAuj+r3S sHqVDaq3Vv6m/wB3pWyGiv8A4HZ/OW/8Ykpxq6rbXbamue791rZ/6laeN9WupWua2yv0nO/Nc0ud /ms+gvQuldAqw2Nb7d23a5zWhv8A1K1a8Suv6LU1TwWN9R8lza9zW7vznWun/oMVT62fVf8AZTmZ lDf1O32Oa3hlkf8Ant/+DXpzWtaqXWsHG6h0y/Ev9rLG/S/dI9zXpcSnxpen/wCKzDNfTMzKP+Ht DB8K2/8AqReb5WM7GybKHO3bHbd3ivYvqTh/Y/qxg1nRz2eq742H1E5TvJJJJq1SSSSSlJJJJKUk kkkpSSSSSn//0/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSy8d671M53X8y97pb6rq6/6lfsYv Xcq70Ma2/wD0THP/AM0bl4Ta51jnWO+k525zvikkN7d7WuUm2e5VMa/81ys1tc5u5qehk130v+qS d9H2pfynJOd+d9FJTF30Wtd+cpf6+1Nu3e7d7v5Kbc5BSz3O3fupe3b/AN9TtTO9rUlLtTqDdzfz U/8AKSUprU+7b7UzXN2pbmt/76kpk73e7/NTNa5S3fmqDfd7d39VJSVrvpfylH27v0n0lHd7vans d+ckpXt+in2tUGuTt3JKXSc3cm27mt/NUm+1JTDa5PtUnO9qQSUprdzmt+k791Ld7lNvt2/yf3VJ 35u72tSUj3O3e1S3O/O+ik5rGt3NUPdu9ySmblD87+qn/NTJKVu2/SSKjub+d/ZUbb2tSUkb/m/v JOta36LvzVSfmbfb+bu+kq78x25zm/nJLm6+1u3+UgWZX7qputc5qhKSmxZlv3e385Cda7b/ACv3 lBL/AKlJSv6yUpJJKUkkmSUul7WplFJS+5S9zlFjXOe1rfpOc1rfiV12H9RcrfX9ufta76LaPd/4 N9BJTyzW7ldweg9TznfoKHNZ/pH+1v8A0l6L0/6q9Mw/5qhrn/S9R2rv89a7MVjfc5vuTVPn+N9R Mm1zq7bHNdt/R2NZ+i3f8Jv/AEiweq4bMG12I5rm2s9r2uXsjWNb9H3Ljv8AGJ0GzJYzqmIze6pu zJa3nb/g7f7CSnzix236PtU8HLvoya7anbbaPcx/hCG9Qbua5u1OTF9w6N1GrqXTMbOb7XW1+9vg 4e2xW331tXG/VPLv/ZVbXO2sbY5rdv8AZ+kt51jnfnbkxXC2rOofuqvfk2WN2/muQ/pKL/ouTUPM 5/1W6n1jrlv2Op3oOc3fe7Ssae/3L1LGobRRVQz6FTGsb/ZG1UegMsZ01hs+k+Xt+BWmnrVJJJJK UkkkkpSSSSSlJJJJKUkkkkp//9T1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU4/1syfs31cz7OD 6LmN/t/o14yvS/8AGP1XHq6W3pwf+sXva4s8GN93vXmiS5j9F25quY1vqe1Vfaob3VO3fmpynTs9 Jv8ANu3Ocp/S/dcsR+U5zt30WolWc5qS11Nv5u3+Uk7ch42U2xzUexvu3N9ySmKdrd3t+ioN/e/d Uvc787+ykpjtd/5FO1jtv8lqdrdqVjf3UlK2/nKLt23+T9FSd7vzvopOc539pJTFvt/qpe1La783 6P5rknN/s/yklK9u7+T+8pe1yG32qW5ySmbmtTN2uUHOcptckpdzdrUvzvd9FyXtckkpluUfzv5K i5zU+7akpf6Kn6m5v8lBc/b7vzXKDr2tSU2HO/OUXOVO3L2uQHZjvc3/ADUlN519e1BszGtbt/OV H13uQnOSXNuzM+l+8q/rud+coSl7klKKQSSSUpMnKZJS4SUdyZJTNJTxsa/Jt9Kit1r3fRaxslb/ AE36l9Xy9tl+3GZu+i/Wz/ttJLz+1FxMHKzLPTxqLLXO/cbK9A6f9R+mYzmuta7Kc3/S8f8AbbF0 GN02ihvp1VNYz91ugTUPlPUOg9Q6axludVtqt3Nrc1w0d+7Ystzl7dldNxM7FfiZNe6q1u1zf+/r xrqvT7em51+Ff9Oh234j8x/9tOU0/X2uY5rfc1dv/i+6/Y3J/ZeS7dRku3UOc6dtn+h/qPXBvV7p GS6rJodX7X1WttY7vISS+5N2qDrGt+kqX2x1jd373uQnPc5R8Sm5Zlt/NVXKtfex1X5r2ub94Qkn O2+5FD5E3Dyb8n7NjVPvt3Ob6bGlx5/krqOj/wCLDr+ZFmZtwKj+/wC6z/tli9W6d07DwaA3GoZR uEv2NAJP525XEUcT5j9VaPQxMuiz6VGS5rvOBtW813tVOhja786r6Lm5L933qy36LUF0maha3c1z f3lJO33W1t/ec1qSHq8VgrxqmD81jR+CKotbtapIrVJJJJKUkkkkpSSSSSlJJJJKUkkkkp//1fVE kkklKSSSSUpJJJJSkkkklKSSSSUpJJJJT5Z9bsJ+F129mV+lqz/0tFruWz/6TXLvrfW/03f2XeK9 B/xm4wdRhZJ7OfUfmN7P+oXD1N+1/o3e29jf0bv3oTlzUeza5Av+h+8rT9233fm/moTXOa5rvzmp Kc7Za7/BuS9zfzdq227bG7q/b+81Qc1rm7dqSnOoe/8ANWzivdZV9H2rMtxfe30mu930mtWvRU6q rb9Hc1JSnN9yG+2qr3OcnybPTqdY381ZTGutd6lvu/dSWt/7Y381jnN/eSbmNbZtc1zmO+j7U1e3 2u3e785vgisv/Nd7tqS5m3Y73Ndu3fgltQ737tr6/a9v7qM33Na535zUlrH+Sm937qJt/d+kn9Ju 36Xu/OSUi921rknbv5Knt/N3e1ql/Z9rklIvopblFzmbtyg61rUlJmpnOaq7slAdlN3JKbjntb7U CzJc385VHXud/JQt276SS5tuy3f1lXsvschpJKVud+8kUoTJKXCi5L3J0lLpJk25JTJJO1q0sP6u dVzPdVQ5rP8ASP8AaP8ApJKcyEvTc521rdzvvXb9P+oVXtszLXW/vMZ7R/nfTXT9P6Hg4LW/ZqK6 nNbt3NbqmqfJPslrvotc5qE9np/SXb/Xjp1vTduZjN21ZLtr/wCQ4/8ApVcJbud9L6SdxKd36vdc b0Zz76nb7XOZ6lX71Xu3r1Lp9+NmYtWXjO31Wt3Nd/31y8K3bXNd/KXpH+Lvqf6tk4bnfomubbR8 D7Xpsk8L27Wp3Oa1VLMz91AsyXu/OQQ3XXtauI/xjVMtxqMttbWvZZssft9xBH7y6Xd+aq+T0XF6 4GdPynuZW5/qAsjd7fdt9yEVPkDldo6Z1BtDsx2NY3Fa5rfXc0hsn6PuXtfS/qZ9W+mQ7Gw2Ptb/ AIW39I/77EP68Y7Lfq5fW4e1hY7/AKScriczG/mKv+Lb+REc7aqtFjm1Vt+ltrb7vkp+o5zUFSSu tT1fpb6m/vWMb+KArPTm7s6hv/CN/D3JKeuSSCSK14a9u3rHVa/+Ha//ADgiNcl1Nuz6x5zf32VP /DapNb+6guZIuG3fmUN/ltQHfRWt0fp1vqjMtG0fmMdyf5aSndSSSRWqSSSSUpJJJJSkkkklKSSS SUpJJJJT/9b1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU8z/jBo9X6uvsjWi1ln/ov/AL+vLdzv a76Lm/RXtHXcF3UOk5eG36d1Tms/rcsXi9jLanuqtbsex21zXdiElyW1zclnqfRe36apou5zW7q/ pbfc3xTVsdbQ2/btdu22e3w/OTlMK7HVP/ku+k1Hd+836LvoquiUWMa53qbtrm+34pKTYuT6Vn8p quOf6nub9FyyXfS3NVjEv3e13tSU2Xbba3V7fpKj6bq3bfo7VoOd9Ha7clsY76TUlrQa5zf5Tf3V NrXNVz7LVuapfZqvzvdt/eSU1K2usdta33OV5rGta1rfc1ntTN21/RQ3ZLW+3ckuZ7W7k1jmt925 VbMr6W1V7Mpv0tyS1uWXt2+5Btyfzfzf3lRsyXfmoTnud9JJTbsyWqu69zvooaSS5dznOd7k3uSS SUr3JJJSkpZOk53uS3e5JSkk7Wq3h9Mzsx36tQ5/5u7bp/npKaZSXW4P1Cy7HNdmWtY385tWp/z1 d6z9RaK+m+p01rvtVXududO8fnf20lPBKO7apPa7d/1SA9ySn0z6p4PQcvGd6FTftNTW/aa362A/ 6Vn/AAa6pmMxq8i+q/WHdN6nRlue79E5rHN/eqcdtjHL2L1atu5rvb9JqbJS7WNap+1VrMxrfo/S QLMqx38lN4lL9ZxMPqXTrcPJd+ie36TeWkfRe1eM9QxnY2VbjOdu9KxzN3jC9ec9zm+1crkf4v8A q3Wur5OXW6vHxLX7vXfqTp79lTEoqfP12H1EdY3Je327X1bvuLV23R/8WX1d6fFmS12fd+9f9D+z Q3/vyB1TBqxfrX6lDGsqdhhrmNbDRDtv5qdJMU+5ydrUN1rfzUvVdtTEJtrVodAE3Wu/daG/eVlt +ktj6vDS8+Oz/v6cp2Vl/WWr1eg5zP8AgnO+73rUQM+v1cLIq/fqe372orXiMT9JjVO/erb+RWAq fStrun0fyW7fuV781MXsVd6LX/lGr+Tud+DlS/OWt9XaHOvsyXN9jW7WO7En6aMUSegCSSSctcbq /Qvtl7cuhzashrfTdu4c36SwsoPw+qt6dY5r/wBAL9405ds2LtlxvWv/ABVv8sRn/VuQTFlQ39Ox v0v0jfyrsFx9DXfaav8AjWflXYIRVJSSSSchSSSSSlJJJJKUkkkkpSSSSSlJJJJKf//X9USSSSUp JJJJSkkkklKSSSSUpJJJJSkkkklKXD/Xv6q+u13VsFn6Uf0pjfzh/pf/AEou4ShJT4K5FoyXVt9N 3uY76TV0/wBdvqv+zsh3UMRv6je73tb/AIOw/wDouxcknLlW17Xe33NQtqtUWN/m7Pou+i7wKC9j q7f3mu+jtSUwSa5zfc1Oo7UlN6i1tnt/eR2tbu/8ksptvpO3ItnUmua3b+akp0bLWt+l+aq9uXWs 5+U6xBdY5yS3hdCzM/lKq/L3fRQJUfzklyVz3uUFFykkpSSUJfRSUpJP9JO1JTFJOi1Y197ttTHP d/JbKSkCf+0ugw/qZ1fJa1zvTo9vta92v/RWXk4LMOz0r3e9v0mpKaX0Vr/V7oLut22N9dtHpfmu +k7+osm19X+Da7+0i9P6jk4z2uoc5l7LGvqc3x/cSU+j9P8Aqd0zEdu9L13fvW6rfow6627Wt2tb 9FqD0PqdXVem1ZbW7Xu9trfCwfTWg5zWpvEpg2pqnt2obsmtrVWszP3f7KbxKfOPrx0B/TeoWZdT W/Y8qzczb2d/hK9q5N69H+vTfV6R6rvpVWtdu+O5q43p31b651d3+T8N9rf9Jt21/wDbr/YnRkpz cZ221eudMvss6bjWOdu3VN+l8Fy7/wDFl1HB6Vf1DOyWerQzc3Gq93f8632rpOlbf2Zit+i5tTWp skttzkkztrVD1UEJPo/1V0XSanV9Pp3H3PbvP9v3rmXOdtcuux2enjVM/dY1v3BGKkq5X6zDZ1zD f+a+h7fuO5dUuZ+t7duT0y3/AIR7D82pxWxc5zdqk3a5qfak1MXLtW/9Xx+rWu/es/74xYC6HoLX fYNztN73Ob8PotToqdJIpJIrXhqOmZ2DZZiOxn2NbY7ZY1pIc2fY9Rqyqr2udU7c1rtrvIhd2vOe jt9mX/4Zf+VNkui7XR6KsnOay1u5u1ztvw/eXVMY1jQ1g2tbw0cLmvq/P29v9R//AH1dOlFElJJJ JyFLjOtf+Ku3/wAKM/K5dmuM6tr9a7//AAtV/wBUhJMUuL/TKm/8I38q65chg/8AKVH/ABjfyrr0 IqkpJJJOQpJJJJSkkkklKSSSSUpJJJJSkkkklP8A/9D1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSS SUpJJJJSHKxqMvHfj3s31Wt2vafBeP8A1i6K7pGe/HB307j6D/Fv8pezLzj69e/KbW76O57vxSTF 4lrVZxavUodU529+72eIH7qG5m1ztynW1u31N2x35rvNJKN1Tmt2u9rm/SUHNcrt9bsuttjPbe32 2N8f5aqV7drmu9rmpymva32qo1XMn6LtqqNSUukknSUoJfScna1JJSnNTBOpNqss9tbXOd+61JTF O5zVG1j63bbGua791yTWOc3dt9v8pJS9TXWP9NrXOc76LW8rZ6f9Weo5nua1rGbtu5/P+asvFzm4 drbam7b2Oa5j/Ar0/wCq/U6Oq4fqOa1mZU7bfW3v+7b/AG01Tl9P+o+DV7sndkv/AHXe1v8AmtXQ YnR8bGbtqraxv8lq021tan+ilxKQsxmt/NXDf4xOi11Oq6pU3a2z2X/H/BvXePva1UepW1ZONZjW Ma9j27dr2yE3iU+L2/5qFVbZRay+t217Hbmu80bJr9O2yv8Adc5qWH03O6hb6WDRZkvd+axpKkU9 59Q+pPbjZNTvznNt+bl09mY530Vyf1T6dmdOyMrFzGeldU1u9nMT711DWJiZK3uUWuU/TapO9qah J07Fry8xtdtTbame94e2Rp9D2/110zWhrdrRAHAWF9Xv6Xef5DfyreRitaXWqvV6VmV/vUPj4gbl x+C7dh1Ob7fa1d1awPY5p/OaW/euB6V7cNtbv8E5zPuKUkxbcKW32pbk6CVVt9T2/ve3712beFyG G3dksb+9Y38q69GKJKXO/XRn+T8a+P5rJY53kDuauiUX1ssZssbua7lp1Cch41r2ubuTOcrX1u6P 07H6Pbl0VeldU5jmlhI5e1nCpe7Y1MlFc6/TOlVZbfXvduraduxuk/1yt9jWtaGtG1rdAFndA/oL v+NetNOWqSSSRUpeddKb/TG/92bfyr0Vee9O9tmc3/u3b+VNkmLt/V//AJRb/Uf/AN8XTrmPq9/T 2/yWP/74unRiqSkkkkUKXFdVd/2WZP8AJoqXarieqf8AirzP+Kq/IkUxbOC3d1HG/kva5dauS6Z7 uo0fyXrrU2KpKSSSTkKSSSSUpJJJJSkkkklKSSSSUpJJJJT/AP/R9USSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpebfXZzXdQb/b/KvSV579e8F1GbXcPdVa13yJO5NkmLldF6AetY2cyr25WM xj6PAk799Tv66562t9VjqrWua9rttjHaEH+UvSv8XeA2rplud+flPj+zX7VW+vn1W+0Vu6vhM/Ts H60xv57R/hP67E5LwmJe6t/0tr/zUTMZVY1t9Tdu5v6RvmqjXK1jXu2/9F3mE5Tm3/RVP85avUMN 1e6yr31O/BZX5ySme781L2qO1SqqdY7a1u7akpm1jnfRbu3K7h9Gzst22tm1v51juAuu6D0bp+dR X9mc1ltDW+vX+d/W3rqMTpVVFe2tu1rU2Snh8H6lvsbuyXub/J7LocX6o4Nf5rm/u7dF0tdFbU/0 UlPF/XX6tMdg/tDGr/S4zWts86x/5Bedvc5e5ZPpWVWVW+5j2ubY3yK8e6/0+rp/ULKKHOdV9Ktz tClFTkO27dv5y6z6k9XfR1XGr3e2xrqrf++Lk3fSWp9XN37To2/m2N9vzSkl9hdme1Afme5VP6yf Yghd1tjvopbvznJ9m1Csb7fTb9JJTDpf+Ljoj3/tDP35Vl7vV9J3tYNx3fQYutxMHDwahVh0V0VN /MraGj/oo7WhrYHA4TorXjer1+n9Zb3fnW1Md/3z/viLuUvrGzZ13Gf/AKWhzf8ANKhu9qC5dRc5 PuUSkp1fq57nZLv6jf8AqltrH+rjf0V7v3nN/IthCK1S4GhraszOo/cyX+34neu+WNmfVvGyMl+T U91D7Tut2iQ5376UlOG3a5PuVcWWVdWzOnuO9mO5u07YmVcw/wCmUf8AGs/Kgudfo/S7anNysjR2 32M7ie71spJJ61SSSSSnE+un/idyf61X/nxiwtu6pq3frn/4nMn+x/1bFhuc70m/1U2S6L0f1e/o Lv8AjX/lWos36v8A/J//AFx/5VpJy1SSSSSlLz7B/pXUG/8Adu38q9BXBYn9L6h/4bt/6pNkmLr9 Aa1vUfb+4/8A74umXM/V7d+0Hf8AFu/KxdMlFUlJJJJyFLierN2/WrLc78+qrb923/vi7Zch9Ya9 vX9/+kxmf9F702Xypiy6Tr1Sr+sutXG9Ds39YqaG7vpe74BdklFUlJJJJyFJJJJKUkkkkpSSSSSl JJJJKUkkkkp//9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSlmdY+r/TetMa3MD/AGfR cxxYVppJKa3Tun43TcKrCxW7aKG7WNVmEkklPl/13+qv7Mud1DDb+pXu9ze1Tz/6KeuXY7b7fzvz V7llY1GXQ/HvYLKrW7XtPcFeR/Wb6vZHQ851Ttz8V/uxrfEfuO/4RiS5z7cp32Zu1v725yyLP81X 3u3UbXLPd9JJSzvaouvsa3a123+qk5DenKel+o/U7cbqbP5W1tn9Vy9Wa9u3duXiHR7XVdQqc395 eh/brW1+pv3Nf7mqOXzJ4Xp3Zlbfaqt/UG7fasJmZbZt27v71arY93udu9yCG7Ze6xc1176qdU67 n1OwGM2sr222vdtDdfaugaza1bnQa2txHWfnPd7v7Kcp5Dpn+KXDrc2zqeZZe7/RUfo2/wDbjv0i 0us/Vvo/SsLHf0/FZQ5t7dz26uMh303uXYrH+tVe7otrv9E5j/ue1FHE5LXN2p9zvzUKp25jf5Sm mJZfmqVTd2TU3811jPyoaL0/c7qFDf5f5PcnKeqSSSRWvNfXBu27p1/7tj2H+01VGu9q2vrF06/q GE1mNt9Wm1trQ7vt0cxYF4ysHHdfmUPZU1zWufp3+j+cmyXJlF9jW/S/O9rU9Tmu2u/NWv0HGqdW +97Gl7bC1jtuoENRU2Oi4duJiu9b2vtdvc393Rrdq0UkkVqkkkklPBZP/iq6n/Y/IruI39bo/wCN Z/1ap5f/AIqupf2PyNVzG3faqP8AjWf9W1Bd+i9gkkkitUkkkkpxfrj/AOJ7L/sf9WxYbfdW3+qt z64/+J7L/sf9WxYTXfok2SYvTdB/oH9t/wCVaKzug/0Af13/APVLRTghSSSSSlLgaNzczqH/AIbt /Ku+XANdtzuot/7t2psvlTF2Pq67d1F3/Fu/KxdOuY+rLXOznv7Bjp+ZaunSiqSkkkk5Clyn1uxc /wC3YeZjVOvqa19V+wSR+dW7a1dWkkp5n6qdLyqrLs7MqdU5/tqY7mD9J66ZJJJSkkkklKSSSSUp JJJJSkkkklKSSSSUpJJJJT//0/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSln9b6Ni9ZwX4eSOdWP7sd+a9q0EklPhvVumZXTMq3DyWxaz8R/pGLH2uXtP1t+q7Ou4c1bWZ1X 8zY7gj/R2LisD/Fn1287cx7MOprv3vUJ/ssSXPFOarGB0XqvU37MHFfkH95rdP8AP+gvWelf4uvq /g7X3sdm2j8636P/AG0umqpqoZ6dLG1sHDWiB+CSny3B/wAWvU8Sh/UOoW11Oobvbj1+46fvP+gt xmMz0K6v3Wrtcmr1ca2r99jm/eFxtH0W/wBVNkjiSVVVVN9rUZrlD81IIpZuct3ojY6ez+UXO/Fc 9b7m+36S6TpOnTqPgfyuSipuqj1ysW9IzK/+Be7/ADRvV5Qtr9Sp7P32ub96K14zBs3YzHfyUZUe nbqKnUW+19Ttjm+YVxrmu+imLmas9Jbv6iz+Ruc77kCih19raGO2uf8AnOXRYPTqMNv6Mbnu+nY7 koxU20kkk5apYX1zbu6Bd5Pr/wCrat1Yn1y/8T2T/WZ/1bUlOTV7WNb/ACVudA9uM9v/AAjnfg1c 9iOd6TN37q6LoHuw3u/esP5GpsV0nUSSSTlqkkkklPCZn/io6j/Y/I1Wsb+l0f8AGs/6tqq9Q9v1 q6h/Kaz/AKhqt4v9Ko/41n5Uz9Jc9gkkknrVJJJJKcb63f8Aiey/gz/q2rBY72N/qrd+uP8A4nMz +q3/AKtqwmO9jf6qbJdF6b6v/wDJw/rv/wCqWis7oH/Jlf8AWd+VaKctUkkkkpS4PqeHmdP6rl+q xzqMyx19FrGkjX6VT9v+EXeJJFTi/VnDfThuvtY5j7uGu5DR/wCTW0kkkpSSSSSlJJJJKUkkkkpS SSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp//U9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSS UpJJJJSkkkklKSSSSUpJJJJSkkkklKXHX1Nqy7a2/m2O/KuxXMdaZs6i/wDlta5NkmLWSUWp0Eqc 5dP0z+gUebGn71gYWBfnPb7Yx2u99v8A6TXTsY2toa3QN0CMYrWSSSScpq3dNwb3my2hj3n6Tu64 5vs6j1CpvtZVe5tbfALu1wzxHWOo/wDHuTZJi6nTP+UqP7X5F0q5bpp/X8f4rqUooUkkknKUsT64 /wDieyv7H/VtW2sX63/+J7M/qt/K1JThY38xXu/db+RdF9XP6C//AI135GLmsb+Yq/qtXS/Vz+hv /wCM/wC+MTYrpOqkkknLVJJJJKeE6j/4rOof8XV/1DVbxHO+2Uf8Yz8qp9U/8VucP+Dq/wCpareJ t+2Uf8az8qZL5lz2KSSSetUkkkkpxPrhv/5u5mxhfDWlzW/uh7fU/wCgubxclt9THVe7ft27e8rv i0HlZ+P0TpeNkfaKKAyyd3tkNBP7rP5tJLaw8duNjV0N/MGvx/OR0kkkKSSSSUpJJJJSkkkklKSS SSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklP//V9USSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKWZ1TpJznMfXZ6b69PcNCFppJKeNzcX KwLamXta5tu7a9h8E272/wApa31mbuON5b/++LHTFz1XS2tb0/H26fo2q2qnSv8Ak3G/4tqtp61S SSSSlLh7hHWuon/hV3C4rK9vXOoN/ltd+DU2SYtzp3/KNH9ZdSuTwPd1HG/r/wAF1iUVSUkkknIU sf62/wDiezv6g/6pq2FkfWz/AMTmd/xf8WpKeaxXfq1f9Vq6f6un9Tf/AMZ/3xi5XDc12JX/AFWr qPq3/QrP+M/74xNG66TrpJJJy1SSSSSnz/rbn1fW7KcW/Trq2u8RDVodMbv6jjM/l7v833rT+sH1 c/attGVRb6GVj7g1xbLXNP8Ag7Euj/V+zCyftWRcLbdpYGMEME/S+km8PqXO6kkknLVJJJJKUkkk kpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSn /9b1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JTjfWMfo6D/KKxG/nLe+sH8zV/WP5Fz7nJklz1fSv+Tcb/i2q2qnS/8Ak6j+oraetUkkkkpS4rP9 v1hzv5Tmf9Q1dquK6q3b9Ycr+qz/AKhibJMWxgO/yjj/ANdq61ch0/8A5Qxv67V16UVSUkkknIUs j62f+J3qH/FfxWugZ2KzMw78Sz6N7HVu+YSU8J0927Er/ktbtXWfVsfqL3fvWGPkGtXI4eH1HGtd 0++h3rs9m5rTsd+5Y1y7vp+KMTDZR9ItHvd4uP002KZNlJJJOQpJJJJSkkkklKSSSSUpJJJJSkkk klKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU /wD/1/VEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk kkklOV9YW/q1Tv3bP++uXPOauj69/RB/X/guZd9FMkui9d0j/k6j+qrapdH/AOTaP6v8VdT1qkkk klKXGdY9v1hyf6rP+oauzXG/WKp9HXPXf/NZDG7Hebfa9ibJMWWG79eo/wCMauwXFYLnW9Rxah9M va75M97l2qUVSUkkknIUkkkkpUJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSS lJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkp//9D1RJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJTndcbuw2/12 rmH7WtXVdYbOC4/uuDv++rkrbPpNamSXRet6Kd3TKD/W/K5XlR6O3b0ygeLZ+8q8nrVJJJJKUqfU umYvUqW1ZIPsdvY9uhaVcSSU5nT+gYODf9or3vv27d73Tp/VWmkkkpSSSSSlJJJJKUkkkkpSSSSS lJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUkkkkpSSSSSlJJJJKUk kkkpSSSSSlJJJJKUkkkkpSSSSSn/0fVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSU pJJJJSkkkklKSSSSUpJJJJSkkkklIMzHbk4z6CdvqN27lyLuj9Vde7G9B23drZ+b/X3LtUk3hUix 6G0UMob9FjdoRUkk5SkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSkkkklP/9L1RJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKS SSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJ JSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklK SSSSUpJJJJT/AP/T9USSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJ JJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkk lKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUp JJJJSkkkklKSSSSU/wD/1PVEkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkk kklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSS UpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSkkkklKSSSSUpJJJJSk kkklKSSSSUpJJJJSkkkklP8A/9k= "
+         preserveAspectRatio="none"
+         height="600"
+         width="800"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:#ffb380;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Send-3-7)"
+       d="m 478.24457,-314.69659 207.96473,0"
+       id="path4147-7-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="layer2"
+       inkscape:label="Layer 2"
+       transform="matrix(0.87997314,0,0,0.87973874,717.69954,-635.13787)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4.54619884;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 68.690373,381.62091 89.903577,103.03556 520.22856,-181.82745 0,-140.41121 -602.050917,14.14214 z"
+         id="path4749"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="layer3"
+       inkscape:label="Layer 3"
+       transform="matrix(0.87997314,0,0,0.87973874,717.69954,-635.13787)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png">
+      <path
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 67.68022,381.62092 509.11689,242.21987 640.43672,316.97115 158.59395,486.67678 Z"
+         id="path4771"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 191.78571,478.43363 175,456.29078 215.35714,444.14792 230,465.57649 Z"
+         id="path4773"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 312.85714,343.07649 49.28572,-15.71429 39.28571,25.71429 -53.57142,18.57143 z"
+         id="path4775"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 258.96085,456.71535 -16.78571,-22.14285 35.81145,-14.66824 19.18855,23.95395 z"
+         id="path4773-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 328.1563,432.47169 -17.79587,-23.15301 35.81146,-13.15301 17.16824,22.9438 z"
+         id="path4773-3-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 393.81621,410.24833 -19.81617,-22.64793 34.8013,-12.14285 19.18855,22.43872 z"
+         id="path4773-3-6-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 459.98121,388.53005 -23.85678,-24.66823 35.30638,-12.14286 22.219,22.43872 z"
+         id="path4773-3-6-7-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 523.15132,364.92366 -22.84663,-25.17331 30.7607,-11.13271 26.25961,22.9438 z"
+         id="path4773-3-6-7-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 585.2757,339.16477 -22.34155,-20.62762 30.25562,-11.13271 26.76468,19.40827 z"
+         id="path4773-3-6-7-56"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 122.08519,384.48944 -15.77556,-15.57686 40.35714,-12.14286 13.63271,14.86258 z"
+         id="path4773-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 180.16896,364.28639 -15.77556,-15.57686 40.35714,-12.14286 13.63271,14.86258 z"
+         id="path4773-2-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 248.85933,342.06303 -15.77556,-15.57686 40.35714,-12.14286 13.63271,14.86258 z"
+         id="path4773-2-9-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 305.42788,325.14298 -18.30094,-15.8294 38.0843,-11.63778 15.40047,16.12527 z"
+         id="path4773-2-9-1-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 367.58782,303.55689 -15.77556,-15.57686 40.35714,-12.14286 13.63271,14.86258 z"
+         id="path4773-2-9-1-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 429.71221,283.85892 -18.30094,-13.05148 33.53861,-9.61748 16.41063,12.3372 z"
+         id="path4773-2-9-1-0"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 486.28075,266.68633 -14.7654,-11.03118 34.54876,-10.37509 15.40048,10.31689 z"
+         id="path4773-2-9-1-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 266.1752,330.10313 9.09137,9.09138 49.49747,4.04061"
+         id="path4945"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 192.43406,350.81126 17.17259,15.65737 116.16755,-16.16244"
+         id="path4947"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 136.37059,370.50924 15.65737,14.64721 38.38579,2.52538 138.89598,-31.81981"
+         id="path4949"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 204.55589,456.3722 -13.13198,-19.69797 13.13198,-29.7995 130.81476,-48.9924"
+         id="path4951"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 269.20565,437.1793 -6.56599,-10.10152 10.18383,-26.49856 68.58269,-37.37565"
+         id="path4953"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 338.90618,413.44072 -8.5863,-17.17259 16.66752,-27.7792"
+         id="path4955"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 316.42857,312.00506 22.5,22.14286"
+         id="path4957"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 398.92857,387.00506 373.21429,360.93363"
+         id="path4959"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 377.85714,290.57649 9.28572,8.92857 -26.42857,28.57143"
+         id="path4961"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 437.14286,272.3622 11.78571,8.92857 -81.07143,52.14286"
+         id="path4963"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 495.71429,255.21935 7.85714,6.07142 -3.57143,15 -126.42857,60.71429"
+         id="path4965"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 458.21429,362.00506 450,353.43363 398.21429,352.00506"
+         id="path4967"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 524.64286,342.71935 -15,-13.92857 -22.14286,-2.5 -97.5,21.07142"
+         id="path4969"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ff9955;stroke-width:4.54619884;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 587.5,317.71935 -15,-11.42858 -51.07143,-3.21428 -140.35714,38.57143"
+         id="path4971"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/dip14-dice.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       d="m 2151.6783,-279.44843 a 341.93243,341.84134 0 0 1 -351.7201,331.183385 341.93243,341.84134 0 0 1 -331.8543,-351.076905 341.93243,341.84134 0 0 1 350.6199,-332.34738 341.93243,341.84134 0 0 1 333.0167,349.975"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="341.84134"
+       sodipodi:rx="341.93243"
+       sodipodi:cy="-289.96164"
+       sodipodi:cx="1809.9076"
+       sodipodi:type="arc"
+       id="path5015"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       d="m 1075.5116,-326.13511 a 38.112621,29.305073 0 0 1 -39.2036,28.3914 38.112621,29.305073 0 0 1 -36.98928,-30.09681 38.112621,29.305073 0 0 1 39.08098,-28.49119 38.112621,29.305073 0 0 1 37.1188,30.00235"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759508"
+       sodipodi:ry="29.305073"
+       sodipodi:rx="38.112621"
+       sodipodi:cy="-327.03638"
+       sodipodi:cx="1037.417"
+       sodipodi:type="arc"
+       id="path5017"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       inkscape:connector-curvature="0"
+       id="path5019"
+       d="m 1031.76,-356.57043 634.8377,-245.07008"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       inkscape:connector-curvature="0"
+       id="path5021"
+       d="M 1040.5597,-298.75903 1636.4272,5.3792254"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="layer4-3"
+       inkscape:label="back"
+       transform="translate(755.64294,754.3572)" />
+    <g
+       id="layer3-2"
+       inkscape:label="circuit"
+       transform="matrix(1.9883856,0,0,1.9898269,1047.3596,-1096.1782)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g4198-9"
+         transform="matrix(0.42323853,-0.55567465,0.71425605,0.32926977,-641.19092,168.66199)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png">
+        <text
+           sodipodi:linespacing="125%"
+           id="text4170-0"
+           y="1195.4009"
+           x="285.43683"
+           style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="1195.4009"
+             x="285.43683"
+             id="tspan4172-0"
+             sodipodi:role="line">ALU</tspan></text>
+        <path
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4178-3"
+           d="m 335.71401,1165.2488 -86.4082,-43.9578 0,51.7365 19.40624,11.2031 0,7.5995 0,6.9681 -19.40624,11.2032 0,52.3677 86.4082,-51.2813 0,-19.2577 z"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.50821519;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.11788261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4205-1"
+         width="22.451853"
+         height="65.447929"
+         x="-163.99356"
+         y="485.65903"
+         rx="0"
+         ry="0"
+         transform="matrix(0.60592307,-0.79552325,0.90814645,0.41865263,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 351.01757,374.01728 19.39365,-25.46213"
+         id="path4207-1"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-196.44579"
+         y="479.19083"
+         id="text4209-86"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-11"
+           x="-196.44579"
+           y="479.19083"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 360.69889,365.94489 -2.29956,-6.99265"
+         id="path4493-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 349.99438,322.69993 6.14412,0.0542 -2.8436,-4.20477"
+         id="path4639-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 384.47044,329.64418 17.98764,-23.61617 -67.85433,-31.28063 -101.42609,133.16346 39.28408,18.10984 12.84831,-16.86869"
+         id="path4647-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-197.74036"
+         y="409.84134"
+         id="text4209-0-2"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-8"
+           x="-197.74036"
+           y="409.84134"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 292.30937,335.74476 -2.29956,-6.99265"
+         id="path4493-7-6"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 336.3245,313.21403 14.28513,6.5854"
+         id="path4788-1"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 330.27824,321.15224 14.28512,6.58539"
+         id="path4788-7-2"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="458.5173"
+         y="157.06244"
+         id="text4209-0-1-7"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.97536867,0.44964186,-0.57796305,0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-6-24"
+           x="458.5173"
+           y="157.06244"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">clk</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="455.3735"
+         y="166.47763"
+         id="text4209-0-1-5-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.97536867,0.44964186,-0.57796305,0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-6-7-2"
+           x="455.3735"
+           y="166.47763"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">ena</tspan></text>
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.11788261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect5371-0"
+         width="61.033852"
+         height="73.886986"
+         x="-258.82043"
+         y="591.69507"
+         transform="matrix(0.60592307,-0.79552325,0.90814645,0.41865263,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 278.7841,467.49594 28.27728,-12.37095 38.08385,17.55653 -0.36759,25.23724 z"
+         id="path5377-6"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 324.33165,463.35466 20.11241,-26.40581"
+         id="path5381-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 276.29844,454.46912 14.28513,6.58539"
+         id="path4788-7-9-64"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 399.75165,462.98175 351.835,525.89206 313.57131,508.25261 327.35542,490.1553"
+         id="path5948-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-268.23016"
+         y="573.0813"
+         id="text4209-5-5"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-0"
+           x="-268.23016"
+           y="573.0813"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">dout</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-325.15851"
+         y="567.58838"
+         id="text4209-4-4"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-9-5"
+           x="-325.15851"
+           y="567.58838"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 372.52786,503.36111 -2.29957,-6.99265"
+         id="path4493-6-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 262.4477,525.88816 34.55183,-49.72682"
+         id="path6053-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-351.09222"
+         y="497.71655"
+         id="text4209-0-11-7"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-9-2"
+           x="-351.09222"
+           y="497.71655"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 289.38838,491.62271 -2.29956,-6.99265"
+         id="path4493-7-2-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-227.43095"
+         y="573.0813"
+         id="text4209-5-7-5"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-1-5"
+           x="-227.43095"
+           y="573.0813"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">addr</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 436.71995,382.26386 -0.19801,13.59553 20.51608,9.45785 15.23324,-6.66434 z"
+         id="path5377-3-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-522.91022"
+         y="-314.73557"
+         id="text4209-5-2-1"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-6-5"
+           x="-522.91022"
+           y="-314.73557"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">Mux</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-578.09381"
+         y="-180.56895"
+         id="text4209-5-2-3-9"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:transform-center-x="7.8571429"
+         inkscape:transform-center-y="0.71428572"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-6-6-3"
+           x="-578.09381"
+           y="-180.56895"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">Mux</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 420.5151,382.32522 14.28512,6.58539"
+         id="path4788-7-97-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 446.90277,400.74164 -9.29408,12.2023"
+         id="path4788-7-9-6-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <rect
+         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.11788261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4205-9-6"
+         width="20.062862"
+         height="44.211372"
+         x="-143.36588"
+         y="608.04034"
+         rx="0"
+         ry="0"
+         transform="matrix(0.60592307,-0.79552325,0.90814645,0.41865263,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 478.65562,374.89077 -13.72707,18.02242"
+         id="path4788-7-9-6-8-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 402.20302,305.91043 476.94477,340.36614 443.388,384.4232"
+         id="path8691-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="opacity:1;fill:#000000;stroke:#000000;stroke-width:1.11788261;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path8847-9"
+         sodipodi:type="arc"
+         sodipodi:cx="-112.47903"
+         sodipodi:cy="517.82117"
+         sodipodi:rx="1.2473252"
+         sodipodi:ry="1.4044621"
+         sodipodi:start="0"
+         sodipodi:end="6.2802532"
+         sodipodi:open="true"
+         d="m -111.2317,517.82117 a 1.2473252,1.4044621 0 0 1 -1.24641,1.40446 1.2473252,1.4044621 0 0 1 -1.24824,-1.4024 1.2473252,1.4044621 0 0 1 1.24458,-1.40652 1.2473252,1.4044621 0 0 1 1.25006,1.40034"
+         transform="matrix(0.60592307,-0.79552325,0.90814645,0.41865263,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 510.07372,381.32036 -6.14412,-0.0542 2.8436,4.20476"
+         id="path4639-4-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 524.05547,390.54783 -14.28512,-6.5854"
+         id="path4788-8-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 529.90427,383.18893 -14.28513,-6.58539"
+         id="path4788-7-8-3"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-600.75092"
+         y="-142.89429"
+         id="text4209-0-1-0-4"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-6-2-7"
+           x="-600.75092"
+           y="-142.89429"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">clk</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-603.89471"
+         y="-133.47906"
+         id="text4209-0-1-5-2-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-1-6-7-9-0"
+           x="-603.89471"
+           y="-133.47906"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">ena</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 526.8386,313.49319 -36.13743,45.01268"
+         id="path9416-3"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-585.41675"
+         y="-137.15442"
+         id="text4209-5-2-6-15"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-6-9-3"
+           x="-585.41675"
+           y="-137.15442"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">Reg</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-495.18777"
+         y="-158.33859"
+         id="text4209-5-2-6-1-5"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.97536867,-0.44964186,0.57796305,-0.75881422,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-6-9-2-3"
+           x="-495.18777"
+           y="-158.33859"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">Reg</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-251.492"
+         y="591.91162"
+         id="text4209-5-29-6"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-15-5-4"
+           x="-251.492"
+           y="591.91162"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">Regs</tspan><tspan
+           sodipodi:role="line"
+           x="-251.492"
+           y="601.06531"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+           id="tspan9472-2">Bank</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-135.50856"
+         y="479.19083"
+         id="text4209-8-0"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-93-3"
+           x="-135.50856"
+           y="479.19083"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 395.91839,319.70482 -2.29957,-6.99265"
+         id="path4493-9-7"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-164.27722"
+         y="576.74274"
+         id="text4209-8-6-7"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-93-1-3"
+           x="-164.27722"
+           y="576.74274"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 474.44028,385.39833 -2.29957,-6.99264"
+         id="path4493-9-9-0"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-162.44649"
+         y="555.29694"
+         id="text4209-8-6-4-2"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-93-1-2-5"
+           x="-162.44649"
+           y="555.29694"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 454.58089,374.36625 -2.29957,-6.99265"
+         id="path4493-9-9-5-5"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:12.815135px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="-114.45512"
+         y="576.87341"
+         id="text4209-8-6-4-6-7"
+         sodipodi:linespacing="125%"
+         transform="matrix(0.57796305,-0.75881422,0.97536867,0.44964186,0,0)"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png"><tspan
+           sodipodi:role="line"
+           id="tspan4211-93-1-2-0-2"
+           x="-114.45512"
+           y="576.87341"
+           style="font-size:7.32293415px;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">8</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.10445595;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 503.36318,347.65142 -2.29957,-6.99265"
+         id="path4493-9-9-5-3-2"
+         inkscape:connector-curvature="0"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/portada/intro-01.png" />
+    </g>
+  </g>
+</svg>
