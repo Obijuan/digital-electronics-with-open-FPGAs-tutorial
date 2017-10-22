@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="103.8313mm"
+   height="70.639114mm"
+   viewBox="0 0 367.90618 250.29607"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="00-observador.svg"
+   inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/svg/00-observador.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="240.40054"
+     inkscape:cy="317.14758"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="792"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(-160.05204,-122.68155)">
+    <g
+       id="layer2"
+       inkscape:label="back"
+       transform="matrix(1.3840177,0,0,1,210.23615,151.04396)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.70003998;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4135"
+         width="264.12473"
+         height="248.59602"
+         x="-35.40971"
+         y="-27.512394"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/02-cadete.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-160.05204,-122.68155)">
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 282.19289,150.54103 -106.88541,61.61314 13.29739,22.99534 100.46347,-57.91288 109.75821,0 100.46343,57.91288 13.29744,-22.99534 -106.88409,-61.61314 -0.0831,0.14348 -123.34434,0 -0.083,-0.14348 z"
+       id="rect4140"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 282.19289,336.59084 -106.88541,-61.61313 13.29739,-22.99534 100.46347,57.91287 109.75821,0 100.46343,-57.91287 13.29744,22.99534 -106.88409,61.61313 -0.0831,-0.14348 -123.34434,0 -0.083,0.14348 z"
+       id="rect4140-5" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 286.18525,243.78942 0.0671,0.067 -0.60876,0.60781 57.13576,57.04693 18.80442,-18.77519 -0.0522,-0.0521 20.06202,-20.03083 0.0522,0.0521 18.80443,-18.77519 -0.0522,-0.0521 0.0736,-0.0735 -18.80442,-18.77518 -0.0736,0.0735 -19.54277,-19.51238 0.0736,-0.0735 -18.80349,-18.77425 -57.13575,57.04692 z m 36.99914,0.60688 20.06203,-20.03083 19.54277,19.51238 -20.06203,20.03083 -19.54277,-19.51238 z"
+       id="rect4140-9"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
