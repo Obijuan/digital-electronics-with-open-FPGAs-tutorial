@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.57472mm"
+   height="128.38615mm"
+   viewBox="0 0 611.48524 454.91157"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="led-externo-esquema.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="349.22487"
+     inkscape:cy="113.96522"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="1104"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(-62.458,-44.058506)">
+    <rect
+       style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4769"
+       width="609.48523"
+       height="452.91156"
+       x="63.458"
+       y="45.058506"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.458,-44.058506)">
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:2.13395739;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4580-2"
+       width="91.096664"
+       height="49.363518"
+       x="435.14386"
+       y="317.35864"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       id="text2171"
+       y="-2967.0952"
+       x="-2428.3079"
+       style="font-style:normal;font-weight:normal;font-size:11.68831158px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-2967.0952"
+         x="-2428.3079"
+         id="tspan2173"
+         sodipodi:role="line" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.57800007;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       d="m 336.71356,249.22639 53.67437,0 8.94573,-17.89146 17.89145,35.78291 17.89146,-35.78291 17.89145,35.78291 17.89146,-35.78291 17.89145,35.78291 8.94573,-17.89145 53.67436,0 27.78647,0"
+       id="path4867-4"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       id="text3967"
+       style="font-style:normal;font-weight:normal;font-size:25.1409893px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="242.73279"
+       x="342.08334"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan3969"
+         y="242.73279"
+         x="342.08334">-</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text3971"
+       style="font-style:normal;font-weight:normal;font-size:25.1409893px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="243.08612"
+       x="264.09509"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         id="tspan3973"
+         y="243.08612"
+         x="264.09509">+</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 336.24836,224.6107 0,50.69565"
+       id="path8000"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 336.24836,207.71218 -10.56161,21.12319"
+       id="path1323"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 321.46211,201.37521 310.90053,222.4984"
+       id="path1325-8"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 336.24836,207.71218 2.1123,6.33694"
+       id="path1331"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 336.24836,207.71218 -6.33697,2.1123"
+       id="path1333"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 321.46211,201.37521 2.11234,6.33697"
+       id="path1335"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 321.46211,201.37521 -6.33694,2.11234"
+       id="path1337"
+       style="fill:none;stroke:#000000;stroke-width:3.85147333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text3610"
+       y="645.95337"
+       x="217.6216"><tspan
+         id="tspan3612"
+         y="645.95337"
+         x="217.6216" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5002"
+       d="m 577.36037,249.16608 0,65.06317"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.57829094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4098"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.57829094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 534.5766,330.86135 85.87898,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4100"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.57829094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 548.88976,341.59622 57.25266,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4102"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.57829094px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 591.82926,352.3311 -28.62633,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       id="path4104"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.57829094;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 577.51609,330.86135 0,-17.89146"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g4600"
+       transform="translate(54.548238,85.862966)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <rect
+         y="138.57155"
+         x="76.242935"
+         height="49.497475"
+         width="79.802048"
+         id="rect4580"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:62.6200943px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="80.391365"
+         y="175.55544"
+         id="text4497-4-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4499-3-0"
+           x="80.391365"
+           y="175.55544"
+           style="font-size:35.78290939px;fill:#0000ff">GP0</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4497-4-2-6-9"
+       y="353.34885"
+       x="440.12576"
+       style="font-style:normal;font-weight:normal;font-size:62.6200943px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:35.78290939px;fill:#0000ff"
+         y="353.34885"
+         x="440.12576"
+         id="tspan4499-3-0-8-2"
+         sodipodi:role="line">GND</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.57800007;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       d="m 209.97946,249.73147 83.34486,0"
+       id="path4867-4-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.94961929px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="396.83273"
+       y="210.26768"
+       id="text12452"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"><tspan
+         sodipodi:role="line"
+         id="tspan12454"
+         x="396.83273"
+         y="210.26768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">100</tspan></text>
+    <path
+       id="path3086"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:250px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       d="m 488.77646,203.8037 0.86704,0 c 0.0593,1.10922 0.39069,1.88242 0.98414,2.31988 0.59356,0.43753 1.53874,0.65581 2.83536,0.65581 l 6.39722,0 -0.0415,-1.56993 c -2.48387,-0.49918 -4.74904,-1.88241 -6.79556,-4.14764 -2.04652,-2.26517 -3.06966,-5.12401 -3.06966,-8.57648 0,-3.82733 1.42551,-7.09234 4.27652,-9.79497 2.85103,-2.70257 6.57295,-4.05392 11.16582,-4.05392 4.45225,0 8.09212,1.27718 10.91973,3.8313 2.82754,2.55424 4.24131,5.82317 4.24137,9.80666 -6e-5,3.23388 -0.87878,5.97937 -2.63623,8.23671 -1.75751,2.25746 -4.13591,3.82353 -7.13532,4.69834 l -0.23417,1.56993 6.51436,0 c 1.48408,1.2e-4 2.46437,-0.28101 2.94084,-0.8435 0.47665,-0.56262 0.73069,-1.27315 0.76157,-2.13243 l 0.86699,0 0,7.33452 -13.12246,0 0.60915,-7.07669 c 4.03044,-1.26538 6.04566,-4.99121 6.04566,-11.17756 0,-4.04608 -0.98811,-7.14706 -2.96425,-9.30296 -1.97616,-2.15572 -4.29212,-3.23364 -6.94792,-3.2337 -2.82748,6e-5 -5.167,1.14438 -7.01817,3.43296 -1.85118,2.28864 -2.77674,5.21383 -2.77674,8.77563 0,2.57765 0.41322,4.92481 1.24196,7.04158 0.82792,2.11678 2.41356,3.60483 4.75687,4.46405 l 0.44522,7.07669 -13.12245,0 z"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg" />
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:3.57800007;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 293.95439,223.53204 41.66879,26.01143 -41.66879,27.02158 z"
+       id="path4766"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:39.94961929px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="132.54701"
+       y="210.26768"
+       id="text12452-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-08/Led-externo-3-material.jpg"><tspan
+         sodipodi:role="line"
+         id="tspan12454-7"
+         x="132.54701"
+         y="210.26768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">3.3V</tspan></text>
+  </g>
+</svg>
