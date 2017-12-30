@@ -13,9 +13,9 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="3.6530418in"
-   height="3.1539352in"
-   viewBox="0 0 263.0189 227.08372"
+   width="247.49399mm"
+   height="217.79471mm"
+   viewBox="0 0 701.55746 617.37187"
    id="svg2"
    inkscape:version="0.91 r13725"
    sodipodi:docname="servo-icezum_bb.svg">
@@ -54,9 +54,9 @@
      inkscape:window-height="1056"
      id="namedview48"
      showgrid="false"
-     inkscape:zoom="1.6275469"
-     inkscape:cx="148.35496"
-     inkscape:cy="122.92851"
+     inkscape:zoom="0.40688673"
+     inkscape:cx="-53.361528"
+     inkscape:cy="-213.84355"
      inkscape:window-x="65"
      inkscape:window-y="792"
      inkscape:window-maximized="1"
@@ -64,25 +64,27 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="mm" />
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="back">
+     inkscape:label="back"
+     transform="translate(-37.849023,380.94897)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.80000138;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8496"
-       width="294.92288"
-       height="259.53214"
-       x="-13.271823"
-       y="-15.244588"
+       width="701.55896"
+       height="617.37189"
+       x="37.848145"
+       y="-380.94897"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
   <g
      id="g6191"
-     transform="matrix(0.80000125,0,0,0.80000125,60.781329,-0.07665612)"
+     transform="matrix(1.9030333,0,0,1.9030333,176.15587,36.0813)"
      style="display:inline"
      inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
      inkscape:export-xdpi="90"
@@ -15682,58 +15684,58 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 1"
-     transform="translate(10.426794,5.5016942)">
+     transform="translate(-27.422229,386.45066)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
-       d="m 70.066808,215.63331 c 45.383092,9.276 127.568092,-89.68 127.568092,-89.68"
+       style="fill:none;stroke:#000000;stroke-width:5.13818216;stroke-linecap:round;stroke-linejoin:round"
+       d="M 250.46941,175.84626 C 358.42616,197.9119 553.92684,-37.483445 553.92684,-37.483445"
        id="path4"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#ff0000;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
-       d="m 70.2928,208.90631 c 39.4371,1.179 120.1421,-90.153 120.1421,-90.153"
+       style="fill:none;stroke:#ff0000;stroke-width:5.13818216;stroke-linecap:round;stroke-linejoin:round"
+       d="m 251.007,159.84415 c 93.81249,2.80459 285.79257,-214.454865 285.79257,-214.454865"
        id="path6"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#ffb380;stroke-width:2.16000009;stroke-linecap:round;stroke-linejoin:round"
-       d="M 70.176904,202.15031 C 109.7769,194.05031 101.6349,95.553311 101.6349,95.553311"
+       style="fill:none;stroke:#ffb380;stroke-width:5.13818216;stroke-linecap:round;stroke-linejoin:round"
+       d="m 250.73131,143.77306 c 94.19999,-19.26818 74.8319,-253.57165 74.8319,-253.57165"
        id="path8"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        style="fill:none"
-       width="0.72000003"
-       height="0.72000003"
+       width="1.7127273"
+       height="1.7127273"
        id="connector0pin"
-       y="208.1302"
-       x="62.218807"
+       y="157.99796"
+       x="231.80067"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        style="fill:none"
-       width="0.72000003"
-       height="0.72000003"
+       width="1.7127273"
+       height="1.7127273"
        id="connector1pin"
-       y="206.0977"
-       x="62.297207"
+       y="153.16306"
+       x="231.98717"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
        style="fill:none"
-       width="0.72000003"
-       height="0.72000003"
+       width="1.7127273"
+       height="1.7127273"
        id="connector2pin"
-       y="204.0939"
-       x="62.218807"
+       y="148.39645"
+       x="231.80067"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -15762,49 +15764,49 @@
        id="connector2leg"
        transform="translate(-10.827395,187.98031)" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.16000009"
+       style="fill:none;stroke:#000000;stroke-width:5.13818216"
        inkscape:connector-curvature="0"
-       d="m 62.218805,208.13021 c 0,0 -5.09688,-1.34568 7.848,7.5024"
+       d="m 231.80068,157.99798 c 0,0 -12.1244,-3.20109 18.66872,17.84661"
        id="path7"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:2.16000009"
+       style="fill:none;stroke:#ff0000;stroke-width:5.13818216"
        inkscape:connector-curvature="0"
-       d="m 62.297205,206.09771 c 4.03488,0 4.1076,1.17288 7.9956,2.808"
+       d="m 231.98717,153.16309 c 9.59813,0 9.77111,2.79003 19.01984,6.67964"
        id="path9"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
-       style="fill:#ff6600;stroke:#ff6600;stroke-width:2.16000009"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:5.13818216"
        inkscape:connector-curvature="0"
-       d="m 62.218805,204.09391 c 5.382,0 7.59816,-3.17664 7.95816,-0.936"
+       d="m 231.80068,148.39647 c 12.80263,0 18.07441,-7.55655 18.93077,-2.22654"
        id="path11"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        style="fill:#333333"
-       points="82.463,6.69744 82.463,8.04168 70.3562,8.04168 70.3562,33.6017 12.5078,33.6017 12.5078,8.04168 0.40032,8.04168 0.40032,6.69744 12.5078,6.69744 12.5078,-6.75648 70.3562,-6.75648 70.3562,6.69744 "
+       points="12.5078,6.69744 12.5078,-6.75648 70.3562,-6.75648 70.3562,6.69744 82.463,6.69744 82.463,8.04168 70.3562,8.04168 70.3562,33.6017 12.5078,33.6017 12.5078,8.04168 0.40032,8.04168 0.40032,6.69744 "
        id="polygon13"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        points="12.5078,8.04168 12.5078,33.6017 8.47152,29.5668 8.47152,8.04168 "
        id="polygon15"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        style="fill:#999999"
-       points="0.40032,-0.03024 8.47152,-0.03024 8.47152,2.6604 12.5078,6.69744 0.40032,6.69744 "
+       points="12.5078,6.69744 0.40032,6.69744 0.40032,-0.03024 8.47152,-0.03024 8.47152,2.6604 "
        id="polygon17"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -15812,7 +15814,7 @@
        style="fill:#999999"
        points="8.47152,-10.7921 8.47152,-18.864 12.5078,-22.8996 70.3562,-22.8996 74.3911,-18.864 74.3911,-10.7921 70.3562,-6.75648 12.5078,-6.75648 "
        id="polygon19"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -15820,22 +15822,22 @@
        style="fill:#666666"
        points="70.3562,8.04168 70.3562,33.6017 74.3911,29.5668 74.3911,8.04168 "
        id="polygon21"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        style="fill:#999999"
-       points="82.4638,-0.03024 74.3911,-0.03024 74.3911,2.6604 70.3562,6.69744 82.4638,6.69744 "
+       points="70.3562,6.69744 82.4638,6.69744 82.4638,-0.03024 74.3911,-0.03024 74.3911,2.6604 "
        id="polygon23"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <polygon
        points="12.5078,-6.75648 12.5078,6.69744 8.47152,2.6604 8.47152,-10.7921 "
        id="polygon25"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -15843,14 +15845,14 @@
        style="fill:#666666"
        points="70.3562,-6.75648 70.3562,6.69744 74.3911,2.6604 74.3911,-10.7921 "
        id="polygon27"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="fill:#cccccc"
        inkscape:connector-curvature="0"
-       d="m 21.191705,175.30401 c -4.72464,2.5992 -9.92592,1.10952 -11.911,-0.11664 -1.9857,-1.22616 -13.72242,-11.21046 -15.29778,-12.20326 -1.5768,-0.99288 -1.40184,-2.3904 -1.40184,-4.41432 0,-2.57544 1.28448,1.92672 3.97152,3.15288 2.68488,1.22616 27.1318,4.24296 27.1318,8.7192 -0.0015,1.36224 0.5436,3.19174 -2.4927,4.86214 z"
+       d="m 134.2059,79.911405 c -11.23891,6.18294 -23.61165,2.63931 -28.33374,-0.27746 -4.72356,-2.91678 -32.642726,-26.66731 -36.390173,-29.02897 -3.750873,-2.36185 -3.33468,-5.68626 -3.33468,-10.50073 0,-6.12643 3.055505,4.58326 9.447404,7.50003 6.38676,2.91678 64.540799,10.0931 64.540799,20.74113 -0.004,3.24048 1.29311,7.59247 -5.92961,11.566 z"
        id="path29"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
@@ -15858,14 +15860,14 @@
     <path
        style="fill:#ffffff"
        inkscape:connector-curvature="0"
-       d="m 21.191705,173.92591 c -4.49568,2.97792 -9.92592,1.10952 -11.911,-0.11736 -1.9857,-1.22614 -13.72242,-11.21044 -15.29778,-12.20324 -1.5768,-0.99216 -2.21904,-3.91176 -0.05832,-5.31288 2.16,-1.40112 5.13792,-0.58464 7.82352,0.64224 2.6856,1.22616 13.9558,5.95512 17.8085,8.2332 3.85418,2.27664 6.13218,5.78014 1.63508,8.75804 z m -23.62822,-13.5662 c 1.89216,0 3.42648,-0.7668 3.42648,-1.71288 0,-0.94608 -1.53432,-1.71216 -3.42648,-1.71216 -1.89216,0 -3.42576,0.76608 -3.42576,1.71216 0,0.94608 1.5336,1.71288 3.42576,1.71288 z"
+       d="m 134.2059,76.633195 c -10.69427,7.08384 -23.61165,2.63931 -28.33374,-0.27917 -4.72356,-2.91673 -32.642726,-26.66726 -36.390173,-29.02892 -3.750873,-2.36014 -5.278626,-9.30525 -0.138731,-12.63822 5.138182,-3.33297 12.222022,-1.39073 18.610495,1.52775 6.388472,2.91678 33.197889,14.16597 42.362649,19.58504 9.16827,5.41564 14.58715,13.74973 3.8895,20.83352 z M 77.99938,44.362085 c 4.501047,0 8.150869,-1.82406 8.150869,-4.07458 0,-2.25052 -3.649822,-4.07287 -8.150869,-4.07287 -4.501048,0 -8.149157,1.82235 -8.149157,4.07287 0,2.25052 3.648109,4.07458 8.149157,4.07458 z"
        id="path31"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g33"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -15877,7 +15879,7 @@
     </g>
     <g
        id="g37"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -15899,7 +15901,7 @@
     </g>
     <g
        id="g45"
-       transform="translate(-10.827395,187.98031)"
+       transform="matrix(2.3787879,0,0,2.3787879,58.039256,110.06564)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -15931,9 +15933,9 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.55195045px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="134.23518"
-       y="196.54317"
+       style="font-style:normal;font-weight:normal;font-size:17.96448898px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="403.11237"
+       y="130.43484"
        id="text8325"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
@@ -15941,14 +15943,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8327"
-         x="134.23518"
-         y="196.54317"
+         x="403.11237"
+         y="130.43484"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">GND</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:7.55195093px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="120.33239"
-       y="173.25598"
+       style="font-style:normal;font-weight:normal;font-size:17.96448898px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="370.04056"
+       y="75.039581"
        id="text8325-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-alhambra-01.png"
@@ -15956,14 +15958,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8327-7"
-         x="120.33239"
-         y="173.25598"
+         x="370.04056"
+         y="75.039581"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000">5v</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.2440691px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.80000138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="63.541214"
-       y="160.76837"
+       style="font-style:normal;font-weight:normal;font-size:24.36846733px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none;stroke-width:0.80000138;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="235.94878"
+       y="49.318981"
        id="text8325-6-5"
        sodipodi:linespacing="125%"
        transform="scale(0.9881792,1.0119622)"
@@ -15972,8 +15974,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan8327-7-3"
-         x="63.541214"
-         y="160.76837"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f2a;stroke:none;stroke-width:0.80000138;stroke-miterlimit:4;stroke-dasharray:none;">Señal</tspan></text>
+         x="235.94878"
+         y="49.318981"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff7f2a;stroke:none;stroke-width:0.80000138;stroke-miterlimit:4;stroke-dasharray:none">Señal</tspan></text>
   </g>
 </svg>
