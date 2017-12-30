@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="266.26599mm"
+   height="661.96747mm"
+   viewBox="0 0 943.46217 2345.554"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="servo-pwm-02.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4658"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4974"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4976"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4210"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4974-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4976-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mstart-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4210-3" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4974-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4976-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4974-1-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4976-2-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4658-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4658-8-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1-8-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4658-8-9-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="369.28557"
+     inkscape:cy="1156.7991"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="792"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     transform="translate(134.34013,140.59567)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5927"
+       width="941.46216"
+       height="2343.554"
+       x="-133.34013"
+       y="-139.59567"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="drawing"
+     style="display:inline"
+     transform="translate(39.360413,458.31817)">
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4148"
+       width="94.387131"
+       height="271.63055"
+       x="526.76324"
+       y="-311.2092"
+       ry="18.54661"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4224"
+       width="77.484482"
+       height="20.430906"
+       x="534.96356"
+       y="-114.10122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150"
+       width="95.391258"
+       height="208.99812"
+       x="526.42859"
+       y="-280.73035"
+       ry="9.2945986"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.93068,-280.85519 c 19.83445,-0.54532 45.76562,12.98086 46.20773,44.49845 0.44211,31.51761 -12.69298,30.19289 -17.8728,41.22652 -5.17982,11.03363 3.70534,39.48147 -26.15533,39.6996 -29.86066,0.21813 -27.59831,-25.58414 -28.55289,-37.08204 -0.95458,-11.49792 -22.66795,-10.2521 -21.7961,-43.18969 0.87184,-32.93758 28.33493,-44.60752 48.16939,-45.15284 z"
+       id="path4177"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzszsz"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4179"
+       cx="574.29156"
+       cy="-177.23607"
+       rx="8.0329475"
+       ry="8.0383883"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4181"
+       width="82.672424"
+       height="47.560471"
+       x="532.45331"
+       y="-137.71397"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9732399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.38501"
+       y="-120.12339"
+       id="text4183"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99966151,1.0003386)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185"
+         x="559.38501"
+         y="-120.12339"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.15118217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.01532"
+       y="-90.567665"
+       id="text4183-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.92524871,1.0807905)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-6"
+         x="582.01532"
+         y="-90.567665"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff">ES08A</tspan></text>
+    <path
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.39432,-120.38122 9.6228,-12.97865 11.38001,0.0837 -1.92456,3.60053 -2.17559,-0.16746 0.41838,-1.17227 -4.68588,-0.0837 -0.41839,2.93066 4.68589,0.41867 -1.33883,1.7584 -3.84912,-0.16747 -0.50206,3.0144 2.76133,0.0837 2.17559,-1.256 3.01235,0.16747 -2.34294,3.09812 z"
+       id="path4205"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,-111.58923 4.68588,0.16747 -0.16735,1.17226 -0.92044,-0.0837 -0.58574,10.885324 0.66941,0.0837 -0.0837,1.25599 -4.85324,-0.0837 0.16735,-1.59093 1.17147,0.0837 0.75309,-10.550394 -1.17147,-0.2512 z"
+       id="path4207"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 605.25188,-111.58923 4.68589,0.16747 -0.16736,1.17226 -0.92044,-0.0837 -0.58574,10.885324 0.66942,0.0837 -0.0837,1.25599 -4.85324,-0.0837 0.16735,-1.59093 1.17147,0.0837 0.75309,-10.550394 -1.17147,-0.2512 z"
+       id="path4207-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 533.10218,-116.61322 80.87257,0"
+       id="path4226"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228"
+       cx="574.09808"
+       cy="-58.941063"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,-111.58923 4.68589,0.16747 -0.16736,1.17226 -0.92044,-0.0837 -0.58574,10.885324 0.66942,0.0837 -0.0837,1.25599 -4.85324,-0.0837 0.16735,-1.59093 1.17147,0.0837 0.75309,-10.550394 -1.17147,-0.2512 z"
+       id="path4207-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-3"
+       cx="574.09808"
+       cy="-293.40601"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="cabeza"
+     style="display:inline"
+     transform="translate(39.360413,458.31817)">
+    <rect
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4148-6"
+       width="94.387131"
+       height="271.63055"
+       x="526.76324"
+       y="1513.3986"
+       ry="18.54661"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4224-1"
+       width="77.484482"
+       height="20.430906"
+       x="534.96356"
+       y="1710.5066"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-8"
+       width="95.391258"
+       height="208.99812"
+       x="526.42859"
+       y="1543.8774"
+       ry="9.2945986"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.93068,1543.7525 c 19.83445,-0.5453 45.76562,12.9809 46.20773,44.4985 0.44211,31.5176 -12.69298,30.1929 -17.8728,41.2265 -5.17982,11.0336 3.70534,39.4815 -26.15533,39.6996 -29.86066,0.2181 -27.59831,-25.5841 -28.55289,-37.082 -0.95458,-11.498 -22.66795,-10.2521 -21.7961,-43.1897 0.87184,-32.9376 28.33493,-44.6075 48.16939,-45.1529 z"
+       id="path4177-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzszsz"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4179-9"
+       cx="574.29156"
+       cy="1647.3717"
+       rx="8.0329475"
+       ry="8.0383883"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4181-2"
+       width="82.672424"
+       height="47.560471"
+       x="532.45331"
+       y="1686.8938"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9732399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.38501"
+       y="1703.8667"
+       id="text4183-0"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99966151,1.0003386)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-2"
+         x="559.38501"
+         y="1703.8667"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.15118217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.01532"
+       y="1597.6483"
+       id="text4183-3-3"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9252487,1.0807905)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-6-7"
+         x="582.01532"
+         y="1597.6483"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff">ES08A</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.39432,1704.2265 9.6228,-12.9786 11.38001,0.084 -1.92456,3.6005 -2.17559,-0.1675 0.41838,-1.1722 -4.68588,-0.084 -0.41839,2.9306 4.68589,0.4187 -1.33883,1.7584 -3.84912,-0.1675 -0.50206,3.0144 2.76133,0.084 2.17559,-1.256 3.01235,0.1675 -2.34294,3.0981 z"
+       id="path4205-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,1713.0185 4.68588,0.1675 -0.16735,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66941,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 605.25188,1713.0185 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-7-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 533.10218,1707.9945 80.87257,0"
+       id="path4226-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-8"
+       cx="574.09808"
+       cy="1765.6667"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,1713.0185 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-3-7"
+       cx="574.09808"
+       cy="1531.2018"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 418.20315,-239.6229 391.93919,0"
+       id="path5909"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5067"
+       transform="translate(0,-355.71429)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zzssszz"
+         inkscape:connector-curvature="0"
+         id="path4252"
+         d="m 575.21864,86.391519 c 18.1567,-0.700944 128.41078,8.663649 138.22054,10.885865 9.80976,2.222216 14.7133,9.936386 14.5347,20.616046 -0.17859,10.67967 -5.33235,16.62796 -13.33387,17.7387 -13.13006,1.82268 -122.05475,9.17454 -139.59397,9.10143 -17.53922,-0.0731 -27.73266,-15.58526 -28.89372,-28.19886 -1.16106,-12.61359 10.90962,-29.442232 29.06632,-30.143181 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="24.749037"
+         rx="24.732368"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.37634"
+         id="path4254"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="21.67021"
+         rx="21.655615"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.3764"
+         id="path4254-5"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="7.4602365"
+         rx="7.4552121"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="144.207"
+         cx="568.90308"
+         id="path4271"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="147.75378"
+         cx="643.23047"
+         id="path4273"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="149.25078"
+         cx="671.38904"
+         id="path4273-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="150.93172"
+         cx="700.82037"
+         id="path4273-6-2"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.00000007, 6.00000021;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 372.86169,1588.2469 437.16529,0"
+       id="path5909-7-57-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(-1,0,0,1,1149.7677,1473.1791)"
+       style="display:inline"
+       id="g5067-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zzssszz"
+         inkscape:connector-curvature="0"
+         id="path4252-8"
+         d="m 575.21864,86.391519 c 18.1567,-0.700944 128.41078,8.663649 138.22054,10.885865 9.80976,2.222216 14.7133,9.936386 14.5347,20.616046 -0.17859,10.67967 -5.33235,16.62796 -13.33387,17.7387 -13.13006,1.82268 -122.05475,9.17454 -139.59397,9.10143 -17.53922,-0.0731 -27.73266,-15.58526 -28.89372,-28.19886 -1.16106,-12.61359 10.90962,-29.442232 29.06632,-30.143181 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="24.749037"
+         rx="24.732368"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.37634"
+         id="path4254-4"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="21.67021"
+         rx="21.655615"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.3764"
+         id="path4254-5-5"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="7.4602365"
+         rx="7.4552121"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="144.207"
+         cx="568.90308"
+         id="path4271-0"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="147.75378"
+         cx="643.23047"
+         id="path4273-3"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="149.25078"
+         cx="671.38904"
+         id="path4273-6-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="150.93172"
+         cx="700.82037"
+         id="path4273-6-2-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4148-6-0"
+       width="94.387131"
+       height="271.63055"
+       x="526.76324"
+       y="1054.827"
+       ry="18.54661"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4224-1-6"
+       width="77.484482"
+       height="20.430906"
+       x="534.96356"
+       y="1251.9352"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-8-3"
+       width="95.391258"
+       height="208.99812"
+       x="526.42859"
+       y="1085.3059"
+       ry="9.2945986"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.93068,1085.1811 c 19.83445,-0.5453 45.76562,12.9809 46.20773,44.4984 0.44211,31.5176 -12.69298,30.1929 -17.8728,41.2265 -5.17982,11.0336 3.70534,39.4815 -26.15533,39.6996 -29.86066,0.2181 -27.59831,-25.5841 -28.55289,-37.082 -0.95458,-11.498 -22.66795,-10.2521 -21.7961,-43.1897 0.87184,-32.9375 28.33493,-44.6074 48.16939,-45.1528 z"
+       id="path4177-7-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzszsz"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4179-9-0"
+       cx="574.29156"
+       cy="1188.8003"
+       rx="8.0329475"
+       ry="8.0383883"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4181-2-6"
+       width="82.672424"
+       height="47.560471"
+       x="532.45331"
+       y="1228.3224"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9732399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.38501"
+       y="1245.4504"
+       id="text4183-0-1"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99966151,1.0003386)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-2-5"
+         x="559.38501"
+         y="1245.4504"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.15118217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.01532"
+       y="1173.3557"
+       id="text4183-3-3-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9252487,1.0807905)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-6-7-4"
+         x="582.01532"
+         y="1173.3557"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff">ES08A</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.39432,1245.655 9.6228,-12.9786 11.38001,0.084 -1.92456,3.6005 -2.17559,-0.1675 0.41838,-1.1722 -4.68588,-0.084 -0.41839,2.9306 4.68589,0.4187 -1.33883,1.7584 -3.84912,-0.1675 -0.50206,3.0144 2.76133,0.084 2.17559,-1.256 3.01235,0.1675 -2.34294,3.0981 z"
+       id="path4205-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,1254.447 4.68588,0.1675 -0.16735,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66941,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 605.25188,1254.447 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-7-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 533.10218,1249.423 80.87257,0"
+       id="path4226-2-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-8-9"
+       cx="574.09808"
+       cy="1307.0953"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,1254.447 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-5-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-3-7-7"
+       cx="574.09808"
+       cy="1072.6302"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 572.33296,1128.5925 419.43887,974.68828"
+       id="path5909-7-57-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,1062.0614,1454.9539)"
+       style="display:inline"
+       id="g5067-7-4"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zzssszz"
+         inkscape:connector-curvature="0"
+         id="path4252-8-5"
+         d="m 575.21864,86.391519 c 18.1567,-0.700944 128.41078,8.663649 138.22054,10.885865 9.80976,2.222216 14.7133,9.936386 14.5347,20.616046 -0.17859,10.67967 -5.33235,16.62796 -13.33387,17.7387 -13.13006,1.82268 -122.05475,9.17454 -139.59397,9.10143 -17.53922,-0.0731 -27.73266,-15.58526 -28.89372,-28.19886 -1.16106,-12.61359 10.90962,-29.442232 29.06632,-30.143181 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="24.749037"
+         rx="24.732368"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.37634"
+         id="path4254-4-2"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="21.67021"
+         rx="21.655615"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.3764"
+         id="path4254-5-5-5"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="7.4602365"
+         rx="7.4552121"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="144.207"
+         cx="568.90308"
+         id="path4271-0-4"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="147.75378"
+         cx="643.23047"
+         id="path4273-3-7"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="149.25078"
+         cx="671.38904"
+         id="path4273-6-6-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="150.93172"
+         cx="700.82037"
+         id="path4273-6-2-1-4"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.479721,1336.2556 49.663139,0 0,-182.8572 174.08565,0 0,182.8572 154.04826,0"
+       id="path4957-9-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4148-6-0-9-9"
+       width="94.387131"
+       height="271.63055"
+       x="526.76324"
+       y="113.19967"
+       ry="18.54661"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4224-1-6-2-1"
+       width="77.484482"
+       height="20.430906"
+       x="534.96356"
+       y="310.30777"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-8-3-0-7"
+       width="95.391258"
+       height="208.99812"
+       x="526.42859"
+       y="143.67856"
+       ry="9.2945986"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.93068,143.5537 c 19.83445,-0.5453 45.76562,12.9809 46.20773,44.49846 0.44211,31.5176 -12.69298,30.1929 -17.8728,41.2265 -5.17982,11.0336 3.70534,39.4815 -26.15533,39.6996 -29.86066,0.2181 -27.59831,-25.5841 -28.55289,-37.082 -0.95458,-11.498 -22.66795,-10.2521 -21.7961,-43.1897 0.87184,-32.93756 28.33493,-44.60746 48.16939,-45.15286 z"
+       id="path4177-7-2-6-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzszsz"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4179-9-0-8-1"
+       cx="574.29156"
+       cy="247.17288"
+       rx="8.0329475"
+       ry="8.0383883"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4181-2-6-9-1"
+       width="82.672424"
+       height="47.560471"
+       x="532.45331"
+       y="286.69498"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9732399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.38501"
+       y="304.14182"
+       id="text4183-0-1-2-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99966151,1.0003386)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-2-5-6-9"
+         x="559.38501"
+         y="304.14182"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.15118217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.01532"
+       y="302.11618"
+       id="text4183-3-3-5-6-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9252487,1.0807905)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-6-7-4-4-7"
+         x="582.01532"
+         y="302.11618"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff">ES08A</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.39432,304.02766 9.6228,-12.9786 11.38001,0.084 -1.92456,3.6005 -2.17559,-0.1675 0.41838,-1.1722 -4.68588,-0.084 -0.41839,2.9306 4.68589,0.4187 -1.33883,1.7584 -3.84912,-0.1675 -0.50206,3.0144 2.76133,0.084 2.17559,-1.256 3.01235,0.1675 -2.34294,3.0981 z"
+       id="path4205-5-7-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,312.81966 4.68588,0.1675 -0.16735,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66941,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-9-6-5-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 605.25188,312.81966 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-7-2-5-0-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 533.10218,307.79566 80.87257,0"
+       id="path4226-2-6-4-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-8-9-8-5"
+       cx="574.09808"
+       cy="365.46793"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,312.81966 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-5-9-3-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-3-7-7-1-3"
+       cx="574.09808"
+       cy="131.0029"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.00000002, 6.00000004;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 572.48887,190.6324 752.99949,10.121784"
+       id="path5909-7-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,84.95641,515.65443)"
+       style="display:inline"
+       id="g5067-7-4-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zzssszz"
+         inkscape:connector-curvature="0"
+         id="path4252-8-5-8"
+         d="m 575.21864,86.391519 c 18.1567,-0.700944 128.41078,8.663649 138.22054,10.885865 9.80976,2.222216 14.7133,9.936386 14.5347,20.616046 -0.17859,10.67967 -5.33235,16.62796 -13.33387,17.7387 -13.13006,1.82268 -122.05475,9.17454 -139.59397,9.10143 -17.53922,-0.0731 -27.73266,-15.58526 -28.89372,-28.19886 -1.16106,-12.61359 10.90962,-29.442232 29.06632,-30.143181 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="24.749037"
+         rx="24.732368"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.37634"
+         id="path4254-4-2-5"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="21.67021"
+         rx="21.655615"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.3764"
+         id="path4254-5-5-5-6"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="7.4602365"
+         rx="7.4552121"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="144.207"
+         cx="568.90308"
+         id="path4271-0-4-1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="147.75378"
+         cx="643.23047"
+         id="path4273-3-7-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="149.25078"
+         cx="671.38904"
+         id="path4273-6-6-4-5"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="150.93172"
+         cx="700.82037"
+         id="path4273-6-2-1-4-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 418.20315,188.94855 391.93919,0"
+       id="path5909-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 418.20315,677.08922 391.93919,0"
+       id="path5909-7-57"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.17274,851.63025 0,-391.93919"
+       id="path5909-7-57-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 6;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 418.20315,1128.6274 391.93919,0"
+       id="path5909-7-57-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-8-8-9-9-0-7-2-5-0"
+       y="960.32892"
+       x="806.02478"
+       style="font-style:normal;font-weight:normal;font-size:38.59114838px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="960.32892"
+         x="806.02478"
+         id="tspan4520-6-8-0-6-3-6-1-3-4"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-0-3-7-8-8"
+       y="987.466"
+       x="726.43262"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="987.466"
+         x="726.43262"
+         id="tspan4520-7-5-8-4-4-1-8-8-8"
+         sodipodi:role="line">135</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="pulses"
+     style="display:inline"
+     transform="translate(39.360413,458.31817)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.479721,-29.780646 49.663139,0 0,-182.857154 99.33436,0 0,182.857154 228.79955,0"
+       id="path4957"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.479721,1794.8271 49.663139,0 0,-182.8572 199.33946,0 0,182.8572 128.79445,0"
+       id="path4957-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4148-6-0-9"
+       width="94.387131"
+       height="271.63055"
+       x="526.76324"
+       y="606.03217"
+       ry="18.54661"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4224-1-6-2"
+       width="77.484482"
+       height="20.430906"
+       x="534.96356"
+       y="803.14026"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4150-8-3-0"
+       width="95.391258"
+       height="208.99812"
+       x="526.42859"
+       y="636.51105"
+       ry="9.2945986"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 574.93068,636.38621 c 19.83445,-0.5453 45.76562,12.9809 46.20773,44.49846 0.44211,31.5176 -12.69298,30.1929 -17.8728,41.2265 -5.17982,11.0336 3.70534,39.4815 -26.15533,39.6996 -29.86066,0.2181 -27.59831,-25.5841 -28.55289,-37.082 -0.95458,-11.498 -22.66795,-10.2521 -21.7961,-43.1897 0.87184,-32.93756 28.33493,-44.60746 48.16939,-45.15286 z"
+       id="path4177-7-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zzzszsz"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4179-9-0-8"
+       cx="574.29156"
+       cy="740.00537"
+       rx="8.0329475"
+       ry="8.0383883"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffb380;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4181-2-6-9"
+       width="82.672424"
+       height="47.560471"
+       x="532.45331"
+       y="779.52747"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:18.9732399px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="559.38501"
+       y="796.8075"
+       id="text4183-0-1-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99966151,1.0003386)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-2-5-6"
+         x="559.38501"
+         y="796.8075"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">MAX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.15118217px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="582.01532"
+       y="758.10883"
+       id="text4183-3-3-5-6"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9252487,1.0807905)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4185-6-7-4-4"
+         x="582.01532"
+         y="758.10883"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffffff">ES08A</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.39432,796.86017 9.6228,-12.9786 11.38001,0.084 -1.92456,3.6005 -2.17559,-0.1675 0.41838,-1.1722 -4.68588,-0.084 -0.41839,2.9306 4.68589,0.4187 -1.33883,1.7584 -3.84912,-0.1675 -0.50206,3.0144 2.76133,0.084 2.17559,-1.256 3.01235,0.1675 -2.34294,3.0981 z"
+       id="path4205-5-7-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,805.65217 4.68588,0.1675 -0.16735,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66941,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-9-6-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 605.25188,805.65217 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-7-2-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 533.10218,800.62817 80.87257,0"
+       id="path4226-2-6-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-8-9-8"
+       cx="574.09808"
+       cy="858.30042"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff8080;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 597.88834,805.65217 4.68589,0.1675 -0.16736,1.1722 -0.92044,-0.084 -0.58574,10.8853 0.66942,0.084 -0.0837,1.256 -4.85324,-0.084 0.16735,-1.5909 1.17147,0.084 0.75309,-10.5504 -1.17147,-0.2512 z"
+       id="path4207-5-9-3-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4228-3-7-7-1"
+       cx="574.09808"
+       cy="623.83539"
+       rx="7.8102088"
+       ry="7.8154988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,-1,-1,0,690.7809,1254.582)"
+       style="display:inline"
+       id="g5067-7-4-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="zzssszz"
+         inkscape:connector-curvature="0"
+         id="path4252-8-5-2"
+         d="m 575.21864,86.391519 c 18.1567,-0.700944 128.41078,8.663649 138.22054,10.885865 9.80976,2.222216 14.7133,9.936386 14.5347,20.616046 -0.17859,10.67967 -5.33235,16.62796 -13.33387,17.7387 -13.13006,1.82268 -122.05475,9.17454 -139.59397,9.10143 -17.53922,-0.0731 -27.73266,-15.58526 -28.89372,-28.19886 -1.16106,-12.61359 10.90962,-29.442232 29.06632,-30.143181 z"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="24.749037"
+         rx="24.732368"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.37634"
+         id="path4254-4-2-7"
+         style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="21.67021"
+         rx="21.655615"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="143.73332"
+         cx="569.3764"
+         id="path4254-5-5-5-2"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="7.4602365"
+         rx="7.4552121"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="144.207"
+         cx="568.90308"
+         id="path4271-0-4-2"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="147.75378"
+         cx="643.23047"
+         id="path4273-3-7-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="149.25078"
+         cx="671.38904"
+         id="path4273-6-6-4-1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="5.2103238"
+         rx="5.2068148"
+         transform="matrix(0.99875677,-0.04984891,0.04978162,0.99876013,0,0)"
+         cy="150.93172"
+         cx="700.82037"
+         id="path4273-6-2-1-4-0"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.479721,887.46077 49.663139,0 0,-182.8572 149.33691,0 0,182.8572 178.797,0"
+       id="path4957-9-3-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 97.479721,394.62826 49.663139,0 0,-182.8572 125.0512,0 0,182.8572 203.08271,0"
+       id="path4957-9-3-6-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8"
+       y="-255.8401"
+       x="154.37959"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-255.8401"
+         x="154.37959"
+         id="tspan4520-7-5-8-4"
+         sodipodi:role="line">1ms</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-8-8-9-9-0"
+       y="-296.10919"
+       x="778.33221"
+       style="font-style:normal;font-weight:normal;font-size:38.59114838px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-296.10919"
+         x="778.33221"
+         id="tspan4520-6-8-0-6-3"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-0"
+       y="-268.97205"
+       x="752.73865"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-268.97205"
+         x="752.73865"
+         id="tspan4520-7-5-8-4-4"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-4"
+       y="185.58842"
+       x="154.37959"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="185.58842"
+         x="154.37959"
+         id="tspan4520-7-5-8-4-44"
+         sodipodi:role="line">1.25ms</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-8-8-9-9-0-7"
+       y="86.908974"
+       x="834.59619"
+       style="font-style:normal;font-weight:normal;font-size:38.59114838px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="86.908974"
+         x="834.59619"
+         id="tspan4520-6-8-0-6-3-6"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-0-3"
+       y="114.04612"
+       x="783.28833"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="114.04612"
+         x="783.28833"
+         id="tspan4520-7-5-8-4-4-1"
+         sodipodi:role="line">45</tspan></text>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.00014806;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       id="path6001"
+       sodipodi:type="arc"
+       sodipodi:cx="496.33353"
+       sodipodi:cy="-327.05069"
+       sodipodi:rx="254.25745"
+       sodipodi:ry="254.29222"
+       sodipodi:start="0"
+       sodipodi:end="0.64350113"
+       sodipodi:open="true"
+       d="m 750.59097,-327.05069 a 254.25745,254.29222 0 0 1 -50.85149,152.57534"
+       transform="matrix(0.98419362,-0.17709581,-0.16325126,-0.98658453,0,0)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-4-9"
+       y="678.01489"
+       x="154.37959"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="678.01489"
+         x="154.37959"
+         id="tspan4520-7-5-8-4-44-6"
+         sodipodi:role="line">1.5ms</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-8-8-9-9-0-7-2"
+       y="512.19244"
+       x="786.02478"
+       style="font-style:normal;font-weight:normal;font-size:38.59114838px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="512.19244"
+         x="786.02478"
+         id="tspan4520-6-8-0-6-3-6-1"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-0-3-7"
+       y="539.32959"
+       x="734.71692"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="539.32959"
+         x="734.71692"
+         id="tspan4520-7-5-8-4-4-1-8"
+         sodipodi:role="line">90</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.00015187;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-1)"
+       id="path6001-5"
+       sodipodi:type="arc"
+       sodipodi:cx="-166.68091"
+       sodipodi:cy="-871.11963"
+       sodipodi:rx="192.64835"
+       sodipodi:ry="192.66658"
+       sodipodi:start="5.4163178"
+       sodipodi:end="0.64350113"
+       d="m -41.995501,-1017.9904 a 192.64835,192.66658 0 0 1 29.433267,262.47072"
+       transform="matrix(0.61953547,-0.78496866,-0.77606872,-0.63064835,0,0)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-4-9-9"
+       y="1131.5734"
+       x="154.37959"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1131.5734"
+         x="154.37959"
+         id="tspan4520-7-5-8-4-44-6-7"
+         sodipodi:role="line">1.75ms</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-8-8-9-9-0-7-2-5"
+       y="1435.1006"
+       x="806.02478"
+       style="font-style:normal;font-weight:normal;font-size:38.59114838px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1435.1006"
+         x="806.02478"
+         id="tspan4520-6-8-0-6-3-6-1-3"
+         sodipodi:role="line">o</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-0-3-7-8"
+       y="1470.319"
+       x="726.43262"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1470.319"
+         x="726.43262"
+         id="tspan4520-7-5-8-4-4-1-8-8"
+         sodipodi:role="line">180</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.00008965;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-1-8)"
+       id="path6001-5-6"
+       sodipodi:type="arc"
+       sodipodi:cx="-783.86084"
+       sodipodi:cy="-1475.7227"
+       sodipodi:rx="165.92091"
+       sodipodi:ry="165.98859"
+       sodipodi:start="5.4347998"
+       sodipodi:end="2.3158384"
+       d="m -674.15472,-1600.2496 a 165.92091,165.98859 0 0 1 52.69463,158.5371 165.92091,165.98859 0 0 1 -111.83267,124.0816 165.92091,165.98859 0 0 1 -163.06291,-36.0803"
+       transform="matrix(0.66883254,-0.7434131,-0.7360534,-0.67692347,0,0)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.00015187;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-1-8-4)"
+       id="path6001-5-6-3"
+       sodipodi:type="arc"
+       sodipodi:cx="-469.49924"
+       sodipodi:cy="-1175.6125"
+       sodipodi:rx="192.64835"
+       sodipodi:ry="192.66658"
+       sodipodi:start="5.4542231"
+       sodipodi:end="1.4912036"
+       d="m -339.33807,-1317.6522 a 192.64835,192.66658 0 0 1 52.02225,204.6761 192.64835,192.66658 0 0 1 -166.86619,129.42018"
+       transform="matrix(0.64769088,-0.76190323,-0.75260477,-0.65847252,0,0)"
+       sodipodi:open="true"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-10/servo-pwm-02.png"
+       sodipodi:linespacing="125%"
+       id="text4518-0-1-8-8-4-9-9-3"
+       y="1591.1927"
+       x="199.83646"
+       style="font-style:normal;font-weight:normal;font-size:42.07676697px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1591.1927"
+         x="199.83646"
+         id="tspan4520-7-5-8-4-44-6-7-8"
+         sodipodi:role="line">2ms</tspan></text>
+  </g>
+</svg>
