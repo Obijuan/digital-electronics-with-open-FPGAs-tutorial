@@ -29,16 +29,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="340.96597"
-     inkscape:cy="497.2692"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="-788.73828"
+     inkscape:cy="143.07711"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="792"
+     inkscape:window-width="959"
+     inkscape:window-height="744"
+     inkscape:window-x="495"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -68,18 +68,10 @@
        height="903.07635"
        x="94.954338"
        y="42.20966"
-       ry="4.7602963" />
-    <rect
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-00.png"
        ry="4.7602963"
-       y="-65.876694"
-       x="-1030.3556"
-       height="903.07635"
-       width="533.3606"
-       id="rect4170-5"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -94,7 +86,10 @@
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="838.22662"
-       width="471.50247" />
+       width="471.50247"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="776.51111"
        x="155.53902"
@@ -103,11 +98,14 @@
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="149.53365"
-       width="134.71498" />
+       width="134.71498"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        d="m 281.9958,586.33578 11.57329,-5.27901 12.51929,4.86618 1.68734,-5.39384 m -24.78889,16.72851 c 0,0 10.62086,1.40748 11.47806,3.33486 0.85847,1.92611 8.82669,12.60541 8.82669,12.60541 l 4.19069,-3.41486"
        id="path6-2-7"
        inkscape:connector-curvature="0"
@@ -115,7 +113,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        transform="matrix(0,-0.90861875,1.1005716,0,0,0)"
        sodipodi:linespacing="125%"
        id="text4142-9-0"
@@ -131,7 +129,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        d="m 232.71009,402.05007 11.57329,-5.27902 12.51929,4.86619 1.68734,-5.39385 m -24.78889,16.72852 c 0,0 10.62086,1.40748 11.47806,3.33486 0.85847,1.92611 8.82669,12.60541 8.82669,12.60541 l 4.19069,-3.41486"
        id="path6-2-6"
        inkscape:connector-curvature="0"
@@ -139,7 +137,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        transform="matrix(0,-0.90861875,1.1005716,0,0,0)"
        sodipodi:linespacing="125%"
        id="text4142-9-06"
@@ -157,7 +155,7 @@
        id="path4"
        style="fill:#00ffff;fill-rule:evenodd"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -165,7 +163,7 @@
        id="path6"
        style="fill:none;stroke:#00ffff;stroke-width:2.3423655;stroke-linecap:round;stroke-linejoin:round"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/Circuit-scramble-N1-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
