@@ -1007,18 +1007,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="315.41696"
-     inkscape:cy="451.6825"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="513.08076"
+     inkscape:cy="325.98913"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
-     inkscape:window-y="1104"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1032,7 +1032,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2179,5 +2179,33 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-01.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 9;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4798"
+       cx="344.24579"
+       cy="415.52365"
+       rx="55.714287"
+       ry="57.142857"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 9;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4798-3"
+       cx="344.24579"
+       cy="649.80939"
+       r="60"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:3, 9;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 396.26608,435.27855 c 0,0 30.83683,37.38796 32.2654,111.67368 1.42857,74.28571 -24.28571,98.57142 -24.28571,98.57142"
+       id="path4815"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="csc" />
   </g>
 </svg>
