@@ -990,11 +990,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="401.20216"
-     inkscape:cy="160.13361"
+     inkscape:zoom="0.7"
+     inkscape:cx="482.18502"
+     inkscape:cy="193.89859"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g4300-97"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1015,7 +1015,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1488,74 +1488,98 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
-       transform="matrix(1.1909384,0,0,1.1922687,-109.01998,-207.99816)"
-       id="g4548">
-      <g
-         style="display:inline"
-         id="g4300-97"
-         transform="matrix(0.66788726,0,0,0.66756955,-210.65625,-33.942022)"
-         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-06/src/bombeo-animation/bombeo-animation-04.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-06/src/bombeo-animation/bombeo-animation-04.png"
+       transform="matrix(0.79541258,0,0,0.79592228,-359.8986,-248.46617)"
+       id="g4300-97"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4269-7"
+         width="201.42857"
+         height="132.85715"
+         x="1225.7142"
+         y="387.0051"
+         ry="15.029565"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
-        <rect
-           ry="15.029565"
-           y="387.0051"
-           x="1225.7142"
-           height="132.85715"
-           width="201.42857"
-           id="rect4269-7"
-           style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           ry="7.886745"
-           y="452.71936"
-           x="1240.3571"
-           height="50.714287"
-           width="174.64285"
-           id="rect4271-6"
-           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="cccc"
-           inkscape:connector-curvature="0"
-           id="path4273-73"
-           d="m 1383.909,476.57526 7.9549,10.22779 7.2343,-10.24312 z"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4275-6"
-           d="m 1358.3395,483.20438 10.2278,-10.03839"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path4275-7-5"
-           d="m 1368.5673,483.20438 -10.2278,-10.03839"
-           style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <text
-           transform="scale(0.99228103,1.007779)"
-           sodipodi:linespacing="125%"
-           id="text4292-6"
-           y="426.54413"
+         inkscape:export-ydpi="90" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4271-6"
+         width="174.64285"
+         height="50.714287"
+         x="1240.3571"
+         y="452.71936"
+         ry="7.886745"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1383.909,476.57526 7.9549,10.22779 7.2343,-10.24312 z"
+         id="path4273-73"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1358.3395,483.20438 10.2278,-10.03839"
+         id="path4275-6"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.60426116;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1368.5673,483.20438 -10.2278,-10.03839"
+         id="path4275-7-5"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:30.54034233px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1306.574"
+         y="426.54413"
+         id="text4292-6"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99228103,1.007779)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4294-3"
            x="1306.574"
-           style="font-style:normal;font-weight:normal;font-size:30.54034233px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="426.54413"
-             x="1306.574"
-             id="tspan4294-3"
-             sodipodi:role="line">LED</tspan></text>
-        <text
-           transform="scale(1.0346532,0.9665074)"
-           sodipodi:linespacing="125%"
-           id="text4296-94"
-           y="504.55121"
+           y="426.54413">LED</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:25.57863617px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1215.8052"
+         y="504.55121"
+         id="text4296-94"
+         sodipodi:linespacing="125%"
+         transform="scale(1.0346532,0.9665074)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/habilitacion-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4298-81"
            x="1215.8052"
-           style="font-style:normal;font-weight:normal;font-size:25.57863617px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             y="504.55121"
-             x="1215.8052"
-             id="tspan4298-81"
-             sodipodi:role="line">LED7</tspan></text>
-      </g>
-    </g>
+           y="504.55121">LED0</tspan></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4736"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion4738"><rect
+             id="rect4740"
+             width="188.57143"
+             height="185.71428"
+             x="-284.28571"
+             y="-260.21613" /></flowRegion><flowPara
+           id="flowPara4742"></flowPara></flowRoot>    </g>
     <g
        id="g6172"
        transform="matrix(1.2458414,0,0,1.247233,-391.13631,-9.1376001)"
