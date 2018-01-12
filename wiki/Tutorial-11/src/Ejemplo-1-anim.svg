@@ -109,7 +109,7 @@
      inkscape:cx="356.08169"
      inkscape:cy="687.98479"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g4342"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -148,7 +148,10 @@
        height="1115.2084"
        x="-109.96002"
        y="-365.23993"
-       ry="8.8026281e-05" />
+       ry="8.8026281e-05"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="placa"
@@ -165,7 +168,7 @@
        preserveAspectRatio="none"
        height="904"
        width="1297"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-09/Alhambra-01.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-08.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -173,7 +176,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="dedo-i-1"
-     style="display:none">
+     style="display:inline">
     <image
        y="138.24988"
        x="-356.14551"
@@ -185,10 +188,13 @@
        width="153.37766"
        inkscape:transform-center-x="370.54714"
        inkscape:transform-center-y="599.08815"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="dedo-d-1"
      id="g4296"
      inkscape:groupmode="layer">
@@ -348,13 +354,16 @@ nH79KuF5V/GqWZjnDdtSZqYL5zn/0Cs5//ArRBC+EV//D3KT3+b6YsoSAAAAAElFTkSuQmCC
 "
        id="image4298"
        x="374.55359"
-       y="139.67838" />
+       y="139.67838"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="dedo-i-0"
-     style="display:inline">
+     style="display:none">
     <image
        y="82.535538"
        x="-342.57407"
@@ -366,10 +375,13 @@ nH79KuF5V/GqWZjnDdtSZqYL5zn/0Cs5//ArRBC+EV//D3KT3+b6YsoSAAAAAElFTkSuQmCC
        width="153.37766"
        inkscape:transform-center-x="370.54714"
        inkscape:transform-center-y="599.08815"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-07.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="dedos-d-0"
      id="g4342"
      inkscape:groupmode="layer">
@@ -529,25 +541,16 @@ nH79KuF5V/GqWZjnDdtSZqYL5zn/0Cs5//ArRBC+EV//D3KT3+b6YsoSAAAAAElFTkSuQmCC
 "
        id="image4344"
        x="376.33929"
-       y="82.53553" />
-    <image
-       transform="scale(-1,1)"
-       inkscape:transform-center-y="599.08815"
-       inkscape:transform-center-x="370.54714"
-       width="153.37766"
-       height="182.5"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       xlink:href="data:image/png;base64,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 "
-       id="image4346"
-       x="-342.57407"
-       y="82.535538" />
+       y="82.53553"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-06.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="ledon"
-     style="display:none">
+     style="display:inline">
     <image
        y="508.99997"
        x="299.07825"
@@ -556,6 +559,9 @@ nH79KuF5V/GqWZjnDdtSZqYL5zn/0Cs5//ArRBC+EV//D3KT3+b6YsoSAAAAAElFTkSuQmCC
        style="display:inline;image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="20.224718"
-       width="25.280899" />
+       width="25.280899"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/ejemplo-1-and-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
