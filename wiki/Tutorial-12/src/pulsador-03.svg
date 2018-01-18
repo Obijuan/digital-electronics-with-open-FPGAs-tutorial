@@ -13,12 +13,12 @@
    version="1.2"
    x="0in"
    y="0in"
-   width="2.8110766in"
-   height="3.9220841in"
-   viewBox="0 0 202.39716 282.38954"
+   width="8.2022285in"
+   height="11.104555in"
+   viewBox="0 0 590.55941 799.52651"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="pulsador-3v3-breadboard_bb.svg">
+   sodipodi:docname="pulsador-03.svg">
   <metadata
      id="metadata1595">
     <rdf:RDF>
@@ -75,9 +75,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.3405496"
-     inkscape:cx="51.580568"
-     inkscape:cy="108.77119"
+     inkscape:zoom="0.47395586"
+     inkscape:cx="20.988283"
+     inkscape:cy="514.50706"
      inkscape:window-x="65"
      inkscape:window-y="792"
      inkscape:window-maximized="1"
@@ -85,27 +85,30 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="back">
+     inkscape:label="back"
+     transform="translate(17.306305,14.20468)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79999852;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect18510"
-       width="232.73996"
-       height="315.09409"
+       width="590.55939"
+       height="799.52649"
        x="-17.306305"
        y="-14.204692"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Layer 1"
-     transform="translate(0.27946579,0.71451126)">
+     transform="translate(17.585771,14.919191)">
     <g
        id="g7734"
-       transform="matrix(0.79999855,0,0,0.79999847,-0.11946538,-0.79116711)"
+       transform="matrix(2.0299335,0,0,2.0299333,26.733608,20.929579)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <g
          style="display:inline"
          transform="translate(-243.31923,-428.2851)"
@@ -15702,13 +15705,14 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Layer 2"
-     transform="translate(0.27946579,0.71451126)">
+     transform="translate(17.585771,14.919191)">
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854895800"
        id="g4"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <g
          transform="translate(17.6595,173.675)"
          id="g6">
@@ -19701,11 +19705,12 @@
       </g>
     </g>
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854896800"
        id="g1496"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <g
          transform="translate(84.6626,215.344)"
          id="g1498">
@@ -19838,24 +19843,27 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#8c8c8c;stroke-width:2.09520006;stroke-linecap:round;stroke-linejoin:round"
-       d="m 101.62701,209.675 -1.048,0"
+       style="fill:none;stroke:#8c8c8c;stroke-width:5.31640577;stroke-linecap:round;stroke-linejoin:round"
+       d="m 284.9073,554.97096 -2.65922,0"
        id="path1546"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#8c8c8c;stroke-width:2.09520006;stroke-linecap:round;stroke-linejoin:round"
-       d="m 128.336,209.675 1.048,0"
+       style="fill:none;stroke:#8c8c8c;stroke-width:5.31640577;stroke-linecap:round;stroke-linejoin:round"
+       d="m 352.67927,554.97096 2.65922,0"
        id="path1548"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png" />
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854897850"
        id="g1550"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <g
          transform="translate(99.5313,206.043)"
          id="g1552">
@@ -19966,11 +19974,12 @@
       </g>
     </g>
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854898520"
        id="g1573"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <path
          style="fill:none;stroke:#000000;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -19983,11 +19992,12 @@
          id="path1577" />
     </g>
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854898590"
        id="g1579"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <path
          style="fill:none;stroke:#8c0000;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
@@ -20000,11 +20010,12 @@
          id="path1583" />
     </g>
     <g
-       transform="translate(0,-3.3431888e-6)"
+       transform="matrix(2.5374215,0,0,2.5374215,27.036742,22.937095)"
        partID="854898660"
        id="g1585"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-03.png">
       <path
          style="fill:none;stroke:#d6d63a;stroke-width:3.20000005;stroke-linecap:round"
          inkscape:connector-curvature="0"
