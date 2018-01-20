@@ -56,16 +56,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="295.55562"
-     inkscape:cy="247.75649"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="307.2507"
+     inkscape:cy="247.95305"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-y="792"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -289,7 +289,7 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="576.34589"
+       x="555.97766"
        y="342.59488"
        id="text4497-4-6"
        sodipodi:linespacing="125%"
@@ -299,9 +299,9 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4499-3-2"
-         x="576.34589"
+         x="555.97766"
          y="342.59488"
-         style="font-size:32.02461243px">1k</tspan></text>
+         style="font-size:32.02461243px">460</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.92541409;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4494"
@@ -352,21 +352,34 @@
          x="614.55792"
          y="254.02684"
          style="font-size:32.02461243px">Dx</tspan></text>
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 569.1534,322.59454 -17.67296,10.2035 16.96686,9.79582"
-       id="path4178"
-       inkscape:connector-curvature="0"
+    <g
+       transform="matrix(0.12878235,0,0,0.12878235,616.84904,313.88022)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot2990"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 549.01791,338.43688 15.94916,9.20825"
-       id="path4180"
-       inkscape:connector-curvature="0"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 191.51855,220.70529 -69.82421,0 0,-20.01953 c 30.51743,-15.4622 45.77621,-40.039 45.77636,-73.73047 -1.5e-4,-20.42632 -5.47297,-36.865102 -16.41845,-49.316404 C 140.10648,65.187869 125.51909,58.96229 107.29004,58.962128 88.979413,58.96229 74.351335,65.187869 63.405762,77.638886 52.460081,90.090188 46.987268,106.52897 46.987305,126.95529 c -3.7e-5,33.69147 15.258737,58.26827 45.776367,73.73047 l 0,20.01953 -69.824219,0 0,-21.24023 39.306641,0 C 35.71612,178.46901 22.451159,152.95634 22.451172,122.92697 22.451159,98.675792 30.202617,78.5749 45.705566,62.624237 61.208445,46.67389 81.736582,38.698638 107.29004,38.698456 c 25.47188,1.82e-4 45.95933,7.975434 61.4624,23.925781 15.50276,15.950663 23.25421,36.051555 23.2544,60.302733 -1.9e-4,30.02937 -13.26515,55.54204 -39.79493,76.53809 l 39.30664,0 z"
+         style="font-size:250px;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif'"
+         id="path3080" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="647.81335"
+       y="342.59488"
+       id="text4497-4-6-5"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99945559,1.0005447)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4499-3-2-62"
+         x="647.81335"
+         y="342.59488"
+         style="font-size:32.02461243px">-1K</tspan></text>
   </g>
 </svg>
