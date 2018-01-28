@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="175.66319mm"
+   height="81.723488mm"
+   viewBox="0 0 622.42864 289.57141"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="leds-externos-conexion-transitor-1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4213" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4195" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="219.42254"
+     inkscape:cy="171.30913"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-global="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     style="display:inline"
+     transform="translate(-58.071423,-56.147919)">
+    <text
+       id="text2171-6"
+       y="-2537.4795"
+       x="-2282.3662"
+       style="font-style:normal;font-weight:normal;font-size:11.68831158px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-2537.4795"
+         x="-2282.3662"
+         id="tspan2173-2"
+         sodipodi:role="line" /></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text3610-1"
+       y="1075.5692"
+       x="363.56326"><tspan
+         id="tspan3612-2"
+         y="1075.5692"
+         x="363.56326" /></text>
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.81124777;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4453"
+       width="621.61737"
+       height="288.76016"
+       x="58.477047"
+       y="56.553543"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text2171-62"
+       y="-2739.873"
+       x="-2690.8457"
+       style="font-style:normal;font-weight:normal;font-size:11.68831158px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="-2739.873"
+         x="-2690.8457"
+         id="tspan2173-9"
+         sodipodi:role="line" /></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"
+       id="text3610-8"
+       y="873.17566"
+       x="-44.916134"><tspan
+         id="tspan3612-7"
+         y="873.17566"
+         x="-44.916134" /></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 514.40783,-106.07139 0,-34.85027"
+       id="path4884"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(-58.071423,-56.147919)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.68831158px;font-family:Lello;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-2425.8079"
+       y="-3067.8096"
+       id="text2171"><tspan
+         sodipodi:role="line"
+         id="tspan2173"
+         x="-2425.8079"
+         y="-3067.8096" /></text>
+    <text
+       x="220.1216"
+       y="545.23907"
+       id="text3610"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="220.1216"
+         y="545.23907"
+         id="tspan3612" /></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       transform="scale(0.99945559,1.0005447)"
+       sodipodi:linespacing="125%"
+       id="text4497-4-2-6-9-2"
+       y="246.6181"
+       x="417.01871"
+       style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:32.02461243px;fill:#0000ff"
+         y="246.6181"
+         x="417.01871"
+         id="tspan4499-3-0-8-2-6"
+         sodipodi:role="line">GND</tspan></text>
+    <path
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.92541409;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 102.19581,126.22273 166.75992,0 24.4612,46.00431 -24.4612,46.00432 -166.75992,0 z"
+       id="rect4494"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       transform="scale(0.99945559,1.0005447)"
+       sodipodi:linespacing="125%"
+       id="text4497-4-6-3"
+       y="163.61424"
+       x="113.80952"
+       style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:32.02461243px"
+         y="163.61424"
+         x="113.80952"
+         id="tspan4499-3-2-6"
+         sodipodi:role="line">Pin FPGA</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       transform="scale(0.99945559,1.0005447)"
+       sodipodi:linespacing="125%"
+       id="text4497-4-6-3-3"
+       y="204.26418"
+       x="162.61627"
+       style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:32.02461243px"
+         y="204.26418"
+         x="162.61627"
+         id="tspan4499-3-2-6-6"
+         sodipodi:role="line">Dx</tspan></text>
+    <g
+       id="g4433"
+       transform="translate(73.953952,60.821932)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="304.07639"
+         y="77.411186"
+         id="text4497-4-6-5"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99945559,1.0005447)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4499-3-2-62"
+           x="304.07639"
+           y="77.411186"
+           style="font-size:32.02461243px;fill:#0000ff">2K2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="234.3755"
+         y="76.57579"
+         id="text4497-4-6-5-1-7"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99945559,1.0005447)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4499-3-2-62-8-9"
+           x="234.3755"
+           y="76.57579"
+           style="font-size:32.02461243px;fill:#0000ff">R1=</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.76452351px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="528.53052"
+       y="-43.972332"
+       id="text4449"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4451"
+         x="528.53052"
+         y="-43.972332">LED</tspan></text>
+    <path
+       id="path4867-4"
+       d="m 292.64102,172.39089 43.06174,0 7.17696,-14.35391 14.35391,28.70783 14.35392,-28.70783 14.35391,28.70783 14.35392,-28.70783 14.35391,28.70783 7.17696,-14.35392 43.06174,0 23.63175,0"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2.87078285;stroke-linejoin:bevel"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       x="487.60434"
+       y="-47.75486"
+       style="font-style:normal;font-weight:normal;font-size:23.99245453px;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3967"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="487.60434"
+         y="-47.75486"
+         id="tspan3969">-</tspan></text>
+    <text
+       x="478.95813"
+       y="-112.26427"
+       style="font-style:normal;font-weight:normal;font-size:23.99245453px;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3971"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="478.95813"
+         y="-112.26427"
+         id="tspan3973">+</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8000"
+       d="m 539.47644,-65.345401 -48.37962,0.0712"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1323"
+       d="m 560.42439,-73.226264 -20.17301,-10.04945"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1325-8"
+       d="M 566.45111,-87.345894 546.27809,-97.395323"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1331"
+       d="m 560.42439,-73.226264 -6.04448,2.0247"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1333"
+       d="m 560.42439,-73.226264 -2.0247,-6.0445"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1335"
+       d="m 566.45111,-87.345894 -6.04452,2.02472"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3.67552376;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1337"
+       d="m 566.45111,-87.345894 -2.02474,-6.04448"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 538.85609,-105.67004 -24.05961,39.305119 -24.55394,-39.233599 z"
+       id="path4447"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccsccsssscssccsccccccsccssccccc"
+       id="text2175"
+       d="m 682.41564,25.376068 0.66902,0 c 0.0481,0.855865 0.30129,1.452576 0.75942,1.79009 0.45807,0.33741 1.18739,0.506319 2.1879,0.506319 l 4.93638,0 -0.0362,-1.21151 c -1.91667,-0.385712 -3.66464,-1.452541 -5.24376,-3.200445 -1.57913,-1.747896 -2.36871,-3.953895 -2.36871,-6.617955 0,-2.953307 1.09996,-5.472721 3.29993,-7.5581657 2.19996,-2.0854183 5.07196,-3.1281233 8.61601,-3.1281578 3.4355,0 6.24424,0.9854851 8.42612,2.9563434 2.18183,1.9709701 3.27278,4.4933771 3.27278,7.5672391 0,2.495324 -0.67804,4.613898 -2.03418,6.355764 -1.35615,1.741902 -3.19144,2.950349 -5.50591,3.625377 l -0.18098,1.21151 5.02673,0 c 1.14519,0 1.90157,-0.217098 2.26928,-0.650929 0.36761,-0.433971 0.56351,-0.98245 0.58764,-1.64548 l 0.66903,0 0,5.65963 -10.12578,0 0.47009,-5.460698 c 3.11006,-0.976411 4.6651,-3.85141 4.66513,-8.625047 0,-3.122086 -0.7625,-5.514916 -2.28736,-7.1784651 -1.52492,-1.663472 -3.31199,-2.4952467 -5.36123,-2.4952812 -2.18191,3.45e-5 -3.98706,0.8830345 -5.41551,2.6489916 -1.42848,1.7659997 -2.14274,4.0232237 -2.14274,6.7716297 0,1.988997 0.31935,3.800185 0.95839,5.433606 0.63887,1.633379 1.86241,2.781536 3.6706,3.444566 l 0.34355,5.460698 -10.12585,0 z"
+       style="font-style:normal;font-weight:normal;font-size:2050.27807617px;font-family:'Times New Roman';display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       d="m 513.62398,201.63948 -12.3951,-3.71854 8.67655,-8.67656 3.71855,12.3951 z"
+       style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.71853018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1307"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccc"
+       d="m 490.07328,178.08878 24.7902,24.7902 0,43.38285"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.17552733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1309"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccc"
+       d="m 490.09491,165.65818 24.74787,-25.92027 0,-8.23743"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1321"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       d="m 490.07328,147.10103 0,49.5804"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.71853018px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path3078"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4098"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.17552733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 476.73883,260.99513 76.21266,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4100"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.17552733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 489.44094,270.52172 50.80844,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4102"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.17552733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 527.54727,280.0483 -25.40422,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path4104"
+       style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.17552733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 514.84516,260.99513 0,-15.87763"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 522.92367,-151.19927 a 8.1757631,8.1757631 0 0 1 -8.4098,7.92086 8.1757631,8.1757631 0 0 1 -7.93478,-8.39665 8.1757631,8.1757631 0 0 1 8.38348,-7.9487 8.1757631,8.1757631 0 0 1 7.96258,8.3703"
+       sodipodi:open="true"
+       sodipodi:end="0.024128479"
+       sodipodi:start="0.030759476"
+       sodipodi:ry="8.1757631"
+       sodipodi:rx="8.1757631"
+       sodipodi:cy="-151.45071"
+       sodipodi:cx="514.75177"
+       sodipodi:type="arc"
+       id="path5072-9"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g4433-9"
+       transform="translate(313.3601,-47.264389)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="304.07639"
+         y="77.411186"
+         id="text4497-4-6-5-2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99945559,1.0005447)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4499-3-2-62-0"
+           x="304.07639"
+           y="77.411186"
+           style="font-size:32.02461243px;fill:#0000ff">220</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:56.04307556px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="234.3755"
+         y="76.57579"
+         id="text4497-4-6-5-1-7-2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99945559,1.0005447)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-12/pulsador-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4499-3-2-62-8-9-3"
+           x="234.3755"
+           y="76.57579"
+           style="font-size:32.02461243px;fill:#0000ff">R2=</tspan></text>
+    </g>
+    <path
+       id="path4867-4-7"
+       d="m 514.84897,-63.995601 0,43.06174 14.35391,7.17696 -28.70783,14.35390947 28.70783,14.35392053 -28.70783,14.35391 28.70783,14.35392 -28.70783,14.353908 14.35392,7.176965 0,43.061748 0,23.63175"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:3;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-13/Leds-externos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(-58.071423,-56.147919)" />
+</svg>
