@@ -4199,16 +4199,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="593.23296"
-     inkscape:cy="291.07431"
+     inkscape:zoom="0.35"
+     inkscape:cx="651.93624"
+     inkscape:cy="450.04496"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="1048"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="705"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -4224,7 +4224,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5074,38 +5074,6 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
     </g>
-    <g
-       style="display:inline"
-       id="g9326-9"
-       transform="matrix(-1,0,0,1,1057.9857,318.48179)"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-14/mux-4-1-02.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         d="m 797.03349,284.58414 -9.38809,20.54632 8.65393,22.22577 -9.59228,2.99558 m 29.74958,-44.00826 c 0,0 2.50303,18.85546 5.93064,20.37725 3.42533,1.52406 22.41715,15.67022 22.41715,15.67022 l -6.07289,7.43982"
-         id="path6-5-2-9-4-6-3"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#0000ff;stroke-width:2.13331318;stroke-linecap:round;stroke-linejoin:round" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         transform="scale(-0.90940004,1.0996261)"
-         sodipodi:linespacing="125%"
-         id="text4142-2-4-5-7-9"
-         y="260.56131"
-         x="-933.46844"
-         style="font-style:normal;font-weight:normal;font-size:124.99843597px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.6975981px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#0000ff;stroke:#0000ff;stroke-width:0.6975981px"
-           y="260.56131"
-           x="-933.46844"
-           id="tspan4144-8-7-0-5-2"
-           sodipodi:role="line">o</tspan></text>
-    </g>
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -5281,38 +5249,6 @@
            sodipodi:role="line">o</tspan></text>
     </g>
     <g
-       style="display:inline"
-       id="g9326-5-9"
-       transform="matrix(-1,0,0,1,1057.9857,470.00466)"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-14/mux-4-1-02.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         d="m 797.03349,284.58414 -9.38809,20.54632 8.65393,22.22577 -9.59228,2.99558 m 29.74958,-44.00826 c 0,0 2.50303,18.85546 5.93064,20.37725 3.42533,1.52406 22.41715,15.67022 22.41715,15.67022 l -6.07289,7.43982"
-         id="path6-5-2-9-4-6-5-9"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#0000ff;stroke-width:2.13331318;stroke-linecap:round;stroke-linejoin:round" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         transform="scale(-0.90940004,1.0996261)"
-         sodipodi:linespacing="125%"
-         id="text4142-2-4-5-7-29-7"
-         y="260.56131"
-         x="-933.46844"
-         style="font-style:normal;font-weight:normal;font-size:124.99843597px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.6975981px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#0000ff;stroke:#0000ff;stroke-width:0.6975981px"
-           y="260.56131"
-           x="-933.46844"
-           id="tspan4144-8-7-0-5-02-8"
-           sodipodi:role="line">o</tspan></text>
-    </g>
-    <g
        transform="translate(828.57143,14.14214)"
        id="g8365-2"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-14/mux-4-1-02.png"
@@ -5389,6 +5325,54 @@
            x="-480.89038"
            y="734.7536"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff8080">X</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g13272-2-3"
+       transform="translate(-379.45511,408.31486)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-14/mux-4-1-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 581.70887,298.47193 30.11288,-23.08555 24.36959,5.50096 -19.47233,83.12334 -18.95499,-4.27894 14.97572,-66.34958 -22.25353,13.47666 z"
+         id="path4-7-6-7-4-6"
+         style="fill:#0000ff;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 609.08528,358.89786 15.213,20.12082 -12.75854,15.21553 4.41492,3.92541 m -9.99678,-38.77181 -8.83373,20.12276 -20.11999,3.92541 1.47229,6.37903"
+         id="path6-7-2-1-9-7-7"
+         style="fill:none;stroke:#0000ff;stroke-width:2.34236574;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       style="display:inline"
+       id="g13272-2-3-5"
+       transform="translate(-379.45511,242.64984)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-14/mux-4-1-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 581.70887,298.47193 30.11288,-23.08555 24.36959,5.50096 -19.47233,83.12334 -18.95499,-4.27894 14.97572,-66.34958 -22.25353,13.47666 z"
+         id="path4-7-6-7-4-6-3"
+         style="fill:#0000ff;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 609.08528,358.89786 15.213,20.12082 -12.75854,15.21553 4.41492,3.92541 m -9.99678,-38.77181 -8.83373,20.12276 -20.11999,3.92541 1.47229,6.37903"
+         id="path6-7-2-1-9-7-7-5"
+         style="fill:none;stroke:#0000ff;stroke-width:2.34236574;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
     </g>
   </g>
 </svg>
