@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9899495"
-     inkscape:cx="240.21065"
-     inkscape:cy="205.74736"
+     inkscape:cx="188.18779"
+     inkscape:cy="210.79812"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -38,7 +38,7 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1215"
      inkscape:window-height="1000"
-     inkscape:window-x="705"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -71,14 +71,17 @@
        height="278.91138"
        x="-36.527737"
        y="-42.164982"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/10-Padawan.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/12-Padawan-N2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="layer2-3"
        inkscape:label="back"
        transform="matrix(0.82503782,0,0,1.0399263,-5.9027595,-2.4326238)"
-       style="display:inline;fill:#ffffff">
+       style="display:inline;fill:#ffffff"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/12-Padawan-N2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:2.87135482;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4135-5"
@@ -93,7 +96,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/09-Aspirante-padawan-N3.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/12-Padawan-N2.png"
        y="142.75558"
        x="225.39819"
        height="42.142857"
@@ -103,7 +106,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/09-Aspirante-padawan-N3.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/12-Padawan-N2.png"
        y="70.529694"
        x="225.39819"
        height="42.142857"
@@ -120,7 +123,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/10-Padawan.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/rangos/png/12-Padawan-N2.png"
        inkscape:connector-curvature="0"
        id="rect4140-6"
        d="m 39.280631,30.266244 0,1.13477 -0.0664,0 0,182.837876 39.39649,0 0,-77.43359 143.379129,0 0,-106.539056 -182.709209,0 z m 39.33008,39.39452 103.818359,0 0,27.74805 -103.818359,0 z"
