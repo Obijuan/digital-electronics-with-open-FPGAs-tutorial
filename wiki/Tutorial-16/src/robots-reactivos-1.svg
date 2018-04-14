@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="450.43823mm"
+   width="443.59613mm"
    height="172.19286mm"
-   viewBox="0 0 1596.041 610.13216"
+   viewBox="0 0 1571.7973 610.13216"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -147,8 +147,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="458.49406"
-     inkscape:cy="349.76175"
+     inkscape:cx="893.09451"
+     inkscape:cy="185.63598"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -171,7 +171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -179,13 +179,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(398.00009,-375.56003)">
+     transform="translate(349.51276,-375.56003)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5709"
-       width="1596.041"
+       width="1571.7974"
        height="610.13214"
-       x="-398.00009"
+       x="-349.51276"
        y="375.56003"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
@@ -196,11 +196,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(398.00009,-375.56003)">
+     transform="translate(349.51276,-375.56003)">
     <rect
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4140-8"
-       width="690.36035"
+       width="768.14209"
        height="282.99347"
        x="49.894764"
        y="566.99493"
@@ -213,7 +213,7 @@
        id="rect4140"
        width="208.93179"
        height="127.27919"
-       x="289.89478"
+       x="312.75192"
        y="635.56635"
        ry="14.812964"
        inkscape:export-xdpi="90"
@@ -222,17 +222,17 @@
     <circle
        style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7079"
-       cx="148.14085"
-       cy="703.53491"
-       r="74.609512"
+       cx="160.2627"
+       cy="704.54504"
+       r="87.741493"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="94.770821"
-       y="706.53705"
+       style="font-style:normal;font-weight:normal;font-size:27.61248207px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="94.224419"
+       y="712.18695"
        id="text4136-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
@@ -240,14 +240,14 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4138-6"
-         x="94.770821"
-         y="706.53705"
+         x="94.224419"
+         y="712.18695"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Sensores</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="310.83643"
-       y="700.65826"
+       style="font-style:normal;font-weight:normal;font-size:27.1024704px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="327.94183"
+       y="708.91168"
        id="text4136-3-7-3"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
@@ -255,13 +255,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4138-6-5-5"
-         x="310.83643"
-         y="700.65826"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Procesamiento</tspan></text>
+         x="327.94183"
+         y="708.91168"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Procesador</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:32.84380341px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="339.47906"
+       x="362.33621"
        y="821.75464"
        id="text4136-3-6"
        sodipodi:linespacing="125%"
@@ -270,12 +270,12 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"><tspan
          sodipodi:role="line"
          id="tspan4138-6-0"
-         x="339.47906"
+         x="362.33621"
          y="821.75464"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Robot</tspan></text>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-3-6)"
-       d="m 226.8008,698.80612 58.42277,-1.01014"
+       d="m 248.22937,700.94898 58.42277,-1.01014"
        id="path4213-1-0-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -298,17 +298,17 @@
          y="487.858"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entorno</tspan></text>
     <circle
-       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path7079-6"
-       cx="635.2478"
-       cy="704.1922"
-       r="73.246567"
+       cx="685.24774"
+       cy="702.76361"
+       r="97.53228"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-3-6-2)"
-       d="m 499.65794,698.80612 58.42277,-1.01014"
+       d="m 522.51508,698.80612 58.42277,-1.01014"
        id="path4213-1-0-6-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -317,9 +317,9 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="571.08289"
-       y="705.58405"
+       style="font-style:normal;font-weight:normal;font-size:28.09450531px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="593.90045"
+       y="711.73395"
        id="text4136-3-7"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
@@ -327,8 +327,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4138-6-5"
-         x="571.08289"
-         y="705.58405"
+         x="593.90045"
+         y="711.73395"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Actuadores</tspan></text>
     <g
        id="g5671"
@@ -360,7 +360,7 @@
     </g>
     <g
        id="g5671-2"
-       transform="translate(1000,1.7533905e-6)"
+       transform="translate(1080.4307,1.7533905e-6)"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
@@ -387,11 +387,11 @@
            sodipodi:role="line">Respuestas</tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5707"
-       width="1460.6807"
+       width="1466.7416"
        height="490.93414"
-       x="-335.37067"
+       x="-301.02548"
        y="432.12854"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-16/robot-reactivos-1.png"
