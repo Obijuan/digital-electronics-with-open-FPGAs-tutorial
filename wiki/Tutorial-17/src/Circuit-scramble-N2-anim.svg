@@ -31,9 +31,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000002"
      inkscape:cx="271.83482"
-     inkscape:cy="444.37569"
+     inkscape:cy="392.2944"
      inkscape:document-units="px"
-     inkscape:current-layer="g4302"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -70,7 +70,7 @@
        x="94.954338"
        y="42.20966"
        ry="4.7602963"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-11/src/anim-1/Anim-08.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/Circuit-scramble-N2-2.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -181,7 +181,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-94.954338,-42.20966)"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <image
        y="75.338303"
@@ -3083,7 +3083,7 @@ QgghhBBCCCGEEEIIIYQQQgghhBDiWP3/eRbPWssbNGcAAAAASUVORK5CYII=
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(-94.954338,-42.20966)"
      id="g4278"
      inkscape:groupmode="layer"
@@ -5987,7 +5987,7 @@ AAAAAPioHyPRmNJWzEjPAAAAAElFTkSuQmCC
      inkscape:groupmode="layer"
      id="g4302"
      transform="translate(-94.954338,-42.20966)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        inkscape:export-ydpi="90"
