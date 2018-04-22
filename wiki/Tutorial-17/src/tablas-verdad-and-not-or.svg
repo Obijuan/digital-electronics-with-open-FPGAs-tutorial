@@ -1,0 +1,2740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="519.4964mm"
+   height="298.75235mm"
+   viewBox="0 0 1840.7353 1058.5713"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tablas-verdad-and-not-or.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4267"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6266"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6268"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6266-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6268-5" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4733"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5494"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5496" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4247" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-69"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4259" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5494-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5496-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4247-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4259-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-9-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-1-1"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5494-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5496-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mstart-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4733-5" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-56"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-9"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-0"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-60"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-9-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-1-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-2-9"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-0-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-3-3"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-6-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-0-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-6-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-2-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-1-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-3-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-7-7"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-59"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-90"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-77"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-1"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-97"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-67"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-9-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-1-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-2-3"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-7-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-0-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-3-1"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-6-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-0-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-2-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-6-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-1-88"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Mstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4733-0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-10"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-8"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-06"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-6"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-58"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-62"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4377-9-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-1-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-2-6"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send-7-29"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4247-0-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4259-3-8"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-6-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-0-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-6-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-2-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-5-9-6-03"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377-5-6-1-1-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5494-3-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5496-7-3"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-12" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5494-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5496-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send-93"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4247-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4259-62" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-61"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-9-20"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-1-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-9-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5494-1-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5496-2-92" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Send-7-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4247-0-97" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-9-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#00000d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4259-3-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-6-12"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-0-93"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-6-19"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-2-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-9-6-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-1-1-84"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6266-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6268-5-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-2-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-9-7-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-6-12-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-0-93-7"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutM-7-5-6-19-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM">
+      <path
+         transform="scale(0.4,0.4)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4377-5-6-2-4-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="944.37321"
+     inkscape:cy="455.4305"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     transform="translate(-3.1736299e-6,174.78065)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6499"
+       width="1840.7354"
+       height="1058.5713"
+       x="3.1736299e-06"
+       y="-174.78065"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="table"
+     transform="translate(-3.1736299e-6,174.78065)" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.1736299e-6,174.78065)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.99999964;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4633-8-8"
+       width="420.59177"
+       height="664.28577"
+       x="1337.9797"
+       y="-83.352097"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       y="351.16739"
+       x="1338.0944"
+       height="112.44382"
+       width="419.97116"
+       id="rect4653-6-7"
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4633"
+       width="569.16321"
+       height="892.85718"
+       x="83.693985"
+       y="-83.352036"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4653"
+       width="567.70569"
+       height="339.38153"
+       x="84.644661"
+       y="469.54623"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 401.83257,253.3114 0,554.61329"
+       id="path4655"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 84.644661,587.70435 567.705729,0"
+       id="path4651-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,508.06921,721.01293)"
+       id="g4174">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.41530991,0,0,0.41800131,131.86459,381.01182)"
+       id="g4163-9-1-8">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-5-2-9-4"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142-2-4-5"
+         sodipodi:linespacing="125%"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-8-7-0"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.41530991,0,0,0.41800131,270.43601,381.01182)"
+       id="g4163-9-1-8-36">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-5-2-9-4-06"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142-2-4-5-2"
+         sodipodi:linespacing="125%"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-8-7-0-61"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.41530991,0,0,0.41800131,506.7123,381.01182)"
+       id="g4163-9-1-8-36-8">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-5-2-9-4-06-7"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142-2-4-5-2-9"
+         sodipodi:linespacing="125%"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-8-7-0-61-2"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.41530991,0,0,0.41800131,131.86459,498.15468)"
+       id="g4163-9-1-8-0">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-5-2-9-4-2"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142-2-4-5-3"
+         sodipodi:linespacing="125%"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-8-7-0-7"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.41530991,0,0,0.41800131,270.43601,609.58325)"
+       id="g4163-9-1-8-36-5-1">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path6-5-2-9-4-06-9-9"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-5.3533745"
+         y="100.34553"
+         id="text4142-2-4-5-2-2-4"
+         sodipodi:linespacing="125%"
+         transform="scale(0.91185408,1.0966667)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-8-7-0-61-28-7"
+           x="-5.3533745"
+           y="100.34553"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">o</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,270.36436,721.01293)"
+       id="g4174-3">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-6"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-1"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,131.79293,721.01293)"
+       id="g4174-3-0">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-6-6"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-1-3"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="118.79409"
+       y="315.82077"
+       id="text4611"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613"
+         x="118.79409"
+         y="315.82077"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entradas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="470.22266"
+       y="315.82077"
+       id="text4611-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613-0"
+         x="470.22266"
+         y="315.82077"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Salida</tspan></text>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,131.79293,606.86569)"
+       id="g4174-3-0-3">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-6-6-6"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-1-3-7"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,270.36436,494.73876)"
+       id="g4174-3-5">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-6-3"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-1-5"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="layer2"
+       inkscape:label="back 1"
+       style="display:inline"
+       transform="translate(212.33979,1.3199744)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 175.56021,188.7178 -91.032747,0 c 0,0 30.344497,-42.53778 31.085357,-94.03028 C 116.35558,43.19879 83.791909,4.3937296 83.791909,4.3937296 l 92.317411,-0.39373 c 46.44481,1.94783 103.89829,53.4403404 123.04692,93.6778604 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
+         id="path6-7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/OR-1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 4.05697,47.29151 99.60472,0 m -98.778597,97.87669 100.981147,0 M 298.57,98.890134 l 81.07,0"
+         id="path8"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/OR-1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         style="font-style:normal;font-weight:normal;font-size:66.31724548px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
+         font-weight="normal"
+         xml:space="preserve"
+         font-size="17.5px"
+         font-style="normal"
+         y="121.27979"
+         x="131.5721"
+         line-height="125%"
+         id="text10"
+         sodipodi:linespacing="125%"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/OR-1.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           font-weight="bold"
+           font-style="normal"
+           font-stretch="normal"
+           font-variant="normal"
+           y="121.27979"
+           x="131.5721"
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif">OR</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,508.06921,490.69815)"
+       id="g4174-5">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-3"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-5"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       transform="matrix(0.4211786,0,0,0.42556243,508.06921,607.87585)"
+       id="g4174-5-6">
+      <path
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z"
+         id="path4-3-2"
+         style="fill:#008000;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851"
+         id="path6-56-5-9"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 83.634508,702.86174 567.705732,0"
+       id="path4651"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 84.644661,351.32865 567.705729,0"
+       id="path4651-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 84.644661,252.3337 567.705729,0"
+       id="path4651-6-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="layer4-7"
+       inkscape:label="table"
+       transform="translate(-1080.8362,-1093.888)" />
+    <g
+       id="g8415"
+       transform="translate(374.28572,437.14286)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         d="m 1093.8118,-431.27322 161.8608,93.0268 -161.8608,93.03173 0,-186.05853 z"
+         id="path4-9"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <ellipse
+         cx="1277.9177"
+         cy="-338.53711"
+         id="circle6-1"
+         style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         rx="21.392729"
+         ry="21.893293"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:49.67506409px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1110.4943"
+         y="-321.50266"
+         id="text4142-70"
+         sodipodi:linespacing="125%"
+         transform="scale(0.99532129,1.0047007)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan4144-9"
+           x="1110.4943"
+           y="-321.50266"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Not</tspan></text>
+      <path
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1015.2967,-338.82456 77.8572,0"
+         id="path6480"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1299.3356,-338.82456 46.9223,0"
+         id="path6482"
+         inkscape:connector-curvature="0"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="layer5-5"
+       inkscape:label="Layer 2"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4170"
+         transform="matrix(1.066651,0,0,1.066651,-53.853868,83.03176)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-01.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:#008000;fill-rule:evenodd"
+           id="path4-5"
+           d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+           id="path6-6"
+           d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+      </g>
+    </g>
+    <g
+       id="layer6"
+       inkscape:label="Layer 3"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4170-1"
+         transform="matrix(1.066651,0,0,1.066651,113.83145,83.03176)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-02.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:#008000;fill-rule:evenodd"
+           id="path4-5-0"
+           d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+           id="path6-6-6"
+           d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+      </g>
+    </g>
+    <g
+       id="layer7"
+       inkscape:label="Layer 4"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4159"
+         transform="matrix(1.0666567,0,0,1.0666567,493.384,82.873432)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-03.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+           id="path6-4"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           transform="scale(0.91185408,1.0966667)"
+           sodipodi:linespacing="125%"
+           id="text4142-7"
+           y="100.34553"
+           x="-5.3533745"
+           style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+             y="100.34553"
+             x="-5.3533745"
+             id="tspan4144-5"
+             sodipodi:role="line">o</tspan></text>
+      </g>
+    </g>
+    <g
+       id="layer8"
+       inkscape:label="Layer 5"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4159-3"
+         transform="matrix(1.0666567,0,0,1.0666567,650.9678,82.873432)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-04.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+           id="path6-2"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           transform="scale(0.91185408,1.0966667)"
+           sodipodi:linespacing="125%"
+           id="text4142-7-0"
+           y="100.34553"
+           x="-5.3533745"
+           style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+             y="100.34553"
+             x="-5.3533745"
+             id="tspan4144-5-6"
+             sodipodi:role="line">o</tspan></text>
+      </g>
+    </g>
+    <g
+       id="layer9"
+       inkscape:label="Layer 6"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4159-3-1"
+         transform="matrix(1.0666567,0,0,1.0666567,-57.14913,82.873432)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-05.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+           id="path6-2-5"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           transform="scale(0.91185408,1.0966667)"
+           sodipodi:linespacing="125%"
+           id="text4142-7-0-5"
+           y="100.34553"
+           x="-5.3533745"
+           style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+             y="100.34553"
+             x="-5.3533745"
+             id="tspan4144-5-6-4"
+             sodipodi:role="line">o</tspan></text>
+      </g>
+    </g>
+    <g
+       id="layer10"
+       inkscape:label="Layer 7"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4159-3-1-7"
+         transform="matrix(1.0666567,0,0,1.0666567,107.50573,82.873432)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+           id="path6-2-5-6"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+           transform="scale(0.91185408,1.0966667)"
+           sodipodi:linespacing="125%"
+           id="text4142-7-0-5-5"
+           y="100.34553"
+           x="-5.3533745"
+           style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+             y="100.34553"
+             x="-5.3533745"
+             id="tspan4144-5-6-4-6"
+             sodipodi:role="line">o</tspan></text>
+      </g>
+    </g>
+    <g
+       id="layer11"
+       inkscape:label="Layer 8"
+       style="display:none"
+       transform="translate(312.86546,-1141.404)">
+      <g
+         style="display:inline"
+         id="g4170-9"
+         transform="matrix(1.066651,0,0,1.066651,495.66911,83.03176)"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-07/src/anim/puerta-not-07.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90">
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:#008000;fill-rule:evenodd"
+           id="path4-5-3"
+           d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+           id="path6-6-7"
+           d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4633-8"
+       width="569.16321"
+       height="892.85718"
+       x="715.12256"
+       y="-83.352081"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       y="708.31024"
+       x="715.23712"
+       height="101.01525"
+       width="568.5426"
+       id="rect4653-6"
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1033.2611,253.68951 0,553.40265"
+       id="path4655-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="750.22266"
+       y="315.82074"
+       id="text4611-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613-7"
+         x="750.22266"
+         y="315.82074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entradas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1101.6512"
+       y="315.82074"
+       id="text4611-2-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613-0-1"
+         x="1101.6512"
+         y="315.82074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Salida</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 716.07323,351.3286 567.70567,0"
+       id="path4651-6-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 716.07323,252.33365 567.70567,0"
+       id="path4651-6-3-6-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path6"
+       d="m 1035.8053,193.20228 -96.35247,0 0,-186.0452631 96.35247,0 c 0,0 87.4632,8.6245301 87.4632,91.9402301 0,83.310753 -87.4632,94.105033 -87.4632,94.105033 z"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:connector-curvature="0"
+       id="path8-3"
+       d="m 865.20623,48.824797 74.0178,0 m -74.0178,99.144703 74.0178,0 m 184.63277,-50.034093 69.3255,0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:58.05377579px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="954.04321"
+       y="117.74443"
+       id="text4142-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4144-6"
+         x="954.04321"
+         y="117.74443"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">AND</tspan></text>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:connector-curvature="0"
+       id="path4651-3"
+       d="m 717.08407,464.19997 567.70563,0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:connector-curvature="0"
+       id="path4651-6-6"
+       d="m 717.08407,582.38782 567.70563,0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g4174-2"
+       transform="matrix(0.4211786,0,0,0.42556243,1141.5187,715.6964)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-61"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-8"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       id="g4163-9-1-8-7"
+       transform="matrix(0.41530991,0,0,0.41800131,765.31407,375.69529)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-9"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-20"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-2"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-36-3"
+       transform="matrix(0.41530991,0,0,0.41800131,903.88553,375.69529)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-06-75"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-2-92"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-61-28"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-36-8-97"
+       transform="matrix(0.41530991,0,0,0.41800131,1140.1617,375.69529)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-06-7-3"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-2-9-6"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-61-2-1"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-0-2"
+       transform="matrix(0.41530991,0,0,0.41800131,765.31407,492.83815)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-2-9"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-3-3"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-7-1"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-36-8-9"
+       transform="matrix(0.41530991,0,0,0.41800131,1140.1617,492.83815)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-06-7-7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-2-9-3"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-61-2-6"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-36-5-1-9"
+       transform="matrix(0.41530991,0,0,0.41800131,903.88553,604.26672)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-06-9-9-4"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-2-2-4-7"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-61-28-7-8"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4163-9-1-8-36-8-9-8"
+       transform="matrix(0.41530991,0,0,0.41800131,1140.1617,604.26672)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-06-7-7-4"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-2-9-3-5"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-61-2-6-0"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4174-3-4"
+       transform="matrix(0.4211786,0,0,0.42556243,903.81383,715.6964)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-5"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-0"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       id="g4174-3-0-36"
+       transform="matrix(0.4211786,0,0,0.42556243,765.24247,715.6964)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-6-1"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-3-0"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       id="g4174-3-0-3-6"
+       transform="matrix(0.4211786,0,0,0.42556243,765.24247,601.54916)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-6-6-1"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-3-7-5"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       id="g4174-3-5-5"
+       transform="matrix(0.4211786,0,0,0.42556243,903.81383,489.42223)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-3-4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-5-7"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1337.9578,252.33365 419.7345,0"
+       id="path4651-6-3-6-8-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1357.3655"
+       y="315.82074"
+       id="text4611-7-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613-7-9"
+         x="1357.3655"
+         y="315.82074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entrada</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30.50945091px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1584.5084"
+       y="315.82074"
+       id="text4611-2-1-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4613-0-1-3"
+         x="1584.5084"
+         y="315.82074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.13681412px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Salida</tspan></text>
+    <path
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1551.8325,252.86938 0,326.47148"
+       id="path4655-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1338.6697,351.3286 419.7345,0"
+       id="path4651-6-3-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1338.6697,462.75717 419.7345,0"
+       id="path4651-6-3-0-5-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4163-9-1-8-7-1"
+       transform="matrix(0.41530991,0,0,0.41800131,1418.1712,375.69529)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-9-1"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-20-5"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-2-9"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4174-3-5-5-8"
+       transform="matrix(0.4211786,0,0,0.42556243,1635.2423,376.56509)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-3-4-4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-5-7-8"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       id="g4163-9-1-8-7-1-0"
+       transform="matrix(0.41530991,0,0,0.41800131,1629.5998,485.69529)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-5-2-9-4-9-1-3"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.12011433;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         sodipodi:linespacing="125%"
+         id="text4142-2-4-5-20-5-0"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;font-size:179.18403625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-8-7-0-2-9-4"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       id="g4174-3-5-5-8-4"
+       transform="matrix(0.4211786,0,0,0.42556243,1415.2423,483.70795)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-17/tablas-verdad-and-not-or.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-6-3-4-4-4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:5.53273535;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-56-1-5-7-8-4"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+</svg>
