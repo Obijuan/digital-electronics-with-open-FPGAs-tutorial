@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="399.12247mm"
-   height="141.40341mm"
-   viewBox="0 0 1414.2135 501.03571"
+   width="209.22725mm"
+   height="257.11453mm"
+   viewBox="0 0 741.35641 911.03574"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="composicion-parametrizacion.svg">
+   sodipodi:docname="composicion-parametrizacion.svg"
+   inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -2517,8 +2520,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="766.95242"
-     inkscape:cy="204.51709"
+     inkscape:cx="352.6667"
+     inkscape:cy="411.65994"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -2549,15 +2552,15 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(58.588852,-17.965996)">
+     transform="translate(55.731709,-15.108859)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7015"
-       width="1414.2135"
-       height="501.03571"
-       x="-58.588852"
-       y="17.965996"
-       ry="5.430366"
+       width="741.35638"
+       height="911.03571"
+       x="-55.731709"
+       y="15.108859"
+       ry="9.8740616"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -2566,21 +2569,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(58.588852,-17.965996)">
+     transform="translate(55.731709,-15.108859)">
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        ry="12.88143"
-       y="118.75082"
-       x="706.13495"
+       y="525.89368"
+       x="16.134949"
        height="315.70789"
        width="595.05969"
        id="rect4535-2-0-8-9"
        style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:1.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1129.6994,335.60569 168.5123,0"
+       d="m 439.6994,742.74856 168.5123,0"
        id="path6307-7-4-6-4-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -2588,7 +2591,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 711.46381,335.60568 149.38467,0"
+       d="m 21.463809,742.74855 149.384671,0"
        id="path6307-7-4-6-4"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -2596,7 +2599,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 711.46381,292.03427 149.38467,0"
+       d="m 21.463809,699.17714 149.384671,0"
        id="path6307-7-4-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3076,8 +3079,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="878.54871"
-       y="85.562675"
+       x="209.97728"
+       y="498.41986"
        id="text4136-5"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3085,23 +3088,23 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan4138-2"
-         x="878.54871"
-         y="85.562675"
+         x="209.97728"
+         y="498.41986"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Parametrización</tspan></text>
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        ry="9.5031433"
-       y="257.17249"
-       x="863.06311"
+       y="664.31537"
+       x="173.06311"
        height="119.10608"
        width="264.91858"
        id="rect4535-2-7-5"
        style="opacity:1;fill:#c0dfeb;fill-opacity:1;stroke:#999999;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1129.7029,292.03427 168.7581,0"
+       d="m 439.7029,699.17714 168.7581,0"
        id="path6307-7-4-6-5"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3110,8 +3113,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="951.50928"
-       y="321.01175"
+       x="261.50928"
+       y="728.1546"
        id="text6803"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3119,8 +3122,8 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6805"
-         x="951.50928"
-         y="321.01175">Bloque</tspan></text>
+         x="261.50928"
+         y="728.1546">Bloque</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.083992px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3236,8 +3239,8 @@
     <circle
        style="opacity:1;fill:#e2fbc9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6028-9-0-8-9-2-2"
-       cx="863.18903"
-       cy="292.05762"
+       cx="173.18903"
+       cy="699.2005"
        r="6.0714283"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3245,8 +3248,8 @@
     <circle
        style="opacity:1;fill:#e2fbc9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6028-9-0-8-9-2-2-0"
-       cx="863.18903"
-       cy="336.34332"
+       cx="173.18903"
+       cy="743.48621"
        r="6.0714283"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3254,8 +3257,8 @@
     <circle
        style="opacity:1;fill:#e2fbc9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6028-9-0-8-9-2-2-6"
-       cx="1128.8593"
-       cy="292.05762"
+       cx="438.85925"
+       cy="699.2005"
        r="6.0714283"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3263,15 +3266,15 @@
     <circle
        style="opacity:1;fill:#e2fbc9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path6028-9-0-8-9-2-2-0-8"
-       cx="1128.8593"
-       cy="336.34332"
+       cx="438.85925"
+       cy="743.48621"
        r="6.0714283"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#fbf0c9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 933.88603,256.36204 0,-38.89087"
+       d="m 243.88603,663.50491 0,-38.89087"
        id="path7045"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3282,15 +3285,15 @@
        id="rect7017"
        width="13.626536"
        height="11.978249"
-       x="927.52917"
-       y="250.96468"
+       x="237.52917"
+       y="658.10754"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#fbf0c9;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1035.4064,256.36204 0,-38.89087"
+       d="m 345.4064,663.50491 0,-38.89087"
        id="path7045-6"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3301,8 +3304,8 @@
        id="rect7017-2"
        width="13.626536"
        height="11.978249"
-       x="1029.5546"
-       y="250.96468"
+       x="339.55457"
+       y="658.10754"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3312,8 +3315,8 @@
        id="rect6622-3-0"
        width="56.2491"
        height="25.439447"
-       x="906.00958"
-       y="192.22968"
+       x="216.00958"
+       y="599.37256"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3323,8 +3326,8 @@
        id="rect6622-3-0-4"
        width="56.2491"
        height="25.439447"
-       x="1007.0248"
-       y="192.22968"
+       x="317.02478"
+       y="599.37256"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3334,8 +3337,8 @@
        id="rect6622-3-8"
        width="13.822693"
        height="13.317616"
-       x="698.46887"
-       y="286.22949"
+       x="8.4688721"
+       y="693.37238"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3345,8 +3348,8 @@
        id="rect6622-3-8-7"
        width="13.822693"
        height="13.317616"
-       x="698.46887"
-       y="329.16098"
+       x="8.4688721"
+       y="736.30383"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3356,8 +3359,8 @@
        id="rect6622-3-8-1"
        width="13.822693"
        height="13.317616"
-       x="1294.4589"
-       y="286.22949"
+       x="604.45886"
+       y="693.37238"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3367,8 +3370,8 @@
        id="rect6622-3-8-7-7"
        width="13.822693"
        height="13.317616"
-       x="1294.4589"
-       y="329.16098"
+       x="604.45886"
+       y="736.30383"
        ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
        inkscape:export-xdpi="90"
@@ -3376,8 +3379,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.29834175px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="751.61835"
-       y="268.64514"
+       x="61.618343"
+       y="675.78802"
        id="text6803-4-4-3-7-6-8-3-4-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3385,13 +3388,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6805-7-4-0-8-8-4-1-9-7"
-         x="751.61835"
-         y="268.64514">Entradas</tspan></text>
+         x="61.618343"
+         y="675.78802">Entradas</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.29834175px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1178.7612"
-       y="267.21658"
+       x="488.76123"
+       y="674.35944"
        id="text6803-4-4-3-7-6-8-3-4-2-2"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3399,13 +3402,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6805-7-4-0-8-8-4-1-9-7-2"
-         x="1178.7612"
-         y="267.21658">Salidas</tspan></text>
+         x="488.76123"
+         y="674.35944">Salidas</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:16.29834175px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="940.36523"
-       y="173.2724"
+       x="250.36525"
+       y="580.41528"
        id="text6803-4-4-3-7-6-8-3-4-2-2-6"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3413,13 +3416,13 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6805-7-4-0-8-8-4-1-9-7-2-1"
-         x="940.36523"
-         y="173.2724">Parámetros</tspan></text>
+         x="250.36525"
+         y="580.41528">Parámetros</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.083992px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1261.0494"
-       y="137.14954"
+       x="571.04944"
+       y="544.29242"
        id="text6803-4-4-3-7-6-8-3-4-0"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/intro-1.png"
@@ -3427,7 +3430,7 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6805-7-4-0-8-8-4-1-9-6"
-         x="1261.0494"
-         y="137.14954">TOP</tspan></text>
+         x="571.04944"
+         y="544.29242">TOP</tspan></text>
   </g>
 </svg>
