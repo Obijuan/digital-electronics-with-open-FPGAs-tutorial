@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="175.53418mm"
+   width="187.22624mm"
    height="121.10561mm"
-   viewBox="0 0 621.9715 429.11435"
+   viewBox="0 0 663.40007 429.11432"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -3386,11 +3386,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="287.54876"
-     inkscape:cy="203.18168"
+     inkscape:zoom="1.4"
+     inkscape:cx="276.00279"
+     inkscape:cy="181.99103"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -3411,7 +3411,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3419,13 +3419,13 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="back"
-     transform="translate(-64.014267,-39.233612)">
+     transform="translate(-22.585695,-39.233627)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.45709634;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16495"
-       width="621.9715"
+       width="663.40009"
        height="429.11435"
-       x="64.014267"
+       x="22.585695"
        y="39.233612"
        ry="5.2928567"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
@@ -3459,7 +3459,7 @@
      id="layer5"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-64.014267,-39.233612)">
+     transform="translate(-22.585695,-39.233627)">
     <rect
        ry="11.944433"
        y="218.7934"
@@ -3481,7 +3481,7 @@
        inkscape:export-ydpi="90" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#868686;stroke-width:3.15288424;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 208.50627,335.88039 21.01571,0"
+       d="m 208.50627,302.04028 21.01571,0"
        id="path5842-6-9"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
@@ -3562,8 +3562,8 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="96.428574"
-       y="427.36221"
+       x="60.714287"
+       y="408.07651"
        id="text10023"
        sodipodi:linespacing="125%"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
@@ -3571,12 +3571,12 @@
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10025"
-         x="96.428574"
-         y="427.36221"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entrada</tspan></text>
+         x="60.714287"
+         y="408.07651"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Entradas</tspan></text>
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-2)"
-       d="m 136.42857,405.21934 59.28572,-61.42857"
+       d="M 97.142856,378.79077 156.42858,317.3622"
        id="path10027"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
@@ -3773,5 +3773,41 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.55930328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#868686;fill-opacity:1;stroke:#868686;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.67871"
+       y="291.92917"
+       id="text5968"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5970"
+         x="176.67871"
+         y="291.92917">dir</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#868686;stroke-width:3.15288424;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 208.50627,347.69148 21.01571,0"
+       id="path5842-6-9-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.55930328px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#868686;fill-opacity:1;stroke:#868686;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.67871"
+       y="340.82004"
+       id="text5968-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-18/motorbit-param-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5970-7"
+         x="176.67871"
+         y="340.82004">on</tspan></text>
   </g>
 </svg>
