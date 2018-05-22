@@ -10871,9 +10871,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="677.47092"
-     inkscape:cy="326.40094"
+     inkscape:zoom="0.35"
+     inkscape:cx="193.95241"
+     inkscape:cy="410.55353"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10896,7 +10896,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10912,12 +10912,15 @@
        height="698.57141"
        x="-736.37146"
        y="-4.420368e-06"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g10107"
-       transform="translate(21.951045,123.74662)">
+       transform="translate(21.951045,123.74662)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 174.65599,190.04526 -96.352421,0 0,-186.04526 96.352421,0 c 0,0 87.46328,8.62453 87.46328,91.94023 0,83.31075 -87.46328,94.10503 -87.46328,94.10503 z"
          id="path6-29"
@@ -10961,7 +10964,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        ry="0"
        y="115.7694"
        x="396.87943"
@@ -10972,7 +10975,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6"
        y="192.48242"
@@ -10986,7 +10989,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9"
        y="234.68378"
@@ -11000,7 +11003,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4370"
        d="m 398.43184,158.74892 271.12191,0"
@@ -11008,7 +11011,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4372"
        d="m 586.13189,117.33374 0,211.80658"
@@ -11016,7 +11019,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4479"
        y="83.866936"
@@ -11031,7 +11034,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4"
        y="142.18146"
@@ -11049,7 +11052,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4-3"
        y="142.86961"
@@ -11317,7 +11320,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-6"
        y="191.22852"
@@ -11334,7 +11337,10 @@
        id="layer4-3" />
     <g
        id="g15781"
-       transform="matrix(0.61662721,0,0,0.61662721,-695.39303,190.69798)">
+       transform="matrix(0.61662721,0,0,0.61662721,-695.39303,190.69798)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          d="m 166.68704,612.36213 -91.032743,0 c 0,0 30.344493,-42.53778 31.085353,-94.03028 0.74276,-51.48873 -31.820907,-90.29379 -31.820907,-90.29379 l 92.317407,-0.39373 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
          id="path6-7"
@@ -11624,7 +11630,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4372-96"
        d="m 476.30088,117.33256 0,210.85481"
@@ -11632,7 +11638,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4-0"
        y="142.18146"
@@ -11651,7 +11657,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-90"
        y="192.48242"
@@ -11665,7 +11671,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-9"
        y="234.68378"
@@ -11679,7 +11685,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-1"
        y="274.80984"
@@ -11693,7 +11699,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-8"
        y="317.0112"
@@ -11707,7 +11713,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-90-6"
        y="274.80984"
@@ -11721,7 +11727,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-9-7"
        y="317.0112"
@@ -11735,7 +11741,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-9-7-2"
        y="315.87054"
@@ -11749,7 +11755,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15"
        y="192.48242"
@@ -11763,7 +11769,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9"
        y="233.89868"
@@ -11777,7 +11783,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9-4"
        y="275.82001"
@@ -11791,7 +11797,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9-4-1"
        y="318.24643"
@@ -11805,7 +11811,7 @@
     <rect
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        ry="0"
        y="418.81516"
        x="396.87943"
@@ -11816,7 +11822,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-4"
        y="495.5282"
@@ -11830,7 +11836,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-1"
        y="537.72955"
@@ -11844,7 +11850,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4370-3"
        d="m 398.43184,461.79468 271.12191,0"
@@ -11852,7 +11858,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4372-2"
        d="m 586.13189,420.3795 0,211.80658"
@@ -11860,7 +11866,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4-5"
        y="445.22723"
@@ -11878,7 +11884,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4-3-2"
        y="445.91537"
@@ -11896,7 +11902,7 @@
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:connector-curvature="0"
        id="path4372-96-5"
        d="m 476.30088,420.37832 0,210.85481"
@@ -11904,7 +11910,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4264-4-0-7"
        y="445.22723"
@@ -11923,7 +11929,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-90-9"
        y="495.5282"
@@ -11937,7 +11943,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-9-73"
        y="537.72955"
@@ -11951,7 +11957,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-1-4"
        y="577.85559"
@@ -11965,7 +11971,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-8-9"
        y="620.05695"
@@ -11979,7 +11985,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-90-6-2"
        y="577.85559"
@@ -11993,7 +11999,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-9-7-1"
        y="620.05695"
@@ -12007,7 +12013,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-9-7-2-2"
        y="537.91125"
@@ -12021,7 +12027,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-5"
        y="495.5282"
@@ -12035,7 +12041,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9-5"
        y="536.94446"
@@ -12049,7 +12055,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9-4-3"
        y="578.86578"
@@ -12063,7 +12069,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-15-9-4-1-6"
        y="621.29218"
@@ -12077,7 +12083,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-6-1-1"
        y="495.38232"
@@ -12091,7 +12097,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4479-6"
        y="93.479431"
@@ -12106,7 +12112,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4479-6-6"
        y="93.479431"
@@ -12123,18 +12129,27 @@
        d="m -203.16254,224.40479 98.42119,0"
        id="path10193"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        d="m 164.09882,604.14659 -91.032749,0 c 0,0 30.344499,-42.53778 31.085359,-94.03028 0.74276,-51.48873 -31.820913,-90.29379 -31.820913,-90.29379 l 92.317413,-0.39373 c 46.44481,1.94783 103.89829,53.44034 123.04692,93.67786 -32.60157,67.50338 -92.15825,89.78976 -123.59641,91.04032 z"
        id="path6-67"
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        d="m -7.404422,462.7203 99.60472,0 m -98.778597,97.87669 100.981147,0 m 240.899992,-46.27807 37.74261,0"
        id="path8-5"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        style="font-style:normal;font-weight:normal;font-size:55.32093048px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff"
        font-weight="normal"
@@ -12145,7 +12160,10 @@
        x="117.72617"
        line-height="125%"
        id="text10-3"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          font-weight="bold"
          font-style="normal"
          font-stretch="normal"
@@ -12161,12 +12179,15 @@
        style="fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="21.392729"
        ry="21.893293"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <g
        id="g10144"
-       transform="matrix(0.70619492,0,0,0.70619492,-206.8499,-54.513243)">
+       transform="matrix(0.70619492,0,0,0.70619492,-206.8499,-54.513243)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(-705.90874,300.05009)"
          id="g10122">
@@ -12247,7 +12268,7 @@
        id="path4-7"
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:5.6495595;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <ellipse
@@ -12257,7 +12278,7 @@
        style="fill:none;stroke:#000000;stroke-width:5.6495595;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
        rx="15.107436"
        ry="15.460933"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -12266,7 +12287,7 @@
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:5.6495595;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
        sodipodi:nodetypes="cccc"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
@@ -12277,7 +12298,7 @@
        id="text4142-2"
        sodipodi:linespacing="125%"
        transform="scale(0.99532129,1.0047007)"
-       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Logic_gates/png/not.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
@@ -12290,11 +12311,14 @@
        d="m -203.16254,515.32872 98.42119,0"
        id="path10193-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-6-3"
        y="233.65492"
@@ -12308,7 +12332,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-6-9-6-3-2"
        y="274.06104"
@@ -12322,7 +12346,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-9-7-2-2-3"
        y="576.29706"
@@ -12336,7 +12360,7 @@
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-1.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-2x1-5.png"
        sodipodi:linespacing="125%"
        id="text4136-7-6-9-7-2-2-3-9"
        y="619.73364"
