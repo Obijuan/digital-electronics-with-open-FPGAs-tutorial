@@ -10856,11 +10856,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="378.64307"
-     inkscape:cy="283.51378"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="489.97519"
+     inkscape:cy="350.42077"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
@@ -10881,7 +10881,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12012,49 +12012,7 @@
          y="356.76813"
          x="491.14285"
          id="tspan4138-5-0-7-1"
-         sodipodi:role="line">0</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
-       sodipodi:linespacing="125%"
-       id="text4136-7-6-6-9-0-9"
-       y="398.96948"
-       x="491.14285"
-       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="398.96948"
-         x="491.14285"
-         id="tspan4138-5-0-1-2-93-4"
-         sodipodi:role="line">0</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
-       sodipodi:linespacing="125%"
-       id="text4136-7-6-6-9-0-6-7"
-       y="438.25519"
-       x="491.14285"
-       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="438.25519"
-         x="491.14285"
-         id="tspan4138-5-0-1-2-93-1-8"
-         sodipodi:role="line">0</tspan></text>
-    <text
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
-       sodipodi:linespacing="125%"
-       id="text4136-7-6-6-9-0-6-8-4"
-       y="481.11234"
-       x="491.14285"
-       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="481.11234"
-         x="491.14285"
-         id="tspan4138-5-0-1-2-93-1-7-5"
-         sodipodi:role="line">0</tspan></text>
+         sodipodi:role="line">1</tspan></text>
     <text
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -12153,5 +12111,47 @@
          x="660.97394"
          id="tspan4138-5-0-3-1-2-3-1-6-2-6-5-4"
          sodipodi:role="line">X</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
+       sodipodi:linespacing="125%"
+       id="text4136-7-6-6-9-9-2-3"
+       y="398.96948"
+       x="491.85718"
+       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="398.96948"
+         x="491.85718"
+         id="tspan4138-5-0-1-2-3-2-6"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
+       sodipodi:linespacing="125%"
+       id="text4136-7-6-1-8-7"
+       y="439.09555"
+       x="494"
+       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="439.09555"
+         x="494"
+         id="tspan4138-5-0-4-9-5"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-19/comb-3x1-1.png"
+       sodipodi:linespacing="125%"
+       id="text4136-7-6-6-9-8-7-3"
+       y="481.29691"
+       x="495.42859"
+       style="font-style:normal;font-weight:normal;font-size:32.21219635px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="481.29691"
+         x="495.42859"
+         id="tspan4138-5-0-1-2-9-3-5"
+         sodipodi:role="line">1</tspan></text>
   </g>
 </svg>
