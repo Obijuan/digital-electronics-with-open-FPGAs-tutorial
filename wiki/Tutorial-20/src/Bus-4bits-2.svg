@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="596.4408"
-     inkscape:cy="523.67099"
+     inkscape:zoom="2.8"
+     inkscape:cx="404.9231"
+     inkscape:cy="695.86925"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -549,7 +549,7 @@
        x="-311.12698"
        y="-169.32346"
        ry="0.00043680318"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -567,7 +567,7 @@
        id="image4700"
        x="-287.21509"
        y="-7.5735474"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -632,7 +632,7 @@
          y="-252.80389" />
     </g>
     <image
-       y="276.46698"
+       y="194.68127"
        x="-48.563927"
        id="image4421"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QwPESMgFHwBPgAAABl0RVh0Q29tbWVudABDcmVhdGVk IHdpdGggR0lNUFeBDhcAAAT1SURBVDjLZZFZjp1XFYW/fc75+9vVrcZNOa5y3CQKCiDxhJDnwJAy DWbAEJgBBEiejG2CCbbsKperu+3fno4HU1aAJS3ttV/2kr4tv/vD72OagV9NyaocbTwhWGxfo4n4 vmc6GpPNJ4QQ6K2jtwPOBXrrGYaBvrcMrqfISqKLjMsddDQ8f/6S09N3mNfrE371659TaEc+skS9 JcoWP7TkukJ6zc5oxEQnoASLpXWR2tUMccCLJUiE7jMUQlsPiE25/NCj5pF3P7zFvL18TXjRMt8d oVOPJA15KWQ6485sRlXuItkdCmvw3hN8hzgFztK5llW3pB4aMnryNAGvGGrD+VVNbweu1xvM9sMp zY4nNmvSLGO+f0CVHDA1Bxxwn5nZY8IOu8kEh2XQHdOko5Mt62HBRThjMVxzfdXy9uxHPpy+5+J0 y+WZMAwlfh0x3fkFfs9w+7Bhlh/y+OAht/a+oJQDpmqPURzBkGIjJCYhUyUOTxoqUqkYjeccFi2v w0v6yxN8rij3JoyD8M9/LXGbK0zscrTpODw85OtHX3G7fMRO+oBIgqgK5wyit4hPCRFiEJQIpaoo VQUAGdw73ufJ9BjywOX1gr/88QWz/JK98RTjneBspO4b0JokLQiSE6PGDxGiICgSYwCIMRJjJITw aQfQumA2v03QHetVx91bd1BuwmS8j3n8+AlFdsHJ4j1nyyv2K00mCUKCc1Dkgoj5dPzGACKCUgoR AanAd7z8+3OePXtG7DPydIfHx/uor778GXdv3WXbrXj3/oQQFR4DCEqByEci3ntCCP9XcFOyHhyL bceLV294fXqGQzh6cMzTp08xR/cPSWeR7998T13XJElCQkJwPdpoIuBcj9YF/6sbZAAmzek2npPz M7xAMR4xnc8IeNR2eYHtl4zLMZlJkahQRBCHNgGIH3H8Rz/NP/2RAZztGYYOUZHBNvjo6FyHfvL1 wTfr5hU7s5LPdh9yNP8l4kYo7QGFkgylzCdMN/NGN7ii6zHGYe2G4AbqdUOKITMJJgYLsWda3ubh 0RNyU0EraKNoh4FUg4hCaf6r6KdZREgF5lXBF58fI1iW5w0GuL44R999sPONUVOOj44YVftIoiny MTbm5MkI7xq06fEuoJVCwkdrZcAroo8Yk7DVl7hoCSESLSyXKxbrNSfn55h/vLtgMdRk1R6X5xOO 7495cH+XNPGkuqFplyhjSUYOhcEHz3bTUZYTgvUED8PaUXPNarWhrTsW1xu+++FH/vbsFU3jkF/8 9jcxyQJ+LownJeUooygydCqkWWS6kzI/GFOIRymF9573J+eokNDUHhVzhj6gW2G9bOlbsC10jdD2 gb4LmPnhPY4f3EHGCh8ahrBi217icNhoyUxJS0dxa0Jve9q2p9+pEZ8Sc4O3gdBHpvkMk1QkesLQ CourhjdvTmhtg3n05ec8enzEvaO7eFqCbmiHBaN5gUoCaSko7cltSV6keO/pWku7cYzyA7QvCFax 7rfomJCoir4LSDS8fXvCn//6Lab3A2KE8+WSJAWTQNNprI14PGWVolNh054ymUxwPmKtY71o2Z8b fCtsVy1axjRNx2a1JVqoypKrqytqW2OWmzV/+vY7smFENcqoigIRRSIZIsJ4pJhMK+b5I+q2Z7nd oHWBjlPCeEa9XHH5oWaTnrK/u4cZBgiRUhfoZMw1Jf8GIUK5HEZ4zkMAAAAASUVORK5CYII= "
@@ -640,11 +640,11 @@
        preserveAspectRatio="none"
        height="20.224718"
        width="25.280899"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
-       y="254.71805"
+       y="173.8252"
        x="-48.385361"
        id="image4421-3"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QwPESMgFHwBPgAAABl0RVh0Q29tbWVudABDcmVhdGVk IHdpdGggR0lNUFeBDhcAAAT1SURBVDjLZZFZjp1XFYW/fc75+9vVrcZNOa5y3CQKCiDxhJDnwJAy DWbAEJgBBEiejG2CCbbsKperu+3fno4HU1aAJS3ttV/2kr4tv/vD72OagV9NyaocbTwhWGxfo4n4 vmc6GpPNJ4QQ6K2jtwPOBXrrGYaBvrcMrqfISqKLjMsddDQ8f/6S09N3mNfrE371659TaEc+skS9 JcoWP7TkukJ6zc5oxEQnoASLpXWR2tUMccCLJUiE7jMUQlsPiE25/NCj5pF3P7zFvL18TXjRMt8d oVOPJA15KWQ6485sRlXuItkdCmvw3hN8hzgFztK5llW3pB4aMnryNAGvGGrD+VVNbweu1xvM9sMp zY4nNmvSLGO+f0CVHDA1Bxxwn5nZY8IOu8kEh2XQHdOko5Mt62HBRThjMVxzfdXy9uxHPpy+5+J0 y+WZMAwlfh0x3fkFfs9w+7Bhlh/y+OAht/a+oJQDpmqPURzBkGIjJCYhUyUOTxoqUqkYjeccFi2v w0v6yxN8rij3JoyD8M9/LXGbK0zscrTpODw85OtHX3G7fMRO+oBIgqgK5wyit4hPCRFiEJQIpaoo VQUAGdw73ufJ9BjywOX1gr/88QWz/JK98RTjneBspO4b0JokLQiSE6PGDxGiICgSYwCIMRJjJITw aQfQumA2v03QHetVx91bd1BuwmS8j3n8+AlFdsHJ4j1nyyv2K00mCUKCc1Dkgoj5dPzGACKCUgoR AanAd7z8+3OePXtG7DPydIfHx/uor778GXdv3WXbrXj3/oQQFR4DCEqByEci3ntCCP9XcFOyHhyL bceLV294fXqGQzh6cMzTp08xR/cPSWeR7998T13XJElCQkJwPdpoIuBcj9YF/6sbZAAmzek2npPz M7xAMR4xnc8IeNR2eYHtl4zLMZlJkahQRBCHNgGIH3H8Rz/NP/2RAZztGYYOUZHBNvjo6FyHfvL1 wTfr5hU7s5LPdh9yNP8l4kYo7QGFkgylzCdMN/NGN7ii6zHGYe2G4AbqdUOKITMJJgYLsWda3ubh 0RNyU0EraKNoh4FUg4hCaf6r6KdZREgF5lXBF58fI1iW5w0GuL44R999sPONUVOOj44YVftIoiny MTbm5MkI7xq06fEuoJVCwkdrZcAroo8Yk7DVl7hoCSESLSyXKxbrNSfn55h/vLtgMdRk1R6X5xOO 7495cH+XNPGkuqFplyhjSUYOhcEHz3bTUZYTgvUED8PaUXPNarWhrTsW1xu+++FH/vbsFU3jkF/8 9jcxyQJ+LownJeUooygydCqkWWS6kzI/GFOIRymF9573J+eokNDUHhVzhj6gW2G9bOlbsC10jdD2 gb4LmPnhPY4f3EHGCh8ahrBi217icNhoyUxJS0dxa0Jve9q2p9+pEZ8Sc4O3gdBHpvkMk1QkesLQ CourhjdvTmhtg3n05ec8enzEvaO7eFqCbmiHBaN5gUoCaSko7cltSV6keO/pWku7cYzyA7QvCFax 7rfomJCoir4LSDS8fXvCn//6Lab3A2KE8+WSJAWTQNNprI14PGWVolNh054ymUxwPmKtY71o2Z8b fCtsVy1axjRNx2a1JVqoypKrqytqW2OWmzV/+vY7smFENcqoigIRRSIZIsJ4pJhMK+b5I+q2Z7nd oHWBjlPCeEa9XHH5oWaTnrK/u4cZBgiRUhfoZMw1Jf8GIUK5HEZ4zkMAAAAASUVORK5CYII= "
@@ -652,11 +652,11 @@
        preserveAspectRatio="none"
        height="20.224718"
        width="25.280899"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
-       y="233.28949"
+       y="154.71806"
        x="-48.563931"
        id="image4421-3-3"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QwPESMgFHwBPgAAABl0RVh0Q29tbWVudABDcmVhdGVk IHdpdGggR0lNUFeBDhcAAAT1SURBVDjLZZFZjp1XFYW/fc75+9vVrcZNOa5y3CQKCiDxhJDnwJAy DWbAEJgBBEiejG2CCbbsKperu+3fno4HU1aAJS3ttV/2kr4tv/vD72OagV9NyaocbTwhWGxfo4n4 vmc6GpPNJ4QQ6K2jtwPOBXrrGYaBvrcMrqfISqKLjMsddDQ8f/6S09N3mNfrE371659TaEc+skS9 JcoWP7TkukJ6zc5oxEQnoASLpXWR2tUMccCLJUiE7jMUQlsPiE25/NCj5pF3P7zFvL18TXjRMt8d oVOPJA15KWQ6485sRlXuItkdCmvw3hN8hzgFztK5llW3pB4aMnryNAGvGGrD+VVNbweu1xvM9sMp zY4nNmvSLGO+f0CVHDA1Bxxwn5nZY8IOu8kEh2XQHdOko5Mt62HBRThjMVxzfdXy9uxHPpy+5+J0 y+WZMAwlfh0x3fkFfs9w+7Bhlh/y+OAht/a+oJQDpmqPURzBkGIjJCYhUyUOTxoqUqkYjeccFi2v w0v6yxN8rij3JoyD8M9/LXGbK0zscrTpODw85OtHX3G7fMRO+oBIgqgK5wyit4hPCRFiEJQIpaoo VQUAGdw73ufJ9BjywOX1gr/88QWz/JK98RTjneBspO4b0JokLQiSE6PGDxGiICgSYwCIMRJjJITw aQfQumA2v03QHetVx91bd1BuwmS8j3n8+AlFdsHJ4j1nyyv2K00mCUKCc1Dkgoj5dPzGACKCUgoR AanAd7z8+3OePXtG7DPydIfHx/uor778GXdv3WXbrXj3/oQQFR4DCEqByEci3ntCCP9XcFOyHhyL bceLV294fXqGQzh6cMzTp08xR/cPSWeR7998T13XJElCQkJwPdpoIuBcj9YF/6sbZAAmzek2npPz M7xAMR4xnc8IeNR2eYHtl4zLMZlJkahQRBCHNgGIH3H8Rz/NP/2RAZztGYYOUZHBNvjo6FyHfvL1 wTfr5hU7s5LPdh9yNP8l4kYo7QGFkgylzCdMN/NGN7ii6zHGYe2G4AbqdUOKITMJJgYLsWda3ubh 0RNyU0EraKNoh4FUg4hCaf6r6KdZREgF5lXBF58fI1iW5w0GuL44R999sPONUVOOj44YVftIoiny MTbm5MkI7xq06fEuoJVCwkdrZcAroo8Yk7DVl7hoCSESLSyXKxbrNSfn55h/vLtgMdRk1R6X5xOO 7495cH+XNPGkuqFplyhjSUYOhcEHz3bTUZYTgvUED8PaUXPNarWhrTsW1xu+++FH/vbsFU3jkF/8 9jcxyQJ+LownJeUooygydCqkWWS6kzI/GFOIRymF9573J+eokNDUHhVzhj6gW2G9bOlbsC10jdD2 gb4LmPnhPY4f3EHGCh8ahrBi217icNhoyUxJS0dxa0Jve9q2p9+pEZ8Sc4O3gdBHpvkMk1QkesLQ CourhjdvTmhtg3n05ec8enzEvaO7eFqCbmiHBaN5gUoCaSko7cltSV6keO/pWku7cYzyA7QvCFax 7rfomJCoir4LSDS8fXvCn//6Lab3A2KE8+WSJAWTQNNprI14PGWVolNh054ymUxwPmKtY71o2Z8b fCtsVy1axjRNx2a1JVqoypKrqytqW2OWmzV/+vY7smFENcqoigIRRSIZIsJ4pJhMK+b5I+q2Z7nd oHWBjlPCeEa9XHH5oWaTnrK/u4cZBgiRUhfoZMw1Jf8GIUK5HEZ4zkMAAAAASUVORK5CYII= "
@@ -664,11 +664,11 @@
        preserveAspectRatio="none"
        height="20.224718"
        width="25.280899"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
-       y="212.93234"
+       y="134.36092"
        x="-48.563931"
        id="image4421-3-3-6"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAUCAYAAAB4d5a9AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI WXMAAA2wAAANsAF9ZVn6AAAAB3RJTUUH4QwPESMgFHwBPgAAABl0RVh0Q29tbWVudABDcmVhdGVk IHdpdGggR0lNUFeBDhcAAAT1SURBVDjLZZFZjp1XFYW/fc75+9vVrcZNOa5y3CQKCiDxhJDnwJAy DWbAEJgBBEiejG2CCbbsKperu+3fno4HU1aAJS3ttV/2kr4tv/vD72OagV9NyaocbTwhWGxfo4n4 vmc6GpPNJ4QQ6K2jtwPOBXrrGYaBvrcMrqfISqKLjMsddDQ8f/6S09N3mNfrE371659TaEc+skS9 JcoWP7TkukJ6zc5oxEQnoASLpXWR2tUMccCLJUiE7jMUQlsPiE25/NCj5pF3P7zFvL18TXjRMt8d oVOPJA15KWQ6485sRlXuItkdCmvw3hN8hzgFztK5llW3pB4aMnryNAGvGGrD+VVNbweu1xvM9sMp zY4nNmvSLGO+f0CVHDA1Bxxwn5nZY8IOu8kEh2XQHdOko5Mt62HBRThjMVxzfdXy9uxHPpy+5+J0 y+WZMAwlfh0x3fkFfs9w+7Bhlh/y+OAht/a+oJQDpmqPURzBkGIjJCYhUyUOTxoqUqkYjeccFi2v w0v6yxN8rij3JoyD8M9/LXGbK0zscrTpODw85OtHX3G7fMRO+oBIgqgK5wyit4hPCRFiEJQIpaoo VQUAGdw73ufJ9BjywOX1gr/88QWz/JK98RTjneBspO4b0JokLQiSE6PGDxGiICgSYwCIMRJjJITw aQfQumA2v03QHetVx91bd1BuwmS8j3n8+AlFdsHJ4j1nyyv2K00mCUKCc1Dkgoj5dPzGACKCUgoR AanAd7z8+3OePXtG7DPydIfHx/uor778GXdv3WXbrXj3/oQQFR4DCEqByEci3ntCCP9XcFOyHhyL bceLV294fXqGQzh6cMzTp08xR/cPSWeR7998T13XJElCQkJwPdpoIuBcj9YF/6sbZAAmzek2npPz M7xAMR4xnc8IeNR2eYHtl4zLMZlJkahQRBCHNgGIH3H8Rz/NP/2RAZztGYYOUZHBNvjo6FyHfvL1 wTfr5hU7s5LPdh9yNP8l4kYo7QGFkgylzCdMN/NGN7ii6zHGYe2G4AbqdUOKITMJJgYLsWda3ubh 0RNyU0EraKNoh4FUg4hCaf6r6KdZREgF5lXBF58fI1iW5w0GuL44R999sPONUVOOj44YVftIoiny MTbm5MkI7xq06fEuoJVCwkdrZcAroo8Yk7DVl7hoCSESLSyXKxbrNSfn55h/vLtgMdRk1R6X5xOO 7495cH+XNPGkuqFplyhjSUYOhcEHz3bTUZYTgvUED8PaUXPNarWhrTsW1xu+++FH/vbsFU3jkF/8 9jcxyQJ+LownJeUooygydCqkWWS6kzI/GFOIRymF9573J+eokNDUHhVzhj6gW2G9bOlbsC10jdD2 gb4LmPnhPY4f3EHGCh8ahrBi217icNhoyUxJS0dxa0Jve9q2p9+pEZ8Sc4O3gdBHpvkMk1QkesLQ CourhjdvTmhtg3n05ec8enzEvaO7eFqCbmiHBaN5gUoCaSko7cltSV6keO/pWku7cYzyA7QvCFax 7rfomJCoir4LSDS8fXvCn//6Lab3A2KE8+WSJAWTQNNprI14PGWVolNh054ymUxwPmKtY71o2Z8b fCtsVy1axjRNx2a1JVqoypKrqytqW2OWmzV/+vY7smFENcqoigIRRSIZIsJ4pJhMK+b5I+q2Z7nd oHWBjlPCeEa9XHH5oWaTnrK/u4cZBgiRUhfoZMw1Jf8GIUK5HEZ4zkMAAAAASUVORK5CYII= "
@@ -676,7 +676,7 @@
        preserveAspectRatio="none"
        height="20.224718"
        width="25.280899"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-2bits-8.png"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-20/Bus-4bits-3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
