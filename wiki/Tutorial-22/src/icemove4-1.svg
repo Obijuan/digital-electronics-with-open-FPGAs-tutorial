@@ -72,15 +72,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="269.11227"
-     inkscape:cy="163.65676"
+     inkscape:cx="316.96941"
+     inkscape:cy="202.22819"
      inkscape:document-units="px"
      inkscape:current-layer="layer11"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="1048"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     inkscape:window-x="77"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,7 +110,7 @@
        height="508.57147"
        x="51.428574"
        y="119.50506"
-       ry="6.2924047"
+       ry="0"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
