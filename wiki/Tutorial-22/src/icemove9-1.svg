@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="178.60634mm"
+   height="143.53017mm"
+   viewBox="0 0 632.8571 508.57145"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icemove9-1.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4464"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4464-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-6-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4464-2-2"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="157.6837"
+     inkscape:cy="193.65676"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer10"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="back"
+     transform="translate(-51.428574,-119.50506)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5511"
+       width="632.85712"
+       height="508.57147"
+       x="51.428574"
+       y="119.50506"
+       ry="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="bloque"
+     style="display:inline"
+     transform="translate(-51.428574,-119.50506)">
+    <path
+       style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#666666;stroke-width:6.08765268;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 166.55844,390.93363 67.62534,0"
+       id="path4368"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#c0dfeb;fill-opacity:1;stroke:#666666;stroke-width:2.00749445;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4322"
+       width="200.79346"
+       height="132.13536"
+       x="232.8609"
+       y="290.93738"
+       ry="11.868627"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 233.46516,307.82113 19.83059,16.47363 -19.95051,15.65736 0,0"
+       id="path4324"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#666666;stroke-width:2.06332803;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4345"
+       width="41.352924"
+       height="42.263729"
+       x="131.60403"
+       y="302.76877"
+       ry="7.5119987"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 172.85714,323.6122 60.17857,0"
+       id="path4349"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 433.57142,323.43363 58.57143,0"
+       id="path4351"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#666666;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 433.57142,391.29077 58.57143,0"
+       id="path4351-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="121.42857"
+       y="374.5051"
+       id="text4385"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4387"
+         x="121.42857"
+         y="374.5051"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#666666">Mov[3:0]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="443.10269"
+       y="307.92722"
+       id="text4385-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4387-2"
+         x="443.10269"
+         y="307.92722"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#666666">Motor-right</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="440.6864"
+       y="381.37308"
+       id="text4385-1-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4387-2-0"
+         x="440.6864"
+         y="381.37308"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#666666">Motor-left</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="180.924"
+       y="510.92047"
+       id="text4425"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4427"
+         x="184.40056"
+         y="510.92047"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff">Código de </tspan><tspan
+         sodipodi:role="line"
+         x="180.924"
+         y="535.92047"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4429">movimiento</tspan><tspan
+         sodipodi:role="line"
+         x="180.924"
+         y="560.92047"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4713">(4 bits)</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m 178.797,483.64632 0,-80.8122"
+       id="path4431"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="508.72137"
+       y="179.45282"
+       id="text4425-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="508.72137"
+         y="179.45282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4429-6">Motor de la</tspan><tspan
+         sodipodi:role="line"
+         x="508.72137"
+         y="204.45282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4713-0">rueda derecha</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-6)"
+       d="m 509.13908,215.79942 0,68.30305"
+       id="path4431-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="504.02219"
+       y="509.91708"
+       id="text4425-9-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="504.02219"
+         y="509.91708"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4429-6-8">Motor de la</tspan><tspan
+         sodipodi:role="line"
+         x="504.02219"
+         y="534.91711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#0000ff"
+         id="tspan4713-0-7">rueda izquierda</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend-6-9)"
+       d="m 510.11264,488.2537 0,-85.47425"
+       id="path4431-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="icebot-icon"
+     transform="translate(-51.428574,-119.50506)">
+    <g
+       id="g4299"
+       transform="matrix(0.33028788,0,0,0.33028788,262.01289,307.15877)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-22/icemove4-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(107.96985,-263.47077)"
+         inkscape:label="back"
+         id="layer7" />
+      <g
+         transform="translate(107.96985,-263.47077)"
+         style="display:inline"
+         inkscape:label="Capa-1"
+         id="layer4">
+        <path
+           sodipodi:nodetypes="ssscs"
+           inkscape:connector-curvature="0"
+           id="path4179"
+           d="m -36.769007,439.19521 c -48.776241,-1.95203 -68.919843,-31.76665 -70.126743,-68.34457 -1.50321,-45.55811 19.880064,-94.10798 66.206063,-104.52307 33.9474812,-7.63213 70.142036,7.59227 82.541479,57.85532 5.554695,36.24846 -30.236853,116.94863 -78.620799,115.01232 z"
+           style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="csssc"
+           inkscape:connector-curvature="0"
+           id="path4176"
+           d="m 44.469793,337.04043 c 6.318329,45.97888 -24.40474,88.79175 -63.589976,97.73963 -38.946063,8.89327 -72.159606,-9.97759 -78.520567,-55.94835 -6.36096,-45.97075 21.91059,-99.82778 60.992839,-107.33431 39.0822548,-7.50653 72.933809,11.8841 79.337405,57.84666"
+           style="display:inline;opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.69385529;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(107.96985,-263.47077)"
+         style="display:inline"
+         inkscape:label="Capa-1-2"
+         id="layer5">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4202"
+           d="m 69.180139,315.49998 -22.339629,1.41699 c 0,0 -76.593017,15.94109 -77.656809,18.06657 -1.063792,2.12548 9.928724,69.07806 9.928724,69.07806 l 208.148625,76.16299 57.09017,-122.56928 z"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4204"
+           d="M -30.107104,334.62929 213.14665,408.66681"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(107.96985,-263.47077)"
+         inkscape:label="Capa-1-3"
+         id="layer6">
+        <path
+           sodipodi:nodetypes="ccccccc"
+           inkscape:connector-curvature="0"
+           id="path4237"
+           d="M 6.0618227,360.84353 6.771017,414.68899 143.64558,464.2835 122.77842,494.19063 -27.270326,430.63008 -31.525494,350.21613 Z"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4235"
+           d="m 133.00766,393.43421 -3.19138,112.8275 25.88561,-21.43192 0.53189,-103.08572 z"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path4233"
+           d="m -35.603362,342.95409 34.0413393,-6.37644 158.1504027,45.16642 -23.58072,13.46137 z"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccccccccc"
+           inkscape:connector-curvature="0"
+           id="path4207-3"
+           d="m -36.062261,342.61089 4.512528,91.67913 161.976863,71.89072 2.75851,-111.7184 z m 6.518634,12.27367 153.702287,48.34496 -2.44618,85.44204 -146.241325,-59.89215 z"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path4239"
+           d="M -24.122981,429.61133 6.5175965,414.68799"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1.86639261;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4241"
+           d="m 84.073224,315.49998 28.367796,-7.43917 144.3211,31.88218 -19.50285,16.64959 -157.08661,-38.25862 z"
+           style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(107.96985,-263.47077)"
+         style="display:inline"
+         inkscape:label="Capa 2"
+         id="layer2">
+        <path
+           sodipodi:nodetypes="cczsscc"
+           inkscape:connector-curvature="0"
+           id="path4172"
+           d="m 298.25,326.3045 -26.2402,-4.78233 c 0,0 -3.76918,-1.11471 -12.51323,2.15956 -8.74406,3.27426 -19.97505,10.80779 -35.8893,37.36932 -26.46675,44.17406 -43.80963,92.33707 -42.78148,148.88705 1.04925,57.70984 44.00455,50.72424 44.00455,50.72424 z"
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           transform="matrix(0.90807988,0.418797,-0.31294415,0.94977153,0,0)"
+           d="M 434.93098,276.62287 A 43.587448,123.48637 0 0 1 398.87993,418.21924 43.587448,123.48637 0 0 1 348.88047,316.16128 43.587448,123.48637 0 0 1 384.87698,174.45358 43.587448,123.48637 0 0 1 434.9157,276.35697"
+           sodipodi:open="true"
+           sodipodi:end="6.120765"
+           sodipodi:start="6.1229466"
+           sodipodi:ry="123.48637"
+           sodipodi:rx="43.587448"
+           sodipodi:cy="296.32559"
+           sodipodi:cx="391.90192"
+           sodipodi:type="arc"
+           id="path4167"
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:2.00650334;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         transform="translate(107.96985,-263.47077)"
+         style="display:inline"
+         inkscape:label="Capa 3"
+         id="layer3">
+        <path
+           transform="matrix(0.75186634,0.65931556,-0.36165277,0.93231286,0,0)"
+           d="m 445.58982,165.74668 a 6.7658205,21.220976 0 0 1 -5.59599,24.33316 6.7658205,21.220976 0 0 1 -7.76112,-17.53853 6.7658205,21.220976 0 0 1 5.58753,-24.35229 6.7658205,21.220976 0 0 1 7.76721,17.51197"
+           sodipodi:open="true"
+           sodipodi:end="6.120765"
+           sodipodi:start="6.1229466"
+           sodipodi:ry="21.220976"
+           sodipodi:rx="6.7658205"
+           sodipodi:cy="169.13257"
+           sodipodi:cx="438.91068"
+           sodipodi:type="arc"
+           id="path4170"
+           style="opacity:1;fill:#225500;fill-opacity:1;stroke:#000000;stroke-width:2.06348133;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cssssscsssc"
+           inkscape:connector-curvature="0"
+           id="path4174"
+           d="m 222.54348,561.16991 c 0,0 -7.26925,4.1624 -12.9428,1.15131 -5.67356,-3.0111 -14.61715,-10.69079 -20.03475,-35.86746 -4.80227,-22.31708 2.48218,-68.90093 11.87901,-96.70929 9.39683,-27.80835 29.39239,-72.38365 50.08902,-93.39599 15.42039,-15.65563 24.07086,-17.03333 31.09153,-17.28382 6.76562,-0.24139 15.29503,6.76323 15.29503,6.76323 0,0 -13.46538,-2.78085 -29.58711,12.77499 -11.58941,11.18263 -34.44864,41.49499 -53.9087,108.72529 -12.37365,42.74825 -12.57993,82.11777 -5.30852,100.40355 6.27097,15.76993 13.42729,13.43819 13.42729,13.43819 z"
+           style="opacity:1;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
