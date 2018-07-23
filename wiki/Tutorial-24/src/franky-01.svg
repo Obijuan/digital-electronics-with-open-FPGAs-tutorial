@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="franky-01.svg">
+   sodipodi:docname="franky-02.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="429.66664"
-     inkscape:cy="8.2294752"
+     inkscape:cx="430.06677"
+     inkscape:cy="88.824198"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -63,7 +63,10 @@
        width="282.2366"
        height="136.842"
        x="-55.057518"
-       y="-3.4109483" />
+       y="-3.4109483"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
   <g
      inkscape:label="Layer 1"
@@ -75,155 +78,194 @@
        id="path815"
        cx="-8.9535303"
        cy="76.128204"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3"
        cx="6.7324739"
        cy="76.128212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-6"
        cx="22.418486"
        cy="76.128212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-7"
        cx="38.104492"
        cy="76.128212"
-       r="7.3499122" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path815-3-5"
-       cx="6.7324739"
-       cy="92.003212"
-       r="7.3499122" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path815-6-3"
-       cx="22.418486"
-       cy="92.003212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-5"
        cx="2.7637239"
        cy="33.794872"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-5-6"
        cx="26.00926"
        cy="33.79488"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect898"
        width="93.277069"
        height="90.871643"
        x="-30.201456"
-       y="14.22884" />
+       y="14.22884"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#00ffff;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -40.81232,30.471363 h 1.707909 l 1.681815,2.916971 h 1.628523 l 2.411403,-2.910536 h 2.936068 v 8.949128 h -3.310338 l -1.461292,-3.075401 h -2.358332 l -1.145883,3.044466 h -2.037134 z"
        id="path900"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#ffff00;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 73.520461,30.471371 h -1.7079 l -1.68182,2.916971 h -1.62852 l -2.41141,-2.910536 h -2.93606 v 8.949128 h 3.31033 l 1.4613,-3.075401 h 2.35833 l 1.14588,3.044466 h 2.03714 z"
        id="path900-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect917"
        width="1.8708867"
        height="9.6217022"
        x="13.898009"
-       y="48.572975" />
+       y="48.572975"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-9"
        cx="129.49208"
        cy="76.128204"
-       r="7.3499122" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path815-3-1"
-       cx="145.17809"
-       cy="76.128212"
-       r="7.3499122" />
-    <circle
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path815-6-2"
-       cx="160.86411"
-       cy="76.128212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-7-7"
        cx="176.55011"
        cy="76.128212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-3-5-0"
        cx="145.17809"
        cy="92.003212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-6-3-9"
        cx="160.86411"
        cy="92.003212"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-5-3"
        cx="141.20934"
        cy="33.794872"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <circle
        style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path815-5-6-6"
        cx="164.45488"
        cy="33.79488"
-       r="7.3499122" />
+       r="7.3499122"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect898-0"
        width="93.277069"
        height="90.871643"
        x="108.24416"
-       y="14.228838" />
+       y="14.228838"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#00ffff;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 97.633295,30.471362 h 1.707909 l 1.681816,2.916971 h 1.62852 l 2.41141,-2.910536 h 2.93606 v 8.949128 h -3.31033 l -1.4613,-3.075401 h -2.35833 l -1.145882,3.044466 h -2.037134 z"
        id="path900-6"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <path
        style="fill:#ffff00;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 211.96608,30.47137 h -1.7079 l -1.68182,2.916971 h -1.62852 l -2.41141,-2.910536 h -2.93606 v 8.949128 h 3.31033 l 1.4613,-3.075401 h 2.35833 l 1.14588,3.044466 h 2.03714 z"
        id="path900-2-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:0.52916664;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect917-6"
        width="1.8708867"
        height="9.6217022"
        x="152.34363"
-       y="48.572975" />
+       y="48.572975"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="-25.702381"
        y="124.64287"
-       id="text988"><tspan
+       id="text988"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan986"
          x="-25.702381"
@@ -234,7 +276,10 @@
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="133.04762"
        y="124.64287"
-       id="text988-1"><tspan
+       id="text988-1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/franky-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan986-8"
          x="133.04762"
