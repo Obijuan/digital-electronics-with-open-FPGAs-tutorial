@@ -116,18 +116,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72287676"
-     inkscape:cx="271.96901"
-     inkscape:cy="248.47256"
+     inkscape:zoom="1.0223021"
+     inkscape:cx="90.060969"
+     inkscape:cy="287.16784"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="1051"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="378"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -142,7 +142,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -337,12 +337,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/digitos01-2.png"
        id="text871-3-7-3-6-9-1"
-       y="113.08093"
+       y="128.60962"
        x="47.276196"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="113.08093"
+         y="128.60962"
          x="47.276196"
          id="tspan869-6-5-5-2-1-8"
          sodipodi:role="line">h</tspan></text>
@@ -351,12 +351,12 @@
        inkscape:export-xdpi="90"
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/digitos01-2.png"
        id="text871-3-7-3-6-9-1-7"
-       y="127.63763"
+       y="111.46192"
        x="47.276196"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        xml:space="preserve"><tspan
          style="stroke-width:0.26458332"
-         y="127.63763"
+         y="111.46192"
          x="47.276196"
          id="tspan869-6-5-5-2-1-8-9"
          sodipodi:role="line">g</tspan></text>
