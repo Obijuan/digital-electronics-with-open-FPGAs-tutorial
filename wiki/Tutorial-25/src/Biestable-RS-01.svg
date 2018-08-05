@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="494.98318mm"
+   height="153.94724mm"
+   viewBox="0 0 494.98318 153.94724"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Biestable-RS-01.svg"
+   inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/Biestable-RS-01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path892"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path910"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path886"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path910-1"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path892-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="881.76708"
+     inkscape:cy="358.20981"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     transform="translate(113.85681,-6.7452931)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.6870541;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2665"
+       width="494.98318"
+       height="153.94724"
+       x="-113.85681"
+       y="6.7452931" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(113.85681,-6.7452931)">
+    <g
+       id="g875"
+       transform="translate(18.520827,21.455355)">
+      <g
+         transform="translate(10.583334,8.0774364)"
+         inkscape:label="back"
+         id="layer2">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/intro-02.png"
+           y="-8.0774364"
+           x="-10.583334"
+           height="112.63691"
+           width="179.16072"
+           id="rect841"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.69264245;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         style="display:inline"
+         transform="translate(-10.842732,-3.2056506)"
+         id="layer1-35"
+         inkscape:label="Layer 1">
+        <g
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/intro-02.png"
+           transform="translate(-158.7581,-90.871639)"
+           id="g1028">
+          <rect
+             ry="4.6340227"
+             y="102.82216"
+             x="219.88739"
+             height="92.641266"
+             width="93.077789"
+             id="rect861"
+             style="fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.33486569;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path865"
+             d="m 189.86013,149.46924 h 29.83913"
+             style="fill:none;stroke:#777777;stroke-width:1.99789298;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path865-3"
+             d="m 196.14098,118.27936 h 23.55829"
+             style="display:inline;fill:none;stroke:#777777;stroke-width:1.99800003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path865-3-6"
+             d="M 312.61875,149.10867 H 339.5507"
+             style="display:inline;fill:none;stroke:#777777;stroke-width:2.08673143;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <g
+             id="g883"
+             transform="matrix(0.26458333,0,0,0.26458333,235.09129,110.45315)">
+            <g
+               transform="translate(-152.22936,175.33247)"
+               style="display:none"
+               id="Padding__x26__Artboard"
+               class="st0" />
+            <g
+               transform="translate(3.4707638,3.1982158)"
+               inkscape:label="Layer 1"
+               id="layer1-3">
+              <path
+                 inkscape:export-ydpi="26"
+                 inkscape:export-xdpi="26"
+                 style="fill:none;stroke:#303030;stroke-width:6.77645969;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 inkscape:connector-curvature="0"
+                 id="path9"
+                 d="m 21.357905,145.94703 c 0.06099,3.67081 0.439599,7.36611 1.151805,11.04892"
+                 class="st1" />
+              <path
+                 inkscape:export-ydpi="26"
+                 inkscape:export-xdpi="26"
+                 style="fill:none;stroke:#303030;stroke-width:6.77645969;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+                 inkscape:connector-curvature="0"
+                 id="path11"
+                 d="m 48.701696,92.115987 c -4.749234,3.365287 -8.955576,7.305019 -12.55833,11.679813 -5.99465,7.27918 -10.318225,15.76282 -12.69047,24.8091"
+                 class="st1" />
+              <line
+                 inkscape:export-ydpi="26"
+                 inkscape:export-xdpi="26"
+                 class="st1"
+                 x1="184.86526"
+                 x2="41.297638"
+                 y1="207.59064"
+                 y2="262.80167"
+                 id="line17"
+                 style="fill:none;stroke:#303030;stroke-width:6.77645969;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+              <path
+                 inkscape:export-ydpi="26"
+                 inkscape:export-xdpi="26"
+                 sodipodi:nodetypes="cccccccccscccccsccccc"
+                 inkscape:connector-curvature="0"
+                 d="m 185.44784,175.07069 0.37048,0.15344 c 2.51959,0.83109 4.71748,2.3858 6.63396,4.24884 2.01978,2.322 3.69395,4.77702 4.4231,8.71317 1.49566,8.07416 -3.28678,16.04976 -10.95115,18.99723 l -1.05887,0.40717 -143.567625,55.21111 -0.733116,0.282 c -8.002902,3.07767 -17.550934,0.46138 -21.819814,-6.97472 -3.299458,-5.74751 -2.73556,-12.19831 0.418592,-21.6127 3.154152,-9.41439 2.860344,-21.85646 -1.644647,-33.54991 l 0.04124,0.003 L 5.0529682,168.28155 C -7.8274358,134.86722 4.3062992,97.906086 32.463603,77.971434 L 31.361412,75.22295 C 27.67618,65.640164 32.501503,54.784566 42.084289,51.099333 51.667074,47.414101 62.522673,52.239424 66.207905,61.82221 l 1.653646,3.238662 c 34.881469,-3.555921 68.594279,15.855393 81.318509,49.329478 l 15.24009,38.43247 c 4.79439,8.72323 11.83107,15.95545 21.02769,22.24787 z"
+                 style="fill:#ffffff;stroke:#303030;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+                 id="path21-3" />
+              <path
+                 sodipodi:nodetypes="cczc"
+                 inkscape:connector-curvature="0"
+                 id="path826"
+                 d="m 64.267668,268.83761 45.015142,-17.11438 c 0,0 7.96368,24.29535 -14.426955,30.38057 -22.390636,6.08522 -30.588187,-13.26619 -30.588187,-13.26619 z"
+                 style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <g
+               style="display:inline"
+               inkscape:label="Layer 3"
+               id="layer3-5">
+              <rect
+                 ry="19.84693"
+                 y="3.6708348"
+                 x="95.783005"
+                 height="135.18922"
+                 width="135.18922"
+                 id="rect845"
+                 style="opacity:1;fill:#55acee;fill-opacity:1;stroke:#303030;stroke-width:6.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+            </g>
+            <g
+               inkscape:label="Layer 4"
+               id="layer4-6">
+              <path
+                 inkscape:export-ydpi="26"
+                 inkscape:export-xdpi="26"
+                 style="display:inline;fill:#303030;stroke-width:14.42537212"
+                 inkscape:connector-curvature="0"
+                 id="path7"
+                 d="M 172.7244,52.533222 V 27.64686 h -9.88859 l -18.78832,10.053474 2.30733,8.899732 14.83288,-8.075756 h 0.32963 v 14.008912 27.523319 33.291589 h 2.1426 9.06462 V 107.08535 72.310405 52.533222 Z"
+                 class="st2" />
+            </g>
+          </g>
+          <rect
+             style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect948"
+             width="15.615121"
+             height="15.993097"
+             x="180.71333"
+             y="110.01255"
+             ry="3.779762" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path865-2"
+             d="m 189.86013,180.87341 h 29.83913"
+             style="fill:none;stroke:#777777;stroke-width:1.99789298;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:13.4758606px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="197.79739"
+             y="143.28531"
+             id="text986"><tspan
+               sodipodi:role="line"
+               id="tspan984"
+               x="197.79739"
+               y="143.28531"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.26458332">set</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:13.4758606px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="200.47009"
+             y="174.95674"
+             id="text986-8"><tspan
+               sodipodi:role="line"
+               id="tspan984-5"
+               x="200.47009"
+               y="174.95674"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.26458332">rst</tspan></text>
+        </g>
+        <path
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/intro-02.png"
+           inkscape:connector-curvature="0"
+           id="path866"
+           d="m 61.299054,20.751423 9.07143,7.181548 -9.07143,7.559523"
+           style="fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-94.494041"
+       y="59.630955"
+       id="text879"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="-94.494041"
+         y="59.630955"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Evento a registrar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-44.599339"
+       y="128.80061"
+       id="text879-6"><tspan
+         sodipodi:role="line"
+         id="tspan877-2"
+         x="-44.599339"
+         y="128.80061"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332">Borrar evento</tspan><tspan
+         sodipodi:role="line"
+         x="-44.599339"
+         y="142.02979"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan1215">(evento procesado)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m -46.869048,64.922619 v 12.85119 h 69.547619"
+       id="path1910"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-7)"
+       d="M -46.869048,114.94102 V 102.08983 H 22.678573"
+       id="path1910-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="221.20016"
+       y="57.197647"
+       id="text879-3"><tspan
+         sodipodi:role="line"
+         id="tspan877-6"
+         x="221.20016"
+         y="57.197647"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Notificación</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 189.76136,68.217284 213.81562,54.853807"
+       id="path2336"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="224.81363"
+       y="86.272667"
+       id="text879-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan877-6-6"
+         x="224.81363"
+         y="86.272667"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.26458332"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="tspan2542">0</tspan>: No hay notificación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="224.81363"
+       y="101.23976"
+       id="text879-3-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan877-6-6-6"
+         x="224.81363"
+         y="101.23976"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">1: El evento ha ocurrido</tspan></text>
+  </g>
+  <style
+     type="text/css"
+     id="style2">
+	.st0{display:none;}
+	.st1{fill:none;stroke:#303030;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#303030;}
+</style>
+</svg>
