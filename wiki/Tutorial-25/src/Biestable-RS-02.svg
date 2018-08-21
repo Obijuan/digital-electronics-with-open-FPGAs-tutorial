@@ -382,15 +382,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="1406.1644"
-     inkscape:cy="323.26853"
+     inkscape:cx="1299.0882"
+     inkscape:cy="501.05538"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1025"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="378"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -418,7 +418,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1160,36 +1160,6 @@
          x="50.205978"
          y="147.71053"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.26458332">Levantar bandera</tspan></text>
-    <g
-       id="g2302"
-       transform="translate(483.54025,-104.6622)"
-       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/Biestable-RS-03.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         d="m -165.76141,184.46434 4.06217,8.84248 -3.7445,9.56527 4.15052,1.2892 m -12.87247,-18.93976 c 0,0 -1.08304,8.11479 -2.56615,8.76972 -1.48212,0.65591 -9.69977,6.74397 -9.69977,6.74397 l 2.6277,3.20186"
-         id="path6"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#008000;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
-         transform="scale(0.91185407,1.0966667)"
-         id="text4142"
-         y="168.96425"
-         x="-206.395"
-         style="font-style:normal;font-weight:normal;font-size:3.61241078px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.30103424px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.94052887px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000;stroke-width:0.30103424px"
-           y="168.96425"
-           x="-206.395"
-           id="tspan4144"
-           sodipodi:role="line">o</tspan></text>
-    </g>
     <rect
        style="fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.33486569;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect861-2"
@@ -1450,6 +1420,29 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/Biestable-RS-03.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <g
+       id="g2256-3"
+       transform="translate(390.19057,-147.25572)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-25/Biestable-RS-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd;stroke-width:0.28221807"
+         id="path4-6-6"
+         d="m -82.393731,211.35984 11.929207,-9.14969 9.654006,2.18024 -7.713959,32.94496 -7.509013,-1.69591 5.932629,-26.29687 -8.815733,5.34131 z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path6-0-7"
+         d="m -71.548577,235.30894 6.026627,7.97465 -5.054292,6.0305 1.74897,1.55578 m -3.960223,-15.36674 -3.49948,7.97542 -7.970526,1.55579 0.583247,2.52825" />
+    </g>
   </g>
   <style
      type="text/css"
