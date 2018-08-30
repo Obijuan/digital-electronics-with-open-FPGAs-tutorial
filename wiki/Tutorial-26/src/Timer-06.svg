@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="350.65762mm"
+   height="124.01305mm"
+   viewBox="0 0 350.65762 124.01305"
+   version="1.1"
+   id="svg1814"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Timer-06.svg">
+  <defs
+     id="defs1808">
+    <linearGradient
+       x1="311.42001"
+       y1="199.72"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x2="331.42001"
+       gradientUnits="userSpaceOnUse"
+       y2="199.72"
+       id="SVGID_1_">
+      <stop
+         id="stop4299"
+         offset="0"
+         style="stop-color:#A6A6A6" />
+      <stop
+         id="stop4301"
+         offset=".3851"
+         style="stop-color:#FFFFFF" />
+      <stop
+         id="stop4303"
+         offset=".9138"
+         style="stop-color:#999999" />
+    </linearGradient>
+    <linearGradient
+       x1="311.42001"
+       y1="437.03"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x2="700.58002"
+       gradientUnits="userSpaceOnUse"
+       y2="437.03"
+       id="SVGID_2_">
+      <stop
+         id="stop4308"
+         offset="0"
+         style="stop-color:#EF0000" />
+      <stop
+         id="stop4310"
+         offset=".431"
+         style="stop-color:#FF4000" />
+      <stop
+         id="stop4312"
+         offset=".9138"
+         style="stop-color:#EF0000" />
+    </linearGradient>
+    <linearGradient
+       x1="311.42001"
+       y1="437.03"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x2="700.58002"
+       gradientUnits="userSpaceOnUse"
+       y2="437.03"
+       id="SVGID_2_-3">
+      <stop
+         id="stop4308-5"
+         offset="0"
+         style="stop-color:#EF0000" />
+      <stop
+         id="stop4310-6"
+         offset=".431"
+         style="stop-color:#FF4000" />
+      <stop
+         id="stop4312-2"
+         offset=".9138"
+         style="stop-color:#EF0000" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-28-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1262-9-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-28-4-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1262-9-1-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL-28-4-6-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1262-9-1-1-0" />
+    </marker>
+    <linearGradient
+       x1="311.42001"
+       y1="437.03"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x2="700.58002"
+       gradientUnits="userSpaceOnUse"
+       y2="437.03"
+       id="SVGID_2_-3-6">
+      <stop
+         id="stop4308-5-3"
+         offset="0"
+         style="stop-color:#EF0000" />
+      <stop
+         id="stop4310-6-2"
+         offset=".431"
+         style="stop-color:#FF4000" />
+      <stop
+         id="stop4312-2-0"
+         offset=".9138"
+         style="stop-color:#EF0000" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient6352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient8007"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-3-6"
+       id="linearGradient8009"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="437.03"
+       x2="700.58002"
+       y2="437.03" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient6263"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient8093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-3-6"
+       id="linearGradient8095"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="437.03"
+       x2="700.58002"
+       y2="437.03" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient7635"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-3-6"
+       id="linearGradient7637"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="437.03"
+       x2="700.58002"
+       y2="437.03" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient8182"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient7629"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_2_-3-6"
+       id="linearGradient7631"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="437.03"
+       x2="700.58002"
+       y2="437.03" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#SVGID_1_"
+       id="linearGradient8269"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-106,605)"
+       x1="311.42001"
+       y1="199.72"
+       x2="331.42001"
+       y2="199.72" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="640.94351"
+     inkscape:cy="289.29082"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer13"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1811">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="back"
+     style="display:inline"
+     transform="translate(37.417736,-44.697567)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7641"
+       width="350.65762"
+       height="124.01305"
+       x="-37.417736"
+       y="44.697567"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(37.417736,-44.697567)"
+     style="display:inline">
+    <g
+       id="g6210"
+       transform="translate(-6.4255952,16.252976)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="10.248189"
+         y="81.248314"
+         x="42.711304"
+         height="57.753029"
+         width="71.116501"
+         id="rect6196"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.883964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(0.5009178,0,0,0.5009178,22.777599,36.306977)"
+         id="g6173">
+        <circle
+           r="32.059826"
+           cy="135.22824"
+           cx="107.3624"
+           id="circle5"
+           style="fill:#ffffff;stroke-width:0.17634666" />
+        <path
+           d="m 107.36239,100.01182 c -19.451034,0 -35.216428,15.7654 -35.216428,35.21643 0,19.45104 15.765394,35.21643 35.216428,35.21643 19.45104,0 35.21643,-15.76539 35.21643,-35.21643 0,-19.45103 -15.76539,-35.21643 -35.21643,-35.21643 z m 0,66.39452 c -17.229068,0 -31.178092,-13.96665 -31.178092,-31.17809 0,-17.21143 13.966659,-31.17809 31.178092,-31.17809 17.21144,0 31.17809,13.96666 31.17809,31.17809 0,17.21144 -13.96665,31.17809 -31.17809,31.17809 z"
+           id="path7"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 106.30431,107.78871 h 2.11616 v 8.32356 h -2.11616 z m -26.364178,28.48387 v -2.11617 h 8.323563 v 2.11617 z m 28.474518,26.37247 h -2.11616 v -8.32357 h 2.11616 z m 26.36418,-28.48281 v 2.11616 h -8.32356 v -2.11616 z m -47.558224,-17.583 1.496302,-1.4963 5.885568,5.88557 -1.496302,1.4963 z m 1.500359,38.77757 -1.496302,-1.4963 5.885568,-5.88575 1.496475,1.4963 z m 38.769985,-1.49295 -1.4963,1.49648 -5.88575,-5.88575 1.49648,-1.4963 z m -1.48537,-38.77739 1.49631,1.4963 -5.88558,5.88574 -1.49647,-1.4963 z"
+           id="path9"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <circle
+           r="2.1866984"
+           cy="135.22824"
+           cx="107.3624"
+           id="circle11"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 107.68687,126.06828 1.24501,0.1319 -0.96462,9.10108 -1.24501,-0.13191 z"
+           id="path13"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 122.07729,126.74351 0.58317,1.10798 -15.02755,7.91038 -0.58318,-1.10798 z"
+           id="path15"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 108.70262,130.5198 c -0.49376,0 -0.88173,0.40559 -0.88173,0.88173 0,0.29979 0.14108,0.56431 0.37033,0.72302 l -6.71881,18.95727 0.4585,0.15871 6.71881,-18.95727 h 0.0529 c 0.49378,0 0.88174,-0.4056 0.88174,-0.88173 0,-0.47614 -0.38796,-0.88173 -0.88174,-0.88173 z"
+           id="path17"
+           inkscape:connector-curvature="0"
+           style="fill:#cf000f;stroke-width:0.17634666" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Timer-01.png"
+         id="text3221-45-3"
+         y="133.16019"
+         x="77.088783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.69254684px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21731363"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.21731363"
+           y="133.16019"
+           x="77.088783"
+           id="tspan3219-0-6"
+           sodipodi:role="line">Timer 1</tspan><tspan
+           id="tspan4780-3-7"
+           style="text-align:center;text-anchor:middle;stroke-width:0.21731363"
+           y="144.02586"
+           x="77.088783"
+           sodipodi:role="line" /></text>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:connector-curvature="0"
+       id="path1088-7"
+       d="M -23.68162,139.04371 H 33.791167"
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-28-4)" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:connector-curvature="0"
+       id="path1088-7-8"
+       d="m 107.09814,139.04371 h 57.47279"
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-28-4-6)" />
+    <g
+       id="g6210-6"
+       transform="translate(125.60555,16.252977)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="10.248189"
+         y="81.248314"
+         x="42.711304"
+         height="57.753029"
+         width="71.116501"
+         id="rect6196-9"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.883964;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(0.5009178,0,0,0.5009178,22.777599,36.306977)"
+         id="g6173-3">
+        <circle
+           r="32.059826"
+           cy="135.22824"
+           cx="107.3624"
+           id="circle5-7"
+           style="fill:#ffffff;stroke-width:0.17634666" />
+        <path
+           d="m 107.36239,100.01182 c -19.451034,0 -35.216428,15.7654 -35.216428,35.21643 0,19.45104 15.765394,35.21643 35.216428,35.21643 19.45104,0 35.21643,-15.76539 35.21643,-35.21643 0,-19.45103 -15.76539,-35.21643 -35.21643,-35.21643 z m 0,66.39452 c -17.229068,0 -31.178092,-13.96665 -31.178092,-31.17809 0,-17.21143 13.966659,-31.17809 31.178092,-31.17809 17.21144,0 31.17809,13.96666 31.17809,31.17809 0,17.21144 -13.96665,31.17809 -31.17809,31.17809 z"
+           id="path7-4"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 106.30431,107.78871 h 2.11616 v 8.32356 h -2.11616 z m -26.364178,28.48387 v -2.11617 h 8.323563 v 2.11617 z m 28.474518,26.37247 h -2.11616 v -8.32357 h 2.11616 z m 26.36418,-28.48281 v 2.11616 h -8.32356 v -2.11616 z m -47.558224,-17.583 1.496302,-1.4963 5.885568,5.88557 -1.496302,1.4963 z m 1.500359,38.77757 -1.496302,-1.4963 5.885568,-5.88575 1.496475,1.4963 z m 38.769985,-1.49295 -1.4963,1.49648 -5.88575,-5.88575 1.49648,-1.4963 z m -1.48537,-38.77739 1.49631,1.4963 -5.88558,5.88574 -1.49647,-1.4963 z"
+           id="path9-5"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <circle
+           r="2.1866984"
+           cy="135.22824"
+           cx="107.3624"
+           id="circle11-2"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 107.68687,126.06828 1.24501,0.1319 -0.96462,9.10108 -1.24501,-0.13191 z"
+           id="path13-5"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 122.07729,126.74351 0.58317,1.10798 -15.02755,7.91038 -0.58318,-1.10798 z"
+           id="path15-4"
+           inkscape:connector-curvature="0"
+           style="fill:#333333;stroke-width:0.17634666" />
+        <path
+           d="m 108.70262,130.5198 c -0.49376,0 -0.88173,0.40559 -0.88173,0.88173 0,0.29979 0.14108,0.56431 0.37033,0.72302 l -6.71881,18.95727 0.4585,0.15871 6.71881,-18.95727 h 0.0529 c 0.49378,0 0.88174,-0.4056 0.88174,-0.88173 0,-0.47614 -0.38796,-0.88173 -0.88174,-0.88173 z"
+           id="path17-7"
+           inkscape:connector-curvature="0"
+           style="fill:#cf000f;stroke-width:0.17634666" />
+      </g>
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Timer-01.png"
+         id="text3221-45-3-4"
+         y="133.16019"
+         x="77.088783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.69254684px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21731363"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.21731363"
+           y="133.16019"
+           x="77.088783"
+           id="tspan3219-0-6-4"
+           sodipodi:role="line">Timer 2</tspan><tspan
+           id="tspan4780-3-7-3"
+           style="text-align:center;text-anchor:middle;stroke-width:0.21731363"
+           y="144.02586"
+           x="77.088783"
+           sodipodi:role="line" /></text>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:connector-curvature="0"
+       id="path1088-7-8-9"
+       d="m 239.12929,139.04371 h 57.47279"
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-28-4-6-5)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="tic-1"
+     style="display:none">
+    <g
+       style="display:inline"
+       transform="matrix(0.54546357,0,0,0.54546357,-34.736483,47.51574)"
+       id="layer1-2-7-5"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-9-9">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-2-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-0-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-2-6"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-3-7"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-7-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-5-6"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="tic-2"
+     style="display:none">
+    <g
+       style="display:inline"
+       transform="matrix(0.54546357,0,0,0.54546357,-10.546009,47.51574)"
+       id="layer1-2-5"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-94">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-09"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-1"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-7"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-71"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="tic-3"
+     style="display:none">
+    <g
+       transform="matrix(0.54546357,0,0,0.54546357,97.555185,47.51574)"
+       id="layer1-2-9"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-2">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-28"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-7"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-36"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-2"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="tic-4"
+     style="display:none">
+    <g
+       transform="matrix(0.54546357,0,0,0.54546357,120.98971,47.51574)"
+       id="layer1-2-9-9"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f09.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-2-3">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-28-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-9-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-7-4"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-36-7"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-1-8"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-2-4"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="tic-5"
+     style="display:none">
+    <g
+       transform="matrix(0.54546357,0,0,0.54546357,229.58633,47.515743)"
+       id="layer1-2-9-5"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f13.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-2-0">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-28-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-7-7"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-36-1"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-1-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-2-2"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="tic-6"
+     style="display:inline">
+    <g
+       transform="matrix(0.54546357,0,0,0.54546357,253.02085,47.515743)"
+       id="layer1-2-9-9-7"
+       inkscape:label="Layer 1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(-95.94976)"
+         id="g953-2-3-2">
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 204.59514,52.264633 c 2.16957,3.316919 4.01284,2.7182 5.67948,0"
+           id="path955-6-9-28-1-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 213.04173,78.541503 V 34.777422 h -11.22532 v 43.49682"
+           id="path1773-2-3-1-8-0-9-8-3-7-1-9-9-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccc" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-6-5-2-7-4-1"
+           cx="193.59666"
+           cy="83.030968"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="rotate(-1.418208)"
+           inkscape:transform-center-x="6.8109654"
+           inkscape:transform-center-y="0.69500717" />
+        <ellipse
+           style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1968-5-7-7-7-3-7-36-7-0"
+           cx="-221.08064"
+           cy="72.847694"
+           rx="7.0092001"
+           ry="2.6350379"
+           transform="matrix(-0.99969368,-0.02474987,-0.02474987,0.99969368,0,0)"
+           inkscape:transform-center-x="-6.8109607"
+           inkscape:transform-center-y="0.69504015" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916676;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 205.5149,42.578442 v 3.87426"
+           id="path978-56-0-1-8-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#008000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 209.10567,42.578442 v 3.87426"
+           id="path978-5-2-9-2-4-1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="flag-T1-off"
+     style="display:inline">
+    <g
+       id="g4296-1"
+       transform="matrix(0,0.04496408,-0.03860212,0,157.6876,32.639743)"
+       style="stroke-width:0.71867704"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="-13.985122"
+       inkscape:transform-center-y="8.6934523">
+      <linearGradient
+         x1="311.42001"
+         y1="199.72"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="331.42001"
+         gradientUnits="userSpaceOnUse"
+         y2="199.72"
+         id="linearGradient6341">
+        <stop
+           id="stop1117-2"
+           offset="0"
+           style="stop-color:#A6A6A6" />
+        <stop
+           id="stop1119-7"
+           offset=".3851"
+           style="stop-color:#FFFFFF" />
+        <stop
+           id="stop1121-0"
+           offset=".9138"
+           style="stop-color:#999999" />
+      </linearGradient>
+      <path
+         id="path4305-9"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8007);stroke-width:0.71867704" />
+      <linearGradient
+         x1="311.42001"
+         y1="437.03"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="700.58002"
+         gradientUnits="userSpaceOnUse"
+         y2="437.03"
+         id="linearGradient6347">
+        <stop
+           id="stop1126-3"
+           offset="0"
+           style="stop-color:#EF0000" />
+        <stop
+           id="stop1128-6"
+           offset=".431"
+           style="stop-color:#FF4000" />
+        <stop
+           id="stop1130-0"
+           offset=".9138"
+           style="stop-color:#EF0000" />
+      </linearGradient>
+      <path
+         id="path4314-6"
+         d="M 225.42,53.506 C 348.26,75.462 471.74,18.084 594.58,49.503 v 236.99 c -129.72,-33.179 -259.44,33.179 -389.16,0 V 53.513"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8009);stroke-width:0.71867704" />
+      <path
+         id="path4316-2"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         enable-background="new    "
+         inkscape:connector-curvature="0"
+         style="opacity:0.5;fill:url(#linearGradient6352);stroke-width:0.71867704" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="flag-T1-on"
+     style="display:none">
+    <g
+       id="g4296"
+       transform="matrix(0.04496408,0,0,0.03860212,119.02882,12.565322)"
+       style="stroke-width:0.71867704"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <linearGradient
+         x1="311.42001"
+         y1="199.72"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="331.42001"
+         gradientUnits="userSpaceOnUse"
+         y2="199.72"
+         id="linearGradient1123">
+        <stop
+           id="stop1117"
+           offset="0"
+           style="stop-color:#A6A6A6" />
+        <stop
+           id="stop1119"
+           offset=".3851"
+           style="stop-color:#FFFFFF" />
+        <stop
+           id="stop1121"
+           offset=".9138"
+           style="stop-color:#999999" />
+      </linearGradient>
+      <path
+         id="path4305"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8093);stroke-width:0.71867704" />
+      <linearGradient
+         x1="311.42001"
+         y1="437.03"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="700.58002"
+         gradientUnits="userSpaceOnUse"
+         y2="437.03"
+         id="linearGradient1132">
+        <stop
+           id="stop1126"
+           offset="0"
+           style="stop-color:#EF0000" />
+        <stop
+           id="stop1128"
+           offset=".431"
+           style="stop-color:#FF4000" />
+        <stop
+           id="stop1130"
+           offset=".9138"
+           style="stop-color:#EF0000" />
+      </linearGradient>
+      <path
+         id="path4314"
+         d="M 225.42,53.506 C 348.26,75.462 471.74,18.084 594.58,49.503 v 236.99 c -129.72,-33.179 -259.44,33.179 -389.16,0 V 53.513"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8095);stroke-width:0.71867704" />
+      <path
+         id="path4316"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         enable-background="new    "
+         inkscape:connector-curvature="0"
+         style="opacity:0.5;fill:url(#linearGradient6263);stroke-width:0.71867704" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="flag-T2-off"
+     style="display:inline">
+    <g
+       id="g4296-1-9"
+       transform="matrix(0,0.04496408,-0.03860212,0,289.71875,32.639743)"
+       style="display:inline;stroke-width:0.71867704"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:transform-center-x="-13.985122"
+       inkscape:transform-center-y="8.6934523">
+      <linearGradient
+         x1="311.42001"
+         y1="199.72"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="331.42001"
+         gradientUnits="userSpaceOnUse"
+         y2="199.72"
+         id="linearGradient7583">
+        <stop
+           id="stop1117-2-2"
+           offset="0"
+           style="stop-color:#A6A6A6" />
+        <stop
+           id="stop1119-7-0"
+           offset=".3851"
+           style="stop-color:#FFFFFF" />
+        <stop
+           id="stop1121-0-6"
+           offset=".9138"
+           style="stop-color:#999999" />
+      </linearGradient>
+      <path
+         id="path4305-9-8"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8182);stroke-width:0.71867704" />
+      <linearGradient
+         x1="311.42001"
+         y1="437.03"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="700.58002"
+         gradientUnits="userSpaceOnUse"
+         y2="437.03"
+         id="linearGradient7589">
+        <stop
+           id="stop1126-3-9"
+           offset="0"
+           style="stop-color:#EF0000" />
+        <stop
+           id="stop1128-6-2"
+           offset=".431"
+           style="stop-color:#FF4000" />
+        <stop
+           id="stop1130-0-6"
+           offset=".9138"
+           style="stop-color:#EF0000" />
+      </linearGradient>
+      <path
+         id="path4314-6-6"
+         d="M 225.42,53.506 C 348.26,75.462 471.74,18.084 594.58,49.503 v 236.99 c -129.72,-33.179 -259.44,33.179 -389.16,0 V 53.513"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient7637);stroke-width:0.71867704" />
+      <path
+         id="path4316-2-4"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         enable-background="new    "
+         inkscape:connector-curvature="0"
+         style="opacity:0.5;fill:url(#linearGradient7635);stroke-width:0.71867704" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="flag-T2-on"
+     style="display:none">
+    <g
+       id="g4296-0"
+       transform="matrix(0.04496408,0,0,0.03860212,251.05998,12.565322)"
+       style="display:inline;stroke-width:0.71867704"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/src/anim-5/f10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <linearGradient
+         x1="311.42001"
+         y1="199.72"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="331.42001"
+         gradientUnits="userSpaceOnUse"
+         y2="199.72"
+         id="linearGradient7569">
+        <stop
+           id="stop1117-7"
+           offset="0"
+           style="stop-color:#A6A6A6" />
+        <stop
+           id="stop1119-8"
+           offset=".3851"
+           style="stop-color:#FFFFFF" />
+        <stop
+           id="stop1121-6"
+           offset=".9138"
+           style="stop-color:#999999" />
+      </linearGradient>
+      <path
+         id="path4305-8"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient8269);stroke-width:0.71867704" />
+      <linearGradient
+         x1="311.42001"
+         y1="437.03"
+         gradientTransform="matrix(1,0,0,-1,-106,605)"
+         x2="700.58002"
+         gradientUnits="userSpaceOnUse"
+         y2="437.03"
+         id="linearGradient7575">
+        <stop
+           id="stop1126-8"
+           offset="0"
+           style="stop-color:#EF0000" />
+        <stop
+           id="stop1128-4"
+           offset=".431"
+           style="stop-color:#FF4000" />
+        <stop
+           id="stop1130-3"
+           offset=".9138"
+           style="stop-color:#EF0000" />
+      </linearGradient>
+      <path
+         id="path4314-1"
+         d="M 225.42,53.506 C 348.26,75.462 471.74,18.084 594.58,49.503 v 236.99 c -129.72,-33.179 -259.44,33.179 -389.16,0 V 53.513"
+         inkscape:connector-curvature="0"
+         style="fill:url(#linearGradient7631);stroke-width:0.71867704" />
+      <path
+         id="path4316-4"
+         d="m 225.42,53.506 v 665.97 c 0,5.523 -4.477,37.582 -10,37.582 -5.522,0 -10,-32.059 -10,-37.582 V 53.506 Z"
+         enable-background="new    "
+         inkscape:connector-curvature="0"
+         style="opacity:0.5;fill:url(#linearGradient7629);stroke-width:0.71867704" />
+    </g>
+  </g>
+</svg>
