@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="467.12961mm"
+   height="209.54582mm"
+   viewBox="0 0 467.12961 209.54583"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Pulsos-periodicos-1.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-63"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-20"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0-4-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6-7-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0-4-6-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6-7-2-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7-4-0-4-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path972-5-3-6-7-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="933.17805"
+     inkscape:cy="400.18399"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(140.38731,39.247318)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.56520796;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2225"
+       width="467.12961"
+       height="209.54582"
+       x="-140.38731"
+       y="-39.247318"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(140.38731,39.247318)">
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.42982948;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2954-1"
+       width="84.991707"
+       height="34.745033"
+       x="91.940712"
+       y="-20.783474"
+       ry="11.055239"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.58749998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2954"
+       width="104.76965"
+       height="34.745033"
+       x="-87.664413"
+       y="-2.3418834"
+       ry="11.055239"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.33486569;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect861-6"
+       width="90.209869"
+       height="60.034382"
+       x="-73.890938"
+       y="70.601921"
+       ry="4.4729714"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -98.171882,100.49168 h 23.55829"
+       id="path865-3-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.035032,100.45137 H 87.380146"
+       id="path865-3-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="3.779762"
+       y="92.492142"
+       x="-112.93134"
+       height="15.993097"
+       width="15.615121"
+       id="rect948"
+       style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path866"
+       d="m -74.255712,93.835379 9.07143,7.181551 -9.07143,7.55952"
+       style="fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       d="m -32.960205,120.13911 c -0.741467,-1.27564 -1.890909,-2.52469 -4.069038,-4.42118 -1.179913,-1.0272 -1.897679,-1.59767 -5.984209,-4.75453 -3.202865,-2.47489 -4.800911,-3.84788 -6.652885,-5.71664 -1.850844,-1.86876 -2.93878,-3.3572 -3.872102,-5.297836 -0.595882,-1.239426 -1.00555,-2.433576 -1.260605,-3.674133 -0.323334,-1.576165 -0.367348,-2.109854 -0.365656,-4.430806 0.0022,-3.045366 0.1027,-3.551888 1.102607,-5.583642 0.74316,-1.508816 1.307441,-2.303408 2.482841,-3.49699 1.141542,-1.158495 1.882445,-1.684828 3.485005,-2.477153 1.78031,-0.880615 3.068001,-1.111522 5.72069,-1.026063 2.061322,0.06678 2.815767,0.271655 4.449928,1.21226 2.571997,1.479954 4.567862,3.8558 5.120294,6.095256 0.09028,0.366169 0.183392,0.666121 0.207092,0.666121 0.0237,0 0.23192,-0.428423 0.462711,-0.951924 0.78548,-1.779906 1.515096,-2.865961 2.674132,-3.983142 3.54877,-3.421718 9.143623,-4.040301 13.667472,-1.512211 1.847458,1.03229 3.350706,2.535445 4.515384,4.515131 0.916958,1.558054 1.3858755,3.627726 1.4660049,6.470481 0.1156764,4.118403 -0.6376399,6.972477 -2.6425339,10.013881 -0.795637,1.20717 -1.384184,1.93837 -2.487919,3.09064 -1.780871,1.86027 -3.38682,3.2276 -7.17823,6.11111 -2.392554,1.81952 -3.810594,2.98933 -5.862889,4.83885 -1.644881,1.48165 -4.193178,4.06124 -4.438641,4.49249 -0.107213,0.18847 -0.20427,0.3424 -0.215556,0.3424 -0.01129,0 -0.15687,-0.23486 -0.323897,-0.52237 z"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;stroke:none;stroke-width:0.81011224;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g992"
+       transform="matrix(0.80956104,0,0,0.80956104,-95.709867,50.543006)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="path992-2"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.60844254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1773-2-3-1-8-9"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52110636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-70.465523"
+       y="148.11674"
+       id="text3413-8"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3411-3"
+         x="-70.465523"
+         y="148.11674"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332">Corazón de tics</tspan></text>
+    <rect
+       style="opacity:1;fill:#c0dfeb;fill-opacity:1;stroke:#777777;stroke-width:1.43441415;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect861"
+       width="96.731133"
+       height="65.077347"
+       x="87.499367"
+       y="51.480995"
+       ry="3.2552433"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 61.813308,67.83337 H 88.017436"
+       id="path865-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.09072,100.82922 h 7.49872"
+       id="path865-3-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="3.9584215"
+       y="59.377571"
+       x="45.44072"
+       height="16.74905"
+       width="16.354315"
+       id="rect948-7"
+       style="opacity:1;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:1.05833328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       transform="scale(0.99152327,1.0085492)"
+       id="text986-8"
+       y="93.660927"
+       x="190.34381"
+       style="font-style:normal;font-weight:normal;font-size:13.36162949px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.26458332"
+         y="93.660927"
+         x="190.34381"
+         id="tspan984-5"
+         sodipodi:role="line">tic</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.90174,67.525769 h 50.98621"
+       id="path865-3-6-6-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text986-2"
+       y="61.057076"
+       x="189.32454"
+       style="font-style:normal;font-weight:normal;font-size:13.4758606px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#777777;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#777777;stroke-width:0.26458332"
+         y="61.057076"
+         x="189.32454"
+         id="tspan984-9"
+         sodipodi:role="line">p</tspan></text>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.9923,43.04516 v 8.22308"
+       id="path865-3-6-1-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path866-6"
+       d="m 87.674716,60.31991 9.07143,7.18154 -9.07143,7.55953"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,97.8757,59.7826)"
+       id="g1095"
+       style="display:inline"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         style="fill:#ffffff;stroke-width:0.38559324"
+         id="circle5"
+         cx="149.0856"
+         cy="90.681473"
+         r="70.100853" />
+      <path
+         style="fill:#333333;stroke-width:0.38559324"
+         inkscape:connector-curvature="0"
+         id="path7"
+         d="m 149.0856,13.678511 c -42.53093,0 -77.002971,34.47204 -77.002971,77.00296 0,42.530939 34.472041,77.002979 77.002971,77.002979 42.53093,0 77.00297,-34.47204 77.00297,-77.002979 0,-42.53092 -34.47204,-77.00296 -77.00297,-77.00296 z m 0,145.175849 c -37.67246,0 -68.172891,-30.53898 -68.172891,-68.172889 0,-37.63389 30.538991,-68.17288 68.172891,-68.17288 37.6339,0 68.17288,30.53899 68.17288,68.17288 0,37.633909 -30.53898,68.172889 -68.17288,68.172889 z" />
+      <path
+         style="fill:#333333;stroke-width:0.38559324"
+         inkscape:connector-curvature="0"
+         id="path9"
+         d="m 146.77204,30.683171 h 4.62712 v 18.2 h -4.62712 z m -57.646961,62.28179 v -4.62712 h 18.200001 v 4.62712 z m 62.261361,57.665089 h -4.62712 v -18.20001 h 4.62712 z m 57.64695,-62.279479 v 4.62712 h -18.2 v -4.62712 z m -103.98909,-38.44635 3.27176,-3.27176 12.86917,12.86918 -3.27176,3.27176 z m 3.28063,84.789639 -3.27176,-3.27176 12.86917,-12.86956 3.27214,3.27176 z m 84.77305,-3.26443 -3.27176,3.27215 -12.86956,-12.86957 3.27215,-3.27176 z m -3.24785,-84.789249 3.27176,3.27176 -12.86918,12.86955 -3.27214,-3.27176 z" />
+      <circle
+         style="fill:#333333;stroke-width:0.38559324"
+         id="circle11"
+         cx="149.0856"
+         cy="90.681473"
+         r="4.7813559" />
+      <path
+         style="fill:#333333;stroke-width:0.38559324"
+         inkscape:connector-curvature="0"
+         id="path13"
+         d="m 149.79509,70.652611 2.72229,0.28842 -2.10919,19.90008 -2.72229,-0.28842 z" />
+      <path
+         style="fill:#333333;stroke-width:0.38559324"
+         inkscape:connector-curvature="0"
+         id="path15"
+         d="m 181.26066,72.129051 1.27515,2.42267 -32.85871,17.29656 -1.27516,-2.42268 z" />
+      <path
+         style="fill:#cf000f;stroke-width:0.38559324"
+         inkscape:connector-curvature="0"
+         id="path17"
+         d="m 152.0161,80.386141 c -1.07965,0 -1.92796,0.88686 -1.92796,1.92796 0,0.65551 0.30847,1.2339 0.80975,1.58094 l -14.6911,41.451269 1.00253,0.34703 14.69111,-41.451269 h 0.11567 c 1.07967,0 1.92797,-0.88687 1.92797,-1.92797 0,-1.0411 -0.8483,-1.92796 -1.92797,-1.92796 z" />
+      <g
+         id="g992-7"
+         transform="matrix(2.997959,0,0,2.997959,-53.023358,-84.501622)">
+        <circle
+           r="14.559162"
+           cy="73.815468"
+           cx="100.60208"
+           id="path992-2-5"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.60844254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1773-2-3-1-8-9-3"
+           d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+           style="fill:none;stroke:#008000;stroke-width:1.52110636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g992-3"
+         transform="matrix(2.997959,0,0,2.997959,-257.0411,-84.501617)">
+        <circle
+           r="14.559162"
+           cy="73.815468"
+           cx="100.60208"
+           id="path992-2-6-1"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.60844254;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1773-2-3-1-8-9-7"
+           d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+           style="fill:none;stroke:#008000;stroke-width:1.52110636;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <circle
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:1.82408583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path992-2-3"
+         cx="248.57755"
+         cy="44.559814"
+         r="43.64777" />
+      <path
+         style="fill:none;stroke:#008000;stroke-width:4.56021452;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 279.21607,57.210731 h -5.00918 v -27.19386 h -51.31 v 26.98099 h -5.45711"
+         id="path1773-2-3-1-8-9-5-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:none;stroke:#777777;stroke-width:1.58749998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -31.164996,62.057064 v 8.22308"
+       id="path865-3-6-1-2-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="120.20567"
+       y="132.28195"
+       id="text3413-8-6"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3411-3-2"
+         x="120.20567"
+         y="132.28195"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';stroke-width:0.26458332">Timer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-35.200119"
+       y="10.588013"
+       id="text3221-4-9"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-35.200119"
+         y="10.588013"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4780-2-1">Parámetro:</tspan><tspan
+         sodipodi:role="line"
+         x="-35.200119"
+         y="23.817179"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan6110-2">Periodo/frecuencia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="136.24124"
+       y="-6.8981566"
+       id="text3221-4-9-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="136.24124"
+         y="-6.8981566"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4780-2-1-0">Parámetro:</tspan><tspan
+         sodipodi:role="line"
+         x="136.24124"
+         y="6.3310094"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan6110-2-9">Anchura pulso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="265.35806"
+       y="17.156099"
+       id="text3221-4-9-7-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="265.35806"
+         y="17.156099"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan4780-2-1-0-6">Salida de la</tspan><tspan
+         sodipodi:role="line"
+         x="265.35806"
+         y="30.385265"
+         style="text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan6110-2-9-0">señal periódica</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-7-4-0-4-6)"
+       d="m -35.289356,27.794963 3.446293,27.954501"
+       id="path3227-1-8-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-7-4-0-4-6-8)"
+       d="m 132.2767,11.985808 3.17903,24.747266"
+       id="path3227-1-8-8-6-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-7-4-0-4-2)"
+       d="M 261.00184,35.564775 237.72118,61.38112"
+       id="path3227-1-8-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Pulsos-periodicos-01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
