@@ -29,11 +29,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="435.44434"
-     inkscape:cy="684.33163"
+     inkscape:zoom="2.8000001"
+     inkscape:cx="639.22375"
+     inkscape:cy="215.45217"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1052"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -92,13 +92,20 @@
        id="image4218"
        x="35.325615"
        y="33.128643" />
+    <rect
+       style="opacity:1;fill:#ffc600;fill-opacity:1;stroke:none;stroke-width:9.375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect821"
+       width="146.78778"
+       height="101.33092"
+       x="-209.56895"
+       y="541.36639" />
   </g>
   <g
      inkscape:label="Caso-10-dedo"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(290.75995,-23.45966)"
-     style="display:none">
+     style="display:inline">
     <image
        y="75.338303"
        x="130.27995"
@@ -111,6 +118,27 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-3/Foto-05.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.17358,774.91175 4.44458,-3.41046 v 0"
+       id="path850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 282.36218,774.91175 -3.97119,-3.41046"
+       id="path852"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 343.17359,835.96149 4.44457,4.37525"
+       id="path854"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 282.36218,835.96149 -3.97119,4.37525"
+       id="path856"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -135,7 +163,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="dedo-2"
-     style="display:inline"
+     style="display:none"
      transform="translate(385.71429,18.75)">
     <image
        y="734.30145"
@@ -149,5 +177,25 @@
        inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-3/Foto-09.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Caso-0">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.91697729;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833"
+       width="69.227158"
+       height="68.835442"
+       x="569.15094"
+       y="748.04163" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.40265691;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect833-3"
+       width="60.811405"
+       height="61.04977"
+       x="573.12213"
+       y="751.45209"
+       ry="1.8843114" />
   </g>
 </svg>
