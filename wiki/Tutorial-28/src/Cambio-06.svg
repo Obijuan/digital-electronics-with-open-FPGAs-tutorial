@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="756.25232mm"
+   height="240.99312mm"
+   viewBox="0 0 756.25232 240.99312"
+   version="1.1"
+   id="svg1134"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Cambio-06.svg">
+  <defs
+     id="defs1128">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3455"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-7-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253-0-8"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-3-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253-0"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-3"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-28"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-9"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-7-1-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253-0-8-6"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9-7-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-3-9-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-7-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253-0-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-9-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-3-2"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1253-1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1262-7"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3455-0"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1347.3246"
+     inkscape:cy="405.26833"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="true"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1131">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(380.84976,23.969095)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.02947938;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2754"
+       width="755.22284"
+       height="239.96364"
+       x="-380.33502"
+       y="-23.454355"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.27718449px;line-height:1.25;font-family:Segment7;-inkscape-font-specification:Segment7;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.76732403;"
+       x="64.023193"
+       y="51.803013"
+       id="text5373"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan5371"
+         x="64.023193"
+         y="51.803013"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.76732403;fill:#0000ff;">tic</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(465.8522,22.690003)">
+    <image
+       y="45.629498"
+       x="-458.24841"
+       id="image3402"
+       xlink:href="data:image/png;base64,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
+Oj6NgHZSJ7r3YPeSlxvWCj3w6O8uGD4BIi0xDOt1LYsynqWwsm37tx8pP8KfPn2KcXG3EBqopZdE
+REQ6K42AdmKViUnk3jcfy97dHLl7brPHh1miSY65kX/ue5PkyAFc3vvyFl/rg9wP2Fv2NVfY78Zi
+Dm5P2SIiIuLlFEA7uZYEz7P1CAhnUvyPycz/kJcyl9MnuCc9u/UkKjCKsMCwhuOKKos4WnWUo5VH
+OXDsMCGWeCb0u9PV5YuIiIgXUgCVNkmyXkHh8W84WnWInPJ9lFZ/iLOugpjgPuQezyXAN5iQwCi6
+mXuS0PNKwrpFerpkERERuUgogEqbRQb3IjK413mvX+qBWkRERMR7aBKSiIiIiBhKAVREREREDKUA
+KiIiIiKGUgB1A7PZjLOmxtNldDrOmhrMZrOnyxAREZFmKIC6gdVqpTT/sKfL6HRK8w9jtVo9XYaI
+iIg0QwHUDSZNmsSXWzZqFNRAzpoavtyykUmTJnm6FBEREWmGAqgb2O12LhuZzJbXX6Yg5ysFUTdy
+1tRQkPMVW15/mctGJmO32z1dkoiIiDTDp76+vt7TRXRU2dnZpKenk5+fj8Ph8HQ5HZLZbMZqtTJp
+0iSFTxERES+hACoiIiIihtIteBERERExlAKoiIiIiBhKAVREREREDKUAKiIiIiKGUgAVEREREUMp
+gIqIiIiIoRRARURERMRQCqAiIiIiYigFUBERERExlAKoiIiIiBhKAVREREREDKUAKiIiIiKGUgAV
+EREREUMpgIqIiIiIoRRARURERMRQCqAiIiIiYigFUBERERExlAKoiIiIiBhKAVREREREDKUAKiIi
+IiKGUgAVEREREUMpgIqIiIiIoRRARURERMRQCqAiIiIiYigFUBERERExlAKoiIiIiBhKAVRERERE
+DKUAKiIiIiKGUgAVEREREUMpgIqIiIiIoRRARURERMRQCqAiIiIiYigFUBERERExlAKoiIiIiBhK
+AVREREREDKUAKiIiIiKGUgAVEREREUMpgIqIiIiIoRRARURERMRQCqAiIiIiYigFUBERERExlAKo
+iIiIiBhKAVREREREDKUAKiIiIiKGUgAVEREREUMpgIqIiIiIoRRARURERMRQCqAiIiIiYigFUBER
+ERExlAKoiIiIiBhKAVREREREDKUAKiIiIiKGUgAVEREREUMpgIqIiIiIoRRARURERMRQCqAiIiIi
+YigFUBERERExlAKoiIiIiBhKAVREREREDKUAKiIiIiKG+v9Fhh/pV1gZbwAAAABJRU5ErkJggg==
+"
+       preserveAspectRatio="none"
+       height="164.32442"
+       width="415.13535"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.5291667;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2814"
+       cx="-54.533707"
+       cy="58.101166"
+       r="13.898015"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.3643997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL);marker-end:url(#TriangleOutL)"
+       d="M -29.365524,125.26697 H 4.1816159"
+       id="path1088"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -32.137598,165.46238 V 131.8225 H 7.3609242 v 33.63988 H 46.859427"
+       id="path1051"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.529, 1.58699998;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -32.137598,96.815352 V 139.94152"
+       id="path2751-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 46.859427,165.46238 V 131.8225 h 39.49852 v 33.63988 h 39.498503"
+       id="path1051-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 125.85645,165.46238 V 131.8225 h 39.49852 v 33.63988 h 39.4985"
+       id="path1051-6-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-28)"
+       d="M -32.237899,184.54413 H 277.42754"
+       id="path1088-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="220.39679"
+       y="180.12573"
+       id="text2152-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2150-6"
+         x="220.39679"
+         y="180.12573"
+         style="fill:#000000;stroke-width:0.26458332">Tiempo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-27.080927"
+       y="120.24146"
+       id="text1338-36"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1336-7"
+         x="-27.080927"
+         y="120.24146"
+         style="stroke-width:0.26458332">500ms</tspan></text>
+    <g
+       id="g2849"
+       transform="translate(261.55952,81.264881)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g2843">
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-5"
+           cx="-42.262909"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-0-6"
+           cx="-31.679564"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-2-2"
+           cx="-19.206354"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-9);marker-end:url(#TriangleOutL-2)"
+       d="M -27.784696,21.83366 H 42.958489"
+       id="path1088-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -32.137598,75.12528 V 41.4854 h 6.357099 v 33.63988 h 72.639928"
+       id="path1051-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52900001, 1.587;stroke-dashoffset:0;stroke-opacity:1"
+       d="M -32.137598,6.4782517 V 49.60442"
+       id="path2751-5-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.86342132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.86342134, 2.59026413;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 46.859437,11.247303 V 137.11337"
+       id="path2751-5-6-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-18.261028"
+       y="14.937268"
+       id="text1338-36-2"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1336-7-61"
+         x="-18.261028"
+         y="14.937268"
+         style="stroke-width:0.26458332">T=1000ms</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.88414055;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.88414057, 2.65242185;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 125.85644,11.247303 V 139.00326"
+       id="path2751-5-6-2-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-3);marker-end:url(#TriangleOutL-9-6)"
+       d="M 50.577547,21.83366 H 121.32073"
+       id="path1088-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="83.414566"
+       y="17.583096"
+       id="text1338-36-0-9"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1336-7-6-20"
+         x="83.414566"
+         y="17.583096"
+         style="stroke-width:0.26458332">T</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.82194638;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.82194639, 2.46583933;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 204.85347,11.2473 V 165.46238"
+       id="path2751-5-6-26-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52916682;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL-7-1-3);marker-end:url(#TriangleOutL-9-7-7)"
+       d="m 129.95255,21.83366 h 70.74318"
+       id="path1088-6-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="162.78957"
+       y="17.583096"
+       id="text1338-36-0-0-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1336-7-6-2-5"
+         x="162.78957"
+         y="17.583096"
+         style="stroke-width:0.26458332">T</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 46.859426,75.503255 v -33.63988 h 6.357099 v 33.63988 h 72.639925"
+       id="path1051-9-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 125.85645,75.503255 v -33.63988 h 6.3571 v 33.63988 h 72.63992"
+       id="path1051-9-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.89071846px;line-height:1.25;font-family:Segment7;-inkscape-font-specification:Segment7;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1181699"
+       x="-60.06657"
+       y="64.031273"
+       id="text2812"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2810"
+         x="-60.06657"
+         y="64.031273"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.1181699">1</tspan></text>
+    <g
+       id="g2849-2"
+       transform="translate(261.55951,174.625)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g2843-8">
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-5-9"
+           cx="-42.262909"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-0-6-7"
+           cx="-31.679564"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path2777-2-2-2-3"
+           cx="-19.206354"
+           cy="-23.653744"
+           r="3.0316777"
+           inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-26/Tic-01.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <circle
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2814-6"
+       cx="-54.533707"
+       cy="149.57141"
+       r="13.898015"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.89071846px;line-height:1.25;font-family:Segment7;-inkscape-font-specification:Segment7;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1181699"
+       x="-60.066566"
+       y="155.50151"
+       id="text2812-1"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2810-2"
+         x="-60.066566"
+         y="155.50151"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.1181699">2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.52899998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.52900001, 1.587;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 7.1510236,96.815352 V 139.94152"
+       id="path2751-5-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.52916676;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2814-3"
+       cx="-314.29092"
+       cy="79.482727"
+       r="13.898015"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.89071846px;line-height:1.25;font-family:Segment7;-inkscape-font-specification:Segment7;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1181699"
+       x="-319.82379"
+       y="85.412834"
+       id="text2812-19"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2810-4"
+         x="-319.82379"
+         y="85.412834"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.1181699">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="m -322.74946,152.75662 c 0,0 -7.55954,-11.71726 -7.55954,-27.59226 0,-15.875 7.93752,-28.726194 7.93752,-28.726194"
+       id="path3426"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#000000;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2814-6-7"
+       cx="-161.87895"
+       cy="68.684509"
+       r="13.898015"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.89071846px;line-height:1.25;font-family:Segment7;-inkscape-font-specification:Segment7;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1181699"
+       x="-167.4118"
+       y="74.614609"
+       id="text2812-1-8"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2810-2-4"
+         x="-167.4118"
+         y="74.614609"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:1.1181699">2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
+       d="m -187.4843,133.10543 c 0,0 -4.57479,-13.1724 -0.82132,-28.59728 3.75346,-15.424892 14.50444,-26.034971 14.50444,-26.034971"
+       id="path3426-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/Cambio-10.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
