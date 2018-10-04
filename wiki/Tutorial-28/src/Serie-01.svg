@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="689.55536mm"
+   height="493.69913mm"
+   viewBox="0 0 689.55536 493.69913"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Serie-01.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2645"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2643" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path912" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2645-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2643-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-36"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker2645-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2643-28"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-5-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-3-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0-8-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0-2"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92-1-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0-2-9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-92-2-78"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-0-8-4"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow2Mend-5-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path906-3-3"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1100.2802"
+     inkscape:cy="903.12673"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(186.01959,-23.530905)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32291651;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1558"
+       width="689.55536"
+       height="493.69913"
+       x="-186.01959"
+       y="23.530905"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20.5811882px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="-91.138824"
+       y="85.83989"
+       id="text5114"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         id="tspan5112"
+         x="-91.138824"
+         y="85.83989"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.26458329">Dato Serie</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(186.01959,-23.530905)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087"
+       width="78.619049"
+       height="64.255951"
+       x="9.4494085"
+       y="112.16963"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087-5"
+       width="78.619049"
+       height="64.255951"
+       x="121.70834"
+       y="112.16963"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5)"
+       d="M 88.068452,143.16286 H 119.19113"
+       id="path1138"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087-5-6"
+       width="78.619049"
+       height="64.255951"
+       x="234.34525"
+       y="112.16963"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087-0"
+       width="78.619049"
+       height="64.255951"
+       x="10.086789"
+       y="213.73206"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087-0-0"
+       width="78.619049"
+       height="64.255951"
+       x="123.40907"
+       y="213.73206"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <rect
+       style="opacity:1;fill:#d5f6ff;fill-opacity:1;stroke:#000000;stroke-width:1.32291663;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1087-0-0-8"
+       width="78.619049"
+       height="64.255951"
+       x="239.06978"
+       y="213.73206"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <g
+       id="layer3"
+       inkscape:label="Layer 3"
+       transform="matrix(0.54186971,0,0,0.54186971,102.70387,336.40043)"
+       style="display:inline;fill:#ffffff;stroke-width:1.84546208"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.76726556;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect863"
+         width="205.37289"
+         height="277.53043"
+         x="15.767124"
+         y="5.9663706"
+         ry="2.6546376"
+         inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-24/display-04.png"
+         inkscape:export-xdpi="25"
+         inkscape:export-ydpi="25" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92)"
+       d="M 48.64399,175.65963 V 211.8046"
+       id="path1560"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-5)"
+       d="m 200.70536,143.16286 h 31.12267"
+       id="path1138-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92-2)"
+       d="M 163.03535,175.65963 V 211.8046"
+       id="path1560-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92-2-7)"
+       d="M 277.96125,175.65963 V 211.8046"
+       id="path1560-9-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92-1)"
+       d="m 51.316685,277.22205 89.802565,61.26831"
+       id="path1560-93"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92-1-1)"
+       d="m 282.49815,277.22205 -89.80256,61.26831"
+       id="path1560-93-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-92-2-78)"
+       d="m 163.03535,278.29113 v 60.19923"
+       id="path1560-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.32291663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-5-0)"
+       d="M -25.253828,143.16286 H 5.8688503"
+       id="path1138-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:20.5811882px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="-83.655281"
+       y="256.8924"
+       id="text5114-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         id="tspan5112-2"
+         x="-83.655281"
+         y="256.8924"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';stroke-width:0.26458329">Dato paralelo</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Display-0"
+     style="display:none"
+     transform="translate(2.2851563e-6,21.166666)">
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:connector-curvature="0"
+       id="path827"
+       d="m 318.04695,357.58535 c -0.48695,-1.58377 7.69341,-43.13789 8.29031,-43.66882 0.59691,-0.53093 2.9182,-1.92462 3.5151,-1.85825 0.5969,0.0664 7.56077,7.69845 7.82606,8.56122 0.26529,0.86275 -6.01054,38.2804 -6.63226,39.28866 -0.46559,0.75507 -4.57625,5.11019 -6.10167,4.97745 -1.52542,-0.13273 -6.4106,-5.71649 -6.89754,-7.30026 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       inkscape:connector-curvature="0"
+       id="path829"
+       d="m 332.23997,311.19552 5.90271,7.16753 41.51791,-0.46457 c 0,0 9.61678,-7.30026 9.01986,-8.95941 -0.59689,-1.65914 -3.05083,-2.85373 -3.05083,-2.85373 0,0 -46.75739,-0.33183 -49.27765,0.53093 -2.52026,0.86275 -4.37729,2.721 -4.37729,3.31829 0,0.5973 0.26529,1.26096 0.26529,1.26096 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       sodipodi:nodetypes="zccccsz"
+       inkscape:connector-curvature="0"
+       id="path831"
+       d="m 374.43456,360.93148 c -0.82737,-2.16577 6.6125,-41.34344 6.98768,-42.00043 0.37517,-0.65698 8.30079,-6.99224 9.52011,-6.85147 1.21932,0.14079 3.42349,1.92405 3.75177,2.90953 0.32828,0.98549 -6.33111,42.61048 -6.75318,43.59597 -0.42208,0.98548 -6.23732,6.66376 -7.78493,6.80454 -1.5476,0.14078 -4.89407,-2.29238 -5.72145,-4.45814 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       sodipodi:nodetypes="zzsccsz"
+       inkscape:connector-curvature="0"
+       id="path854"
+       d="m 314.86347,375.50416 c 0.89441,-1.76838 6.96386,-6.50386 8.8209,-6.57023 1.85703,-0.0664 4.11199,2.85375 4.37728,4.38015 0.26529,1.52642 -6.96387,43.27064 -7.9587,44.86342 -0.99484,1.59278 -7.29548,7.30026 -8.88722,7.36663 -1.59174,0.0664 -4.37729,-3.18557 -4.57626,-4.77836 -0.19897,-1.59279 7.32958,-43.49322 8.224,-45.26161 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:connector-curvature="0"
+       id="path856"
+       d="m 322.29159,418.70842 c 2.43329,-1.14214 41.59515,-1.42772 43.04333,-0.79638 1.44819,0.63133 6.7649,5.70747 6.89755,7.76481 0.13264,2.05735 -3.58142,4.84472 -5.10684,5.11018 -1.52542,0.26547 -50.6041,1.85824 -51.99687,0.99549 -1.39278,-0.86275 -2.78555,-2.58827 -2.9182,-3.78286 -0.13264,-1.19458 7.64774,-8.1491 10.08103,-9.29124 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       sodipodi:nodetypes="zczczz"
+       inkscape:connector-curvature="0"
+       id="path858"
+       d="m 365.79918,414.12917 c -0.91185,-2.68618 6.05605,-38.08693 6.6188,-39.2132 0.56277,-1.12626 3.86689,-5.26159 6.00285,-5.0682 2.13594,0.19339 5.62764,4.12964 6.28421,5.91291 0.65656,1.78325 -4.74324,48.72513 -8.59217,48.83911 -3.84895,0.11398 -9.40184,-7.78443 -10.31369,-10.47062 z"
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.95762771;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Display-5"
+     style="display:inline"
+     transform="translate(2.2851563e-6,21.166666)">
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       sodipodi:nodetypes="zcccscz"
+       inkscape:connector-curvature="0"
+       id="path827-0"
+       d="m 318.04695,357.58535 c -0.48695,-1.58377 7.69341,-43.13789 8.29031,-43.66882 0.59691,-0.53093 2.9182,-1.92462 3.5151,-1.85825 0.5969,0.0664 7.56077,7.69845 7.82606,8.56122 0.26529,0.86275 -6.01054,38.2804 -6.63226,39.28866 -0.46559,0.75507 -4.57625,5.11019 -6.10167,4.97745 -1.52542,-0.13273 -6.4106,-5.71649 -6.89754,-7.30026 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:connector-curvature="0"
+       id="path829-6"
+       d="m 332.23997,311.19552 5.90271,7.16753 41.51791,-0.46457 c 0,0 9.61678,-7.30026 9.01986,-8.95941 -0.59689,-1.65914 -3.05083,-2.85373 -3.05083,-2.85373 0,0 -46.75739,-0.33183 -49.27765,0.53093 -2.52026,0.86275 -4.37729,2.721 -4.37729,3.31829 0,0.5973 0.26529,1.26096 0.26529,1.26096 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       sodipodi:nodetypes="zzzzcsz"
+       inkscape:connector-curvature="0"
+       id="path852-5"
+       d="m 332.88372,361.21303 c 1.86207,-0.49448 36.65561,-0.40991 38.43161,-0.0198 1.77599,0.39015 5.55968,3.92351 5.62604,6.08152 0.0664,2.15802 -3.91303,4.84472 -5.50478,5.84021 -1.59173,0.99549 -37.93649,0.86276 -39.1303,0.26546 -1.1938,-0.5973 -5.96903,-4.97744 -5.96903,-6.4375 0,-1.46005 4.68437,-5.23543 6.54646,-5.72991 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       sodipodi:nodetypes="zzccssz"
+       inkscape:connector-curvature="0"
+       id="path856-4"
+       d="m 322.29159,418.70842 c 2.43329,-1.14214 41.59515,-1.42772 43.04333,-0.79638 1.44819,0.63133 6.7649,5.70747 6.89755,7.76481 0.13264,2.05735 -3.58142,4.84472 -5.10684,5.11018 -1.52542,0.26547 -50.6041,1.85824 -51.99687,0.99549 -1.39278,-0.86275 -2.78555,-2.58827 -2.9182,-3.78286 -0.13264,-1.19458 7.64774,-8.1491 10.08103,-9.29124 z"
+       style="display:inline;fill:#ff0000;stroke:#000000;stroke-width:0.95762777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="25"
+       inkscape:export-xdpi="25"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       sodipodi:nodetypes="zczczz"
+       inkscape:connector-curvature="0"
+       id="path858-7"
+       d="m 365.79918,414.12917 c -0.91185,-2.68618 6.05605,-38.08693 6.6188,-39.2132 0.56277,-1.12626 3.86689,-5.26159 6.00285,-5.0682 2.13594,0.19339 5.62764,4.12964 6.28421,5.91291 0.65656,1.78325 -4.74324,48.72513 -8.59217,48.83911 -3.84895,0.11398 -9.40184,-7.78443 -10.31369,-10.47062 z"
+       style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.95762777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="serie-1"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(2.2851563e-6,21.166666)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="235.54393"
+       y="117.51577"
+       id="text2645-3-3-7-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="235.54393"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="347.80289"
+       y="117.51577"
+       id="text2645-3-3-7-3-3"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="347.80289"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-5">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="460.43982"
+       y="117.51577"
+       id="text2645-3-3-7-3-3-2"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460.43982"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-5-9">0</tspan></text>
+    <g
+       style="display:inline"
+       id="g1197"
+       transform="matrix(0.30103424,0,0,0.30103424,81.409831,72.729597)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         id="text4142"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.18403625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1207"
+       transform="matrix(0.28221808,0,0,0.28221808,127.18692,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-1"
+       transform="matrix(0.28221808,0,0,0.28221808,40.252401,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-0"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-6"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="serie-2"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(2.2851563e-6,21.166666)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="347.80289"
+       y="117.51577"
+       id="text2645-3-3-7-3-3-9"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="347.80289"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-5-3">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="460.43982"
+       y="117.51577"
+       id="text2645-3-3-7-3-3-2-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460.43982"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-5-9-4">0</tspan></text>
+    <g
+       style="display:inline"
+       id="g1197-5"
+       transform="matrix(0.30103424,0,0,0.30103424,126.84565,72.729597)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-2"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         id="text4142-5"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.18403625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-4"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-7"
+       transform="matrix(0.28221808,0,0,0.28221808,223.40395,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-4"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-1-3"
+       transform="matrix(0.28221808,0,0,0.28221808,83.550064,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-0-0"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-6-7"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="serie-3"
+     style="display:none"
+     sodipodi:insensitive="true"
+     transform="translate(2.2851563e-6,21.166666)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="460.43982"
+       y="117.51577"
+       id="text2645-3-3-7-3-3-2-7-8"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-6/Foto-14.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="460.43982"
+         y="117.51577"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-5-9-4-8">0</tspan></text>
+    <g
+       style="display:inline"
+       id="g1197-5-4"
+       transform="matrix(0.30103424,0,0,0.30103424,222.8516,72.729597)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-2-3"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         id="text4142-5-1"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.18403625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-4-4"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-7-9"
+       transform="matrix(0.28221808,0,0,0.28221808,337.55276,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-4-2"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-4-0"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-1-3-6"
+       transform="matrix(0.28221808,0,0,0.28221808,129.66316,73.266098)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-0-0-8"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-6-7-9"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="serie-4"
+     style="display:inline"
+     transform="translate(2.2851563e-6,21.166666)">
+    <g
+       style="display:inline"
+       id="g1197-5-4-6"
+       transform="matrix(0.30103424,0,0,0.30103424,337.24296,72.729597)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-2-3-4"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         id="text4142-5-1-9"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.18403625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-4-4-5"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-7-9-0"
+       transform="matrix(0.28221808,0,0,0.28221808,449.80597,73.266098)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-4-2-4"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-4-0-8"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-1-3-6-7"
+       transform="matrix(0.28221808,0,0,0.28221808,223.20749,73.266098)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-0-0-8-1"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-6-7-9-7"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="paralelo-0"
+     style="display:none"
+     transform="translate(2.2851563e-6,21.166666)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="236.18132"
+       y="219.07817"
+       id="text2645-3-3-7-3-9"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         x="236.18132"
+         y="219.07817"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-3">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="349.5036"
+       y="219.07817"
+       id="text2645-3-3-7-3-9-6"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         x="349.5036"
+         y="219.07817"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-3-2">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:52.71959686px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458329"
+       x="465.16431"
+       y="219.07817"
+       id="text2645-3-3-7-3-9-6-7"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-04.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25"><tspan
+         sodipodi:role="line"
+         x="465.16431"
+         y="219.07817"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.26458329"
+         id="tspan2665-7-0-6-3-2-9">0</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="paralelo-5"
+     style="display:inline"
+     transform="translate(2.2851563e-6,21.166666)">
+    <g
+       style="display:inline"
+       id="g1197-5-4-6-2"
+       transform="matrix(0.30103424,0,0,0.30103424,337.24297,175.53912)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         d="m 69.663915,107.27802 13.49404,29.37369 -12.43879,31.77467 13.78754,4.28258 m -42.76081,-62.91563 c 0,0 -3.59775,26.95638 -8.52446,29.13197 -4.92342,2.17885 -32.22147896,22.40266 -32.22147896,22.40266 l 8.72891596,10.6362"
+         id="path6-2-3-4-7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/0-legs.png"
+         transform="scale(0.91185408,1.0966667)"
+         id="text4142-5-1-9-2"
+         y="100.34553"
+         x="-5.3533745"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:179.18403625px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000"
+           y="100.34553"
+           x="-5.3533745"
+           id="tspan4144-4-4-5-2"
+           sodipodi:role="line">o</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-7-9-0-6"
+       transform="matrix(0.28221808,0,0,0.28221808,449.80598,176.07562)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-4-2-4-1"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-4-0-8-0"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+    <g
+       style="display:inline"
+       id="g1207-1-3-6-7-6"
+       transform="matrix(0.28221808,0,0,0.28221808,223.20749,176.07562)"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-28/src/Anim-8/Foto-05.png"
+       inkscape:export-xdpi="25"
+       inkscape:export-ydpi="25">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:#008000;fill-rule:evenodd"
+         id="path4-0-0-8-1-1"
+         d="M 7.7019847,32.420349 49.971451,-2.7537751e-4 84.179061,7.7250886 56.845733,124.46091 30.238601,118.4517 51.260038,25.272431 20.02273,44.198627 Z" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Bits/png/1-legs.png"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#008000;stroke-width:2.1960001;stroke-linecap:round;stroke-linejoin:round"
+         id="path6-7-6-7-9-7-5"
+         d="m 46.13026,117.28062 21.354503,28.25706 -17.909171,21.36821 6.197228,5.51272 m -14.03249,-54.44992 -12.399917,28.25978 -28.2424357,5.51272 2.066653,8.95851" />
+    </g>
+  </g>
+</svg>
