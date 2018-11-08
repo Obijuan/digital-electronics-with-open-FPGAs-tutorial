@@ -20,8 +20,8 @@ void fpga_write(int value) {
 
 void loop() {
 
-   fpga_write(0x55);
-   delay(500);
-   fpga_write(0xAA);
-   delay(500);
+   fpga_write(0xF0);
+   delay(200);
+   fpga_write(0x0F);
+   delay(200);
 }
