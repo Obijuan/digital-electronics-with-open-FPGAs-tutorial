@@ -1802,11 +1802,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="624.20192"
-     inkscape:cy="738.1907"
+     inkscape:zoom="0.7"
+     inkscape:cx="847.25045"
+     inkscape:cy="384.07819"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:window-width="1920"
@@ -1826,7 +1826,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2252,7 +2252,7 @@
          x="230.39621"
          y="186.58441"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.58333302px;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.26458332"
-         id="tspan14115-2-3-3-2">dato transmitido</tspan></text>
+         id="tspan14115-2-3-3-2">cadena enviada</tspan></text>
     <path
        style="display:inline;fill:#008000;stroke:#008000;stroke-width:1.05833328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-3-9-3-1-0-2-5)"
        d="m 218.09269,112.62088 -23.57614,8.25333"
