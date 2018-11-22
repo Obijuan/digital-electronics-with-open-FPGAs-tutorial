@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="387.95474mm"
+   height="150.58571mm"
+   viewBox="0 0 387.95474 150.58571"
+   version="1.1"
+   id="svg11290"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="transmisor-01.svg">
+  <defs
+     id="defs11284">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker39366-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path39368-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker31556-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path31558-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker39366"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path39368"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker31556"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path31558"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker15149"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path15151" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="604.21948"
+     inkscape:cy="258.17799"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata11287">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(82.285417,-40.845538)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.44171318;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect15180"
+       width="387.51303"
+       height="150.144"
+       x="-82.06456"
+       y="41.066395"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(82.285417,-40.845538)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="222.65997"
+       y="50.002834"
+       id="text12367"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan12369"
+         x="222.65997"
+         y="50.002834"
+         style="font-size:10.15075016px;line-height:1.25;stroke-width:0.6767168px"> </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3.8085237"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1"
+         x="3.8085237"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.600874"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2"
+         x="31.600874"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="58.767212"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7"
+         x="58.767212"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.904282"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7-6"
+         x="82.904282"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.05551"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2-0-2"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7-6-5"
+         x="108.05551"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.44554"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2-0-2-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7-6-5-8"
+         x="134.44554"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="161.12415"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2-0-2-6-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7-6-5-8-9"
+         x="161.12415"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="184.92757"
+       y="105.34541"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-2-0-2-6-6-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-7-6-5-8-9-3"
+         x="184.92757"
+         y="105.34541"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">bit 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-13.338827"
+       y="102.20055"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-4"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-0"
+         x="-13.338827"
+         y="102.20055"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.6767168px">bit</tspan><tspan
+         sodipodi:role="line"
+         x="-13.338827"
+         y="110.65951"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.6767168px"
+         id="tspan14769">start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.88547"
+       y="102.20055"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-3-4-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-2-0-0"
+         x="218.88547"
+         y="102.20055"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.6767168px">bit</tspan><tspan
+         sodipodi:role="line"
+         x="218.88547"
+         y="110.65951"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;stroke-width:0.6767168px"
+         id="tspan14769-1">stop</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -25.573844,90.094019 V 117.41453 H 0.48367959 V 90.094019 H 26.316579 51.924848 v 27.320511 h 26.05753 V 90.094019 h 25.832902 v 27.320511 h 25.8329 25.60827 V 90.094019 h 25.60828 v 27.320511 h 25.60823 V 90.094019 h 26.26128"
+       id="path14979"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67671669px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15149)"
+       d="M -70.332775,130.35572 H 287.37525"
+       id="path14989"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.35343353;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -25.698699,111.48825 v 53.85877"
+       id="path14991"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0.35108959,117.41453 v 12.54836"
+       id="path14991-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 26.559715,90.094019 V 129.96289"
+       id="path14991-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 51.792248,117.41453 v 12.54836"
+       id="path14991-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 129.96486,117.41453 v 12.54836"
+       id="path14991-3-1-7-8-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 155.12385,117.41453 v 12.54836"
+       id="path14991-3-1-7-8-4-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 180.7321,117.41453 v 12.54836"
+       id="path14991-3-1-7-8-4-5-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 206.56501,117.41453 v 12.54836"
+       id="path14991-3-1-7-8-4-5-0-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.67671669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.35343353;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 233.0519,90.094019 V 165.09824"
+       id="path14991-3-0-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="245.69089"
+       y="144.41499"
+       id="text22935"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan22937"
+         x="245.69089"
+         y="144.41499"
+         style="font-size:10.15075016px;line-height:1.25;stroke-width:0.6767168px">Tiempo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-15.24021"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5"
+         x="-15.24021"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.226822"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-6"
+         x="63.226822"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.53217"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-3-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-6-7"
+         x="114.53217"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="140.10544"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-3-8-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-6-7-7"
+         x="140.10544"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="191.252"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-3-8-6-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-6-7-7-3"
+         x="191.252"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-49.390835"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0"
+         x="-49.390835"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.6767168px">1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -25.539853,89.776349 H -60.802368"
+       id="path31477"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-67.669548"
+       y="72.306648"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-93"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-1"
+         x="-67.669548"
+         y="72.306648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">Línea en </tspan><tspan
+         sodipodi:role="line"
+         x="-67.669548"
+         y="80.76561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px"
+         id="tspan31497">reposo</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.11135,90.053559 h 44.92677"
+       id="path31501"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="243.67307"
+       y="72.306648"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-93-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-1-3"
+         x="243.67307"
+         y="72.306648"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px">Línea en </tspan><tspan
+         sodipodi:role="line"
+         x="243.67307"
+         y="80.76561"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.6767168px"
+         id="tspan31497-4">reposo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.015503"
+       y="168.15697"
+       id="text22935-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan22937-5"
+         x="83.015503"
+         y="168.15697"
+         style="font-size:10.15075016px;line-height:1.25;stroke-width:0.6767168px">Trama</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#008000;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker39366);marker-end:url(#marker31556)"
+       d="M -23.330219,152.98554 H 232.74836"
+       id="path31548"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="252.40549"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-7"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-7"
+         x="252.40549"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;stroke-width:0.6767168px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.934217"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-6"
+         x="11.934217"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="38.216385"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-6-5"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-6-0"
+         x="38.216385"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="88.534378"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-6-5-4"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-6-0-7"
+         x="88.534378"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="166.25768"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-6-5-4-9"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-6-0-7-8"
+         x="166.25768"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="218.37277"
+       y="126.71593"
+       id="text5217-1-5-1-4-3-2-8-5-0-7-78-1-38-6-5-4-9-8"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan5219-7-2-9-40-8-7-6-1-5-6-1-5-0-6-0-7-8-7"
+         x="218.37277"
+         y="126.71593"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.76716757px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#0000ff;stroke-width:0.6767168px">1</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0.35108959,56.988019 v 33.21468"
+       id="path14991-3-16"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.6767168;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.67671675, 1.3534335;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 206.34039,56.988019 v 33.21468"
+       id="path14991-3-16-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <path
+       style="fill:#008000;fill-rule:evenodd;stroke:#008000;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker39366-0);marker-end:url(#marker31556-7)"
+       d="M 1.1134826,70.305746 H 204.48592"
+       id="path31548-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.1206007px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.6767168px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.423096"
+       y="66.885963"
+       id="text22935-6-0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/digital-electronics-with-open-FPGAs-tutorial/wiki/Tutorial-30/transmisor-02.png"><tspan
+         sodipodi:role="line"
+         id="tspan22937-5-5"
+         x="74.423096"
+         y="66.885963"
+         style="font-size:10.15075016px;line-height:1.25;stroke-width:0.6767168px">Dato</tspan></text>
+  </g>
+</svg>
